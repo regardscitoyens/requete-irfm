@@ -1,4 +1,3 @@
-
 % ![](images/logo.png "")
 % **TRIBUNAL ADMINISTRATIF DE PARIS**
 % **REQUÊTE**
@@ -201,7 +200,7 @@ La compétence du juge administratif en ce qui concerne l'accès à un document 
 
 Ainsi la communication des relevés bancaires dédiés aux frais de mandat ne portent pas atteinte aux exercices et missions du mandat parlementaire.
 
-## E- A titre subsidiaire : le député, une « autre personne de droit privé en charge de mission de service public »
+### E- A titre subsidiaire : le député, une « autre personne de droit privé en charge de mission de service public »
 
 L'article L\ 300-2 du code des relations entre le public et les administrations prévoit qu'en plus des « documents produits ou reçus, dans le cadre de leur mission de service public » par l'État et les collectivités territoriales, les documents proviennent d'« autres personnes de droit [...] privé en charge d'une telle mission » soient également communicables.
 
