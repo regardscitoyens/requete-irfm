@@ -5,8 +5,8 @@ IMAGES=$(wildcard images/*)
 
 all: $(PDFS) pdfjoins.mk $(JOINEDPDFS)
 
-%.pdf: %.md $(IMAGES)
-	pandoc --variable=lang:fr -s -S -o $@ $<
+%.pdf: %.md %.head $(IMAGES)
+	pandoc --variable=lang:fr -V geometry:margin=0.8in  -s -S -o $@ $<
 
 pdfjoins.mk: $(PDFS)
 	echo -n "" > $@
@@ -23,5 +23,3 @@ clean:
 	@rm $(PDFS)
 	@rm $(JOINEDPDFS)
 	@rm pdfjoins.mk
-
-
