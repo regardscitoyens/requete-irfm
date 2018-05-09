@@ -6,7 +6,7 @@ IMAGES=$(wildcard images/*)
 all: $(PDFS) pdfjoins.mk $(JOINEDPDFS)
 
 %.pdf: %.md %.head $(IMAGES)
-	pandoc --variable=lang:fr -V geometry:margin=0.8in  -s -S -o $@ $<
+	pandoc --variable=lang:fr -V geometry:margin=1in  -s -S -o $@ $<
 
 pdfjoins.mk: $(PDFS)
 	echo -n "" > $@
