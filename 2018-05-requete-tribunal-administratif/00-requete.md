@@ -8,7 +8,7 @@ header-includes: |
     \pagestyle{fancy}
     \fancyhead[RO,RE]{ }
     \fancyhead[LO,LE]{ }
-    \fancyhead[C]{Requête de Regards Citoyens contre la décision de DEPUTE}
+    \fancyhead[C]{Requête Regards Citoyens / DEPUTE (CADA n° NOAVICADA)}
     \fancyfoot[C]{\thepage \hspace{1pt} / \pageref{LastPage}}
 ---
 
@@ -20,31 +20,41 @@ header-includes: |
 
 > la décision de refus implicite constatée le 16 juillet 2017 de %DEPUTE%
 %OU%
-> la décision de refus explicite en date de %DEPUTE%
+> la décision de refus explicite en date de %DATEREFUS%
+
+
+\ .
+
+\ .
+
+\ .
+
+Saisie de ce refus, la Commission d'Accès aux Documents Administratifs a rendu un avis n° %NOAVICADA% reçu par l'association requérante le %DATERECEPTIONAVIS%.
 
 \newpage
 
 # I. Faits
 
 Le 16 mai 2017, l'association Regards Citoyens, exposante, a sollicité %DEPUTE% , ainsi que 573 autres députés en cours de mandat pour leur demander communication, au titre de l'[article L\ 311-1 du code des relations entre le public et les adminstrations](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033218946&), de deux documents relatifs à l'indemnité représentative de frais de mandat (IRFM) allouée aux députés dans le cadre de leur mandat :
- - d'une part, une copie des relevés bancaires dédiés à leur IRFM entre décembre 2016 et mai 2017 ; et
- - d'autre part, la dernière attestation sur l'honneur du bon usage de cette IRFM qu’ils ont eu obligation de faire parvenir au Bureau de l’Assemblée nationale avant le 31 janvier 2017 (obligation prévue, au moment de la demande, à [l'article 32 bis III de l’Instruction générale du Bureau de l’Assemblée nationale](https://web.archive.org/web/20170509002822/http://www.assemblee-nationale.fr/connaissance/instruction.asp#igb_32bis) ).
 
-Sur l'ensemble des députés sollicités, 7 députés ont fait le choix de répondre favorablement à notre demande. C'est 550 députés qui n'ont pas répondu à nos demandes, malgré relance par lettre recommandée avec accusé de réception que nous avons pu [adresser à plus de 263 d'entre eux](https://irfm.regardscitoyens.org/?) et 17 ont répondu négativement.
+ - d'une part, une copie des relevés bancaires dédiés à leur IRFM entre décembre 2016 et mai 2017 ; et
+ - d'autre part, la dernière attestation sur l'honneur du bon usage de cette IRFM qu’ils ont eu obligation de faire parvenir au Bureau de l’Assemblée nationale avant le 31 janvier 2017 (obligation prévue, au moment de la demande, à [l'article 32 bis III de l’Instruction générale du Bureau de l’Assemblée nationale](https://web.archive.org/web/20170509002822/http://www.assemblee-nationale.fr/connaissance/instruction.asp#igb_32bis)).
+
+Sur l'ensemble des députés sollicités, 7 ont fait le choix de répondre favorablement à notre demande. C'est 550 députés qui n'ont pas répondu à nos demandes, malgré relance par lettre recommandée avec accusé de réception que nous avons pu [adresser à plus de 263 d'entre eux](https://irfm.regardscitoyens.org/?) et 17 ont répondu négativement.
 
 Le 20 juillet 2017, l'association requérante a constaté que %DEPUTE% n'avait pas accédé à sa demande de communication de document.
 %OU%
-Par réponse reçue le %DATEREPONSE%, %DEPUTE% n'a pas répondu favorable à la communication des documents demandé. Dans cette réponse, ni les délais et ni les voies de recours n'ont pas été précisés à l'Association requérante.
+Par réponse reçue le %DATEREPONSE%, %DEPUTE% n'a pas répondu favorablement à la communication des documents demandé. Dans cette réponse, ni les délais et ni les voies de recours n'ont pas été précisés à l'Association requérante.
 
-Le 20 juillet 2017, l'association a sollicité la Commission d'accès aux documents administratifs, afin qu'elle rende un avis sur ce refus et celui des 566 autres députés.
+Le 20 juillet 2017, l'association a sollicité la Commission d'accès aux documents administratifs, afin qu'elle rende un avis sur ce refus et celui des 567 autres députés.
 
-Contre toute attente, dans des avis du 21 septembre 2017, la Commission d'accès aux documents administratifs s'est déclarée incompétente. L'avis relatif à la demandé adressée à %DEPUTE% est parvenu à l'association exposante le %DATERECEPTIONAVIS%.
+Contre toute attente, dans des avis du 21 septembre 2017, la Commission d'accès aux documents administratifs s'est déclarée incompétente. L'avis relatif à la demande adressée à %DEPUTE% est parvenu à l'association exposante le %DATERECEPTIONAVIS%.
 
 # II. Sur la recevabilité du présent recours
 
 L'article 2 des statuts de Regards Citoyens prévoit que l'association « a pour objet de renforcer l’éducation et l’engagement civique en promouvant par la pratique le libre accès aux données publiques et leur réutilisation, notamment pour des usages citoyens ou de valorisation des institutions ».
 
-Comme l'association a pu le démontrer lors de la publication des documents relatifs à l'usage de l'IRFM des 7 députés ayant respecté leur obligation légale, la publicité des informations relatives aux frais de mandats a un effet très positif sur la revalorisation du statut des parlementaires. En montrant concrètement, dépense par dépense, pourquoi cette somme d'argent est allouée aux parlementaires et comment ce budget sert le mandat des représentants du peuple, la transparence de ces informations publiques a permis, pour ces 7 députés, de participer à rétablir la confiance entre citoyens et institution. Elle a également permis de montrer que, s'il existe des mésusages des frais mis à disposition des parlementaires à l'image des scandales liés à Messieurs Fillon ou Tourret, ils sont minoritaires et ne sauraient entacher l'ensemble des parlementaires.
+Comme l'association a pu le démontrer lors de la publication des documents relatifs à l'usage de l'IRFM des 7 députés ayant respecté leur obligation légale, la publicité des informations relatives aux frais de mandats a un effet très positif sur la revalorisation du statut des parlementaires. En montrant concrètement, dépense par dépense, pourquoi cette somme d'argent est allouée aux parlementaires et comment ce budget sert le mandat des représentants du peuple, la transparence de ces informations publiques a permis, pour ces 7 députés, de participer à rétablir la confiance entre citoyens et institution. Elle a également permis de montrer que, si les scandales liés à Messieurs Fillon ou Tourret ont pu laisser penser qu'il existe des mésusages liés aux frais mis à disposition des parlementaires, ils sont certainement que minoritaires et ne sauraient entacher l'ensemble des parlementaires.
 
 Il est à noter que parmi les 7 députés ayant répondu positivement à notre demande, on trouve notamment Dominique Raimbourg, le président de la commission des lois au moment des faits, et Joël Giraud, l'actuel rapporteur général de la commission des finances.
 
@@ -80,15 +90,19 @@ Le juge administratif, notamment dans sa décision prise par la cour administrat
 
 C'est le cas pour les documents comptables demandés relatifs aux frais de mandat qui doivent nécessairement être considérés comme des pièces justificatives de la comptabilité.
 
-En effet, les relevés bancaires demandés contiennent uniquement des éléments comptables liés à l'utilisation des frais de mandat. Ils ne peuvent pas être considérés comme des dépenses personnelles ou liées à des activités autres que celle de membre du Parlement puisqu'ils sont versés sur un compte bancaire dédié et leur usage est strictement règlementé.
+#### 1) Les frais de mandats : versés sur un compte bancaire dédié
+
+Les relevés bancaires demandés contiennent uniquement des éléments comptables liés à l'utilisation des frais de mandat. Ils ne peuvent pas être considérés comme des dépenses personnelles ou liées à des activités autres que celle de membre du Parlement puisqu'ils sont versés sur un compte bancaire dédié et leur usage est strictement règlementé.
 
 En effet, les députés bénéficient d'un budget alloué mensuellement afin de couvrir les dépenses liées à leurs missions de membre du Parlement. Au moment des faits, ce budget était nommé «\ indemnité représentative de frais de mandat\ » (IRFM). L'emploi de cet argent public était réglementé, à l'époque des faits, par l'[Instruction générale du Bureau de l'Assemblée nationale](https://web.archive.org/web/20170509002822/http://www.assemblee-nationale.fr/connaissance/instruction.asp#igb_32bis)  et le [Règlement budgétaire et financiers](https://web.archive.org/web/20180422160547/http://www2.assemblee-nationale.fr/static/comptes/2016-07-18%20Rapport%20RBCF.pdf?) de la même Assemblée.
 
 L'article\ 57 de son Règlement budgétaire, comptable et financier prévoyait : l'IRFM « est versée sur un compte bancaire ou postal personnel, distinct de ceux sur lesquels sont versés l’indemnité parlementaire ». Les députés n'ayant pas d'autres obligations comptables, les relevés bancaires de ces comptes dédiés sont les seules pièces de la comptabilité justifiant de l'usage des deniers publics qui sont confiées aux députés.
 
+#### 2) Des dépenses strictement liées au mandat parlementaire
+
 De plus, l'[article 32bis de l'Instruction générale du Bureau](https://web.archive.org/web/20170509002822/http://www.assemblee-nationale.fr/connaissance/instruction.asp#igb_32bis) indiquait : « Peuvent être imputés sur l’indemnité représentative de frais de mandat : 1° Les frais liés à la permanence et à l’hébergement du député ; 2° Les frais de transport du député et de ses collaborateurs ; 3° Les frais de communication ; 4° Les frais de représentation et de réception ; 5° Les frais de formation du député et de ses collaborateurs. ».
 
-Enfin, l'article 56 du Règlement Budgétaire et Financier prévoit que le « montant non utilisé de l’indemnité représentative de frais de mandat par le député est reversé à l’Assemblée nationale à la fin de son mandat ». En prévoyant une telle obligation, cet article confirme que ces budgets doivent nécessairement être liés à l'exercice des activités de membre du Parlement.
+Enfin, l'article 56 du Règlement Budgétaire et Financier prévoit que le «\ montant non utilisé de l’indemnité représentative de frais de mandat par le député est reversé à l’Assemblée nationale à la fin de son mandat\ ». En prévoyant une telle obligation, cet article confirme que ces budgets doivent nécessairement être liés à l'exercice des activités de membre du Parlement.
 
 En fixant la liste exhaustive des utilisations possibles de cette allocation budgétaire versée sur un compte dédié, ces dispositions garantissent donc que les dépenses effectuées sur le budget IRFM sont strictement liées au mandat du membre du Parlement et ne peuvent pas être liées à d'autres responsabilités publiques ou privées que pourraient avoir les députés ni à leur vie personnelle.
 
@@ -96,7 +110,7 @@ Dès lors, les relevés bancaires du compte IRFM sont des pièces justificatives
 
 ### B- Le membres du Parlement sont soumis au droit d'accès aux documents administratifs
 
-En ne répondant pas à la demande de l'association requérante, %DEPUTE% a estimé ne pas être soumis aux dispositions relatives au droit d'accès aux documents administrations. Il s'agit d'une erreur d'interprétation. En effet, le membre du Parlement est un organe de l'État et ce à plusieurs titres. D'une part, ces missions sont définies par la Constitution de 1958 et d'autre part, elles participent à l'exercice de la souveraineté nationale. Le juge judiciaire et le législateur ont d'ailleurs  reconnu la mission de service public des membres du Parlement.
+En ne répondant pas à la demande de l'association requérante, %DEPUTE% a estimé que les documents demandés ne sont pas soumis aux dispositions relatives au droit d'accès aux documents administrations. Il s'agit d'une erreur d'interprétation. En effet, le membre du Parlement est un organe de l'État et ce à plusieurs titres. D'une part, ces missions sont définies par la Constitution de 1958 et d'autre part, elles participent à l'exercice de la souveraineté nationale. Le juge judiciaire et le législateur ont d'ailleurs  reconnu la mission de service public des membres du Parlement.
 
 %DEPUTE%, en tant que membre du Parlement doit donc répondre positivement aux demandes concernant l'accès aux documents liés au frais de mandat puisqu'il doit être considéré, au sens de l'alinéa 1 de l'article L 300-2 du code des relations entre le public et l'administration, comme exerçant une « mission de service public [d]'État ».
 
@@ -124,7 +138,7 @@ Par les prérogatives conférées aux membres du Parlement par la Constitution, 
 
 #### 3) Les membres du Parlement chargés de mission de service public selon le juge judiciaire
 
-Le juge judiciaire n'a pas hésité à qualifier les députés de « personne chargée d'une mission de service public ».
+Le juge judiciaire n'a pas hésité à qualifier les députés de «\ personne chargée d'une mission de service public\ ».
 
 En effet, dans au moins quatre décisions concernant les députés (ou anciens députés) ([Ciotti](http://www.nicematin.com/justice/condamne-pour-avoir-menace-eric-ciotti-sur-twitter-108703?), [NKM](http://www.bfmtv.com/police-justice/agression-de-nkm-qui-est-l-homme-en-garde-a-vue-et-que-risque-t-il-1188360.html?), [Pajot](https://www.lemonde.fr/police-justice/article/2017/10/11/agression-d-un-depute-fn-la-piste-des-antifas-se-degonfle_5199645_1653578.html?), [Rossi](https://www.lemonde.fr/la-republique-en-marche/article/2017/07/31/l-agresseur-d-une-deputee-en-marche-condamne-a-un-mois-d-emprisonnement-ferme_5167179_5126036.html?)) et notamment celle du tribunal correctionnel de Paris dans son [jugement n° 17 170 0293 du 7 septembre 2017](https://www.regardscitoyens.org/documents/20170709%20NKM%20Jugement.pdf?), le juge a retenu cette qualité aux députés comme circonstance aggravante à des infractions dont ils avaient été victimes : au 7° de l'[article 222-13 du code pénal](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006417637&) est prévue une circonstance aggravante pour les violences ayant entraîné une incapacité de travail inférieure ou égale à huit jours ou n'ayant entraîné aucune incapacité de travail lorsque cette infraction est commise sur « une personne [...] chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ».
 
@@ -138,7 +152,7 @@ Le législateur a lui-même admis que le Parlement et leurs membres entrent natu
 
 En effet, il a consacré une exception à l'alinéa 2 de l'article L\ 300-2 pour les documents «\ produits ou reçus par les assemblées parlementaires\ ».
 
-Il ne fait donc aucun doute que le Parlement est *de facto* considéré comme l'État et que, comme il sera démontré ensuite, les membres du Parlement se distinguent du Parlement pour certains actes. Ainsi il existe bien des cas dans lesquels les documents administratifs ne sont pas concernés par cette exception : lorsque les assemblées parlementaires ne produisent ou ne reçoivent pas ces documents, c'est-à-dire lorsqu'elles n'ont pas connaissance de leur contenu.
+Il ne fait donc aucun doute que le Parlement est *de facto* considéré comme l'État et que, comme il sera démontré ensuite, les membres du Parlement se distinguent des assemblées parlementaires pour certains actes. Ainsi il existe bien des cas dans lesquels les documents administratifs ne sont pas concernés par cette exception : lorsque les assemblées parlementaires ne produisent ou ne reçoivent pas ces documents, c'est-à-dire lorsqu'elles n'ont pas connaissance de leur contenu.
 
 Afin de pouvoir bénéficier de cette exception, %DEPUTE% aurait du démontrer que ces documents auraient été produits ou reçus par une des assemblée parlementaire, ce qui n'est pas le cas en l'espèce.
 
@@ -152,7 +166,7 @@ Une analyse matérielle des actes accomplis doit être retenue. Si dans un premi
 
 #### 1) L'accès aux documents administratifs, une liberté fondamentale
 
-Le refus du %DEPUTE% de communiquer à l'association requérente les documents liés aux frais de mandat porte atteinte à son droit à l'information constitutionnellement garanti. En effet, si l'alinéa 2 de [l'article L\ 300-2 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033218936&cidTexte=LEGITEXT000031366350&dateTexte=20170506&) prévoit que, pour toutes les personnes chargées de mission de service public, les « actes et documents produits ou reçus par les assemblées parlementaires sont régis par l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. », cette exception doit être interprétée strictement puisqu'aucun article de cette ordonance n'organise le droit d'accès à ces documents. La doctrine souligne d'ailleurs régulièrement le déni de justice qu'est susceptible de constituer l'immunité juridictionnelle des assemblées parlementaires (v. notamment note Morange, sur Vouters et Vuillemey, Penant 1952, p. 62 ; Quermonne, D. 1952, p. 217 ; A. de Laubadère, suppl. à la 2e édition du Traité de droit administratif, 1960, n° 15 ; L. Favoreu, Du déni de justice en droit public français, LGDJ, 1965, p. 98 et ss.).
+Le refus de %DEPUTE% de communiquer à l'association requérente les documents liés aux frais de mandat porte atteinte à son droit à l'information constitutionnellement garanti. En effet, si l'alinéa 2 de [l'article L\ 300-2 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033218936&cidTexte=LEGITEXT000031366350&dateTexte=20170506&) prévoit que, pour toutes les personnes chargées de mission de service public, les « actes et documents produits ou reçus par les assemblées parlementaires sont régis par l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. », cette exception doit être interprétée strictement puisqu'aucun article de cette ordonance n'organise le droit d'accès à ces documents. La doctrine souligne d'ailleurs régulièrement le déni de justice qu'est susceptible de constituer l'immunité juridictionnelle des assemblées parlementaires (v. notamment note Morange, sur Vouters et Vuillemey, Penant 1952, p. 62 ; Quermonne, D. 1952, p. 217 ; A. de Laubadère, suppl. à la 2e édition du Traité de droit administratif, 1960, n° 15 ; L. Favoreu, Du déni de justice en droit public français, LGDJ, 1965, p. 98 et ss.).
 
 Le refus de communiquer ces documents porte atteinte aux droits garantis par l'article 15 de la [déclaration des droits de l'homme et du citoyen de 1789](https://www.legifrance.gouv.fr/Droit-francais/Constitution/Declaration-des-Droits-de-l-Homme-et-du-Citoyen-de-1789?) qui prévoit que\ : « La société a le droit de demander compte à tout agent public de son administration ». Ce principe de libre accès à l'information a été consolidé par le Conseil constitutionnel. Ainsi ce dernier a affirmé dans la [récente décision du 2 décembre 2016 no 2016-599 QPC](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2016/2016-599-qpc/decision-n-2016-599-qpc-du-2-decembre-2016.148284.html?) que ce principe de redevabilité appartient à la catégorie des droits et libertés que la Constitution garantit et qu'il est donc invoquable devant lui. Saisi sur la question de son champ d'application, le Conseil constitutionnel a entendu donner à ce droit une portée large puisqu'il a considéré dans la [décision du 15 septembre 2017 no 2017-655 QPC](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-655-qpc/decision-n-2017-655-qpc-du-15-septembre-2017.149745.html?) que cet article garantit le droit d'accès aux documents d'archives publiques.
 
@@ -164,9 +178,9 @@ En refusant de donner l'accès à des documents administratifs, sans aucune just
 
 Le député est chargé d'une mission de service public, mission pour laquelle le constituant et le Parlement lui ont attribué différents types de moyens : les moyens assurés directement par le Parlement (organisation des commissions et de la séance publique, locaux à l'assemblée, ...), les moyens pour lesquels le Parlement agit sur demande du membre du Parlement (achats informatiques, gestion des côtisations sociales des collaborateurs parlementaires), les moyens pour lesquels le parlementaire est autonome (embauche de ses collaborateurs parlementaires, utilisations de ses frais de mandat). Face à la diversité de ces actions et de ces activités, plusieurs types de règles juridiques doivent donc s'appliquer.
 
-Ainsi, les députés sont des employeurs de droit privé lorsqu'ils embauchent leurs collaborateurs. En effet, comme le prévoyait l'article 5 de la [résolution du 28 novembre 2014](http://www.assemblee-nationale.fr/14/ta/ta0437.asp?) «\ Les députés peuvent employer sous contrat de droit privé des collaborateurs parlementaires, qui les assistent dans l’exercice de leurs fonctions et dont ils sont les seuls employeurs. Ils bénéficient à cet effet d’un crédit affecté à la rémunération de leurs collaborateurs.\ ». Ce principe d'application du droit privé a été réaffirmé dans l'article 12 de la [loi relative à la transparence de la vie publique du 15 septembre 2017](https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte?). En cas de conflits, ce n'est pas l'assemblée parlementaire qui est attraite devant le juge, mais le député, qui est assigné, en tant qu'employeur de droit privé, devant le conseil des prud'hommes (sur ce point, v. notamment les [arrêts n°09-41.543 et 09-41.544 de la chambre sociale de la Cour de cassation du 29 septembre 2010](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000022884049&)).
+Ainsi, les députés sont des employeurs de droit privé lorsqu'ils embauchent leurs collaborateurs. En effet, comme le prévoit l'aliéna 2 de l'article 18 du [Règlement de l'Assemblée nationale](http://www.assemblee-nationale.fr/connaissance/reglement_2015_01.pdf?) «\ Les députés peuvent employer sous contrat de droit privé des collaborateurs parlementaires, qui les assistent dans l’exercice de leurs fonctions et dont ils sont les seuls employeurs. Ils bénéficient à cet effet d’un crédit affecté à la rémunération de leurs collaborateurs.\ ». Ce principe d'application du droit privé a été réaffirmé dans l'article 12 de la [loi relative à la transparence de la vie publique du 15 septembre 2017](https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte?). En cas de conflits, ce n'est pas l'assemblée parlementaire qui est attraite devant le juge, mais le député, qui est assigné, en tant qu'employeur de droit privé, devant le conseil des prud'hommes (sur ce point, v. notamment les [arrêts n°09-41.543 et 09-41.544 de la chambre sociale de la Cour de cassation du 29 septembre 2010](https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000022884049&)).
 
-Dans d'autres situations, les députés sont considérés comme des personnes physiques. En effet, dans un arrêt du 6 novembre 2012, la cour d'appel de Nancy a validé le compromis de vente signé par une députée souhaitant installer sa permanence parlementaire, financée par son IRFM, sans que sa qualité de députée ne soit prise en compte.
+Dans d'autres situations, les députés sont considérés comme des personnes physiques. En effet, dans un arrêt du 6 novembre 2012, la cour d'appel de Nancy a validé le compromis de vente signé par une députée souhaitant installer sa permanence parlementaire, financée par son IRFM, sans que des règles dérogatoires liées à l'usage des frais de mandat ou sa qualité de députée ne soient prises en compte.
 
 Par ailleurs, les députés bénéficient en principe d'une immunité, qui leur assure un régime juridique dérogatoire au droit commun dans leurs rapports avec la justice afin de préserver leur indépendance. Cette immunité est encadrée par l'[article 41 de la loi du 29 juillet 1881](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006419785&cidTexte=LEGITEXT000006070722&dateTexte=20080312&) puisqu'elle ne concerne que les discours tenus au sein du Parlement ou les rapports et autres documents imprimés par ordre des assemblées, ainsi que les comptes rendus des séances publiques tenues par ces assemblées. Elle ne fait jamais l'objet d'une interprétation extensive (sur ce point, v. notamment l'arrêt de la Chambre criminelle du 24 nov. 1960, *Bull. crim. n° 551*).
 
@@ -178,7 +192,7 @@ Comme nous allons le voir, aucune exception prévue par l'[article L\ 300-2 du c
 
 Pour pouvoir valablement invoquer l'exception prévue par l'alinéa 2 de l'article L\ 300-2, les députés auraient du démontrer que la comptabilité des frais de mandat est liée aux missions des assemblées parlementaires ou que celle-ci a été produite ou reçue par l'Assemblée nationale. Une telle démonstration est impossible pour plusieurs raisons.
 
-Tout d'abord, le Conseil constitutionnel dans sa [décision du ](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2014/2014-705-dc/decision-n-2014-705-dc-du-11-decembre-2014.142832.html?) a rappelé les missions des assemblées parlementaires. Au considérant 8, il indique que les assemblées parlementaires ne peuvent agir que sur le fondement des dispositions relatives la « procédure législative », le « contrôle de l'action du Gouvernement » et « l'organisation et le fonctionnement de l'Assemblée ».
+Tout d'abord, le Conseil constitutionnel dans sa [décision n° 2014-705 DC du 11 décembre 2014](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2014/2014-705-dc/decision-n-2014-705-dc-du-11-decembre-2014.142832.html?) a rappelé les missions des assemblées parlementaires. Au considérant 8, il indique que les assemblées parlementaires ne peuvent agir que sur le fondement des dispositions relatives la « procédure législative », le « contrôle de l'action du Gouvernement » et « l'organisation et le fonctionnement de l'Assemblée ».
 
 Il est évident que les frais de mandats ne rentrent pas dans les catégories « procédure législative » et « contrôle de l'action du Gouvernement ». La question se pose donc seulement pour « l'organisation et le fonctionnement de l'Assemblée ».
 
@@ -196,11 +210,11 @@ Par suite, les relevés bancaires des comptes dédiés aux frais de mandat n'ent
 
 #### 4) Un raisonnement validé par la Commission d'Accès aux Documents Administratif
 
-La Commission d'Accès aux Documents Administratifs (CADA) est très vigilente quant au respect de l'exception relative aux assemblée parlementaires. Dès qu'elle est saisie pour avis d'une demande liée à des documents produits ou reçus par une assemblée parlementaire, elle oppose cet argument pour se déclarer incompétente (avis n° [20124324](https://cada.data.gouv.fr/20124324/?) et [20124138](https://cada.data.gouv.fr/20124138/?) concernant la copie de la liste des rattachements des sénateurs et députés aux partis politiques bénéficiant de la première fraction d'aide publique, avis n° [20142698](https://cada.data.gouv.fr/20142698/?) concernant « communication de l'entier règlement de la caisse des retraites du personnel du Sénat », avis n° [20143027](https://cada.data.gouv.fr/20143027/?) concernant la consultation de documents « issus de la commission d'enquête relative aux activités de résistants des membres du SAC de la Loire », avis n° [20143118](https://cada.data.gouv.fr/20143118/?) concernant des documents suivants concernant le marché public ayant pour objet le nettoyage des locaux du Palais Bourbon).
+La Commission d'Accès aux Documents Administratifs (CADA) est très vigilente quant au respect de l'exception relative aux assemblée parlementaires. Dès qu'elle est saisie pour avis d'une demande liée à des documents produits ou reçus par une assemblée parlementaire, elle oppose cet argument pour se déclarer incompétente (avis n° [20124324](https://cada.data.gouv.fr/20124324/?) et [20124138](https://cada.data.gouv.fr/20124138/?) concernant une demande de «\ copie de la liste des rattachements des [sénateurs et députés] aux partis politiques bénéficiant de la première fraction d'aide publique\ », avis n° [20142698](https://cada.data.gouv.fr/20142698/?) concernant la «\ communication de l'entier règlement de la caisse des retraites du personnel du Sénat\ », avis n° [20143027](https://cada.data.gouv.fr/20143027/?) concernant la consultation de documents «\ issus de la commission d'enquête relative aux activités de résistants des membres du SAC de la Loire\ », avis n° [20143118](https://cada.data.gouv.fr/20143118/?) concernant des documents liés au «\ marché public ayant pour objet le nettoyage des locaux du Palais Bourbon\ »).
 
 Or tel n'a pas été la raison invoquée par la CADA dans la procédure sur laquelle vous êtes invité à vous prononcer.
 
-Elle s'est contenté d'étudier un argument juridique beaucoup plus faible relatif aux « autres personnes des droit privée chargée de mission de service public ».
+Elle s'est contenté d'étudier un argument juridique beaucoup plus faible relatif aux « personnes des droit privée chargée de mission de service public ».
 
 ### D- De la compétence du juge administratif
 
@@ -212,17 +226,17 @@ Comme il va être démontré en se limitant à analyser la qualification du dép
 
 Dans l'affaire qu'il vous est donné de juger, la CADA s'est invoquée incompétente.
 
-Pour arguer de son incompétence, la CADA n'a étudié qu'un seul des quatre organes soumis aux dispositions de l'article L\ 300-2 du code des relations entre le public et l'administration : les personnes de droit privé chargées d'une mission de service public. En effet, celle-ci aurait du chercher à déterminer si le député pouvait être qualifié comme un autre des organes soumi aux dispositions de l'accès aux documents administratifs.
+Pour arguer de son incompétence, la CADA n'a étudié qu'un seul des quatre organes soumis aux dispositions de l'article L\ 300-2 du code des relations entre le public et l'administration : les personnes de droit privé chargées d'une mission de service public. Or, pour se déclarer valablement incompétente, celle-ci aurait du chercher à déterminer que le député ne pouvait pas non plus être qualifié d'un autre des organes soumi aux dispositions de l'accès aux documents administratifs.
 
-L'article L\ 300-2 du code des relations entre le public et l'administration prévoit en effet que parmi les organes soumis aux dispositions relatives à l'accès aux documents administratif, l'on trouve bien les personnes de droit privé chargées d'une mission de service public mais aussi « l'État, les collectivités territoriales ainsi que par les autres personnes de droit public ».
+L'article L\ 300-2 du code des relations entre le public et l'administration prévoit en effet que parmi les organes soumis aux dispositions relatives à l'accès aux documents administratif, l'on trouve bien les personnes de droit privé chargées d'une mission de service public mais aussi « l'État, les collectivités territoriales ainsi que par les autres personnes de droit public ». Or, ces trois autres organes n'ont pas pas été écartés par la CADA.
 
-En s'abstenant d'analyser ces trois autres organes, tant autant soumis aux dispositions du droit d'accès, l'avis de la CADA ne pourra valablement être invoqué pour affirmer que la juridiction administrative doit se déclarer incompétente dans la présente affaire.
+En s'abstenant d'analyser ces trois autres organes, tout autant soumis aux dispositions du droit d'accès, l'avis de la CADA ne pourra valablement être invoqué pour affirmer que la juridiction administrative doit se déclarer incompétente dans la présente affaire.
 
 #### 2) le député, une personne de droit privé en charge de mission de service public
 
-L'article L\ 300-2 du code des relations entre le public et les administrations prévoit qu'en plus des « documents produits ou reçus, dans le cadre de leur mission de service public » par l'État et les collectivités territoriales, les documents provenant d'« autres personnes de droit [...] privé en charge d'une telle mission » doivent également communicables.
+L'article L\ 300-2 du code des relations entre le public et les administrations prévoit qu'en plus des « documents produits ou reçus, dans le cadre de leur mission de service public » par l'État et les collectivités territoriales, les documents provenant de « personnes de droit [...] privé en charge d'une telle mission » sont également communicables.
 
-Constante depuis les années 60, notamment avec les arrêts du Conseil d'État dits « [Magnier](http://www.marche-public.fr/Marches-publics/Textes/Jurisprudence/CE-magnier-1961-01-13.htm?) » et « [Narcy](http://jurischrono.free.fr/textes/decisionCE-1963_06_28-Narcy.html?) », confirmés par l'arrêt du Conseil d'État du 22 février 2007 « Association du personnel relevant des établissements pour inadaptés (APREI) », la jurisprudence établit trois critères pour définir qu'une personne privée est en charge d'une mission de service public\ :
+Constante depuis les années 60, notamment avec les arrêts du Conseil d'État dits «\ [Magnier](http://www.marche-public.fr/Marches-publics/Textes/Jurisprudence/CE-magnier-1961-01-13.htm?)\ » et «\ [Narcy](http://jurischrono.free.fr/textes/decisionCE-1963_06_28-Narcy.html?)\ », confirmés par l'arrêt du Conseil d'État du 22 février 2007 «\ Association du personnel relevant des établissements pour inadaptés (APREI)\ », la jurisprudence établit trois critères pour définir qu'une personne privée est en charge d'une mission de service public\ :
 
  - un objet d'intérêt général ;
  - la présence d’au moins une des prérogatives de puissance publique montrant un rapport d’autorité et non d’égalité ;
@@ -234,7 +248,9 @@ Dans son avis lié à cette requête, la CADA a considéré que « l’exercice 
 
 C'est sur le dernier critère que l'analyse de la CADA est contestable.
 
-En effet, la [loi organique du 11 octobre 2013](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056223&) prévoit notamment par l'introduction des dispositions de l'[article LO 135-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028059563&cidTexte=LEGITEXT000006070239&) que la Haute autorité pour la transparence de la vie publique contrôle les parlementaires quant à leur enrichissement et à la déclaration de leurs intérêts.
+En effet, de part les missions qui leur sont confiés par la constitution, il ne fait aucun doute que les pouvoirs des membres du Parlement ont été consentis par une personne publique.
+
+Mais il y a plus, la [loi organique du 11 octobre 2013](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056223&) prévoit notamment par l'introduction des dispositions de l'[article LO 135-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000028059563&cidTexte=LEGITEXT000006070239&) que la Haute autorité pour la transparence de la vie publique contrôle les parlementaires quant à leur enrichissement et à la déclaration de leurs intérêts.
 
 A ce titre, il semble important de rappeler que le Conseil constitutionnel dans sa décision 2013-675 DC du 9 octobre 2013 a considéré « que le principe de la séparation des pouvoirs ne fait pas obstacle à ce qu'une autorité administrative soit chargée de contrôler la variation de la situation patrimoniale des députés et des sénateurs ».
 
@@ -264,7 +280,7 @@ Au moment des faits, le III de l'[article 32 bis de l'Instruction générale du 
 
 Lorsqu'il s'adresse au Président de l'Assemblée nationale, le député agit dans le cadre de ses fonctions constitutionnelles. Ainsi, d'après les arguments exposés précédemment, il est « l'État ».
 
-Contrairement aux relevés bancaires du compte dédié à l'usage de ses frais de mandats, cette déclaration sur l'honneur n'est pas communicable selon les principes généraux des dispositions évoquées précédemment mais, d'après l'alinéa 2 de l'article L\ 300-2 du code des relations entre le public et l'administration, selon « l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires ».
+Contrairement aux relevés bancaires du compte dédié à l'usage de ses frais de mandats, cette déclaration sur l'honneur n'est pas communicable selon les principes généraux des dispositions évoquées précédemment mais, d'après l'alinéa 2 de l'article L\ 300-2 du code des relations entre le public et l'administration, selon «\ l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires ».
 
 De cette ordonnance découle le code de déontologie de l'Assemblée nationale.
 
@@ -298,7 +314,7 @@ L'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des asse
 
 **Plaise au Tribunal administratif de Paris :**
 
- - d’annuler la décision de refus de %DEPUTE% concernant la communication de 6 relevés bancaires de son compte IRFM
- - d'annuler la décision de refus de la déclaration sur l'honneur transmise au président de l'Assemblée nationale,
+ - d’annuler la décision de refus de %DEPUTE% concernant la communication de 6 relevés bancaires de son compte IRFM,
+ - d'annuler sa décision de refus de communiquer la déclaration sur l'honneur transmise au président de l'Assemblée nationale en janvier 2017,
  - d’ordonner la communication desdits documents au requérant, sous astreinte d’une somme à la charge de chaque membre du Parlement par jour de retard, laissée à la libre appréciation du juge administratif,
  - de condamner %DEPUTE% à lui payer la somme de un euro sur le fondement de l’article L. 761-1 du Code de justice administrative.
