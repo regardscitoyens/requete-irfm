@@ -1,568 +1,568 @@
-num;nom;sexe;refus;demande;bordereau;avis_cada;date_cada
-001;Damien Abad;H;NONE;demande-irfm-damien-abad.pdf;NONE;avis-cada-20173424.pdf;24/11/2017
-002;Laurence Abeille;F;NONE;demande-irfm-laurence-abeille.pdf;preuve-envoi-laurence-abeille.jpg;avis-cada-20173423.pdf;24/11/2017
-003;Ibrahim Aboubacar;H;NONE;demande-irfm-ibrahim-aboubacar.pdf;NONE;avis-cada-20173422.pdf;24/11/2017
-004;�lie Aboud;H;NONE;demande-irfm-elie-aboud.pdf;NONE;avis-cada-20173420.pdf;24/11/2017
-005;Bernard Accoyer;H;NONE;demande-irfm-bernard-accoyer.pdf;preuve-envoi-bernard-accoyer.jpg;avis-cada-20173421.pdf;24/11/2017
-006;Patricia Adam;F;NONE;demande-irfm-patricia-adam.pdf;preuve-envoi-patricia-adam.pdf;avis-cada-20173419.pdf;24/11/2017
-007;Sylviane Alaux;F;NONE;demande-irfm-sylviane-alaux.pdf;NONE;avis-cada-20173418.pdf;24/11/2017
-008;�ric Alauzet;H;REFUS;demande-irfm-eric-alauzet.pdf;NONE;avis-cada-20173404.pdf;24/11/2017
-009;Yves Albarello;H;NONE;demande-irfm-yves-albarello.pdf;NONE;avis-cada-20173417.pdf;24/11/2017
-010;Jean-Pierre Allossery;H;NONE;demande-irfm-jean-pierre-allossery.pdf;NONE;avis-cada-20173416.pdf;24/11/2017
-011;Nicole Ameline;F;NONE;demande-irfm-nicole-ameline.pdf;NONE;avis-cada-20173411.pdf;24/11/2017
-012;Pouria Amirshahi;H;NONE;demande-irfm-pouria-amirshahi.pdf;NONE;avis-cada-20173410.pdf;24/11/2017
-013;Fran�ois Andr�;H;NONE;demande-irfm-francois-andre.pdf;NONE;avis-cada-20173409.pdf;24/11/2017
-014;Sylvie Andrieux;F;NONE;demande-irfm-sylvie-andrieux.pdf;preuve-envoi-sylvie-andrieux.pdf;avis-cada-20173518.pdf;24/11/2017
-015;Benoist Apparu;H;NONE;demande-irfm-benoist-apparu.pdf;NONE;avis-cada-20173613.pdf;24/11/2017
-016;Nathalie App�r�;F;NONE;demande-irfm-nathalie-appere.pdf;preuve-envoi-nathalie-appere.jpg;avis-cada-20173612.pdf;24/11/2017
-017;Kader Arif;H;NONE;demande-irfm-kader-arif.pdf;NONE;avis-cada-20173611.pdf;24/11/2017
-018;Laurence Arribag�;F;NONE;demande-irfm-laurence-arribage.pdf;NONE;avis-cada-20173610.pdf;24/11/2017
-019;Fran�ois Asensi;H;NONE;demande-irfm-francois-asensi.pdf;NONE;avis-cada-20173609.pdf;24/11/2017
-020;Christian Assaf;H;NONE;demande-irfm-christian-assaf.pdf;preuve-envoi-christian-assaf.pdf;avis-cada-20173608.pdf;24/11/2017
-021;Julien Aubert;H;REFUS;demande-irfm-julien-aubert.pdf;NONE;avis-cada-20173883.pdf;23/11/2017
-022;Olivier Audibert Troin;H;NONE;demande-irfm-olivier-audibert-troin.pdf;NONE;avis-cada-20173604.pdf;24/11/2017
-023;Danielle Auroi;F;NONE;demande-irfm-danielle-auroi.pdf;NONE;avis-cada-20173605.pdf;24/11/2017
-024;Pierre Aylagas;H;NONE;demande-irfm-pierre-aylagas.pdf;NONE;avis-cada-20173606.pdf;24/11/2017
-025;Bruno Nestor Azerot;H;NONE;demande-irfm-bruno-nestor-azerot.pdf;preuve-envoi-bruno-nestor-azerot.jpg;avis-cada-20173607.pdf;24/11/2017
-026;Alexis Bachelay;H;NONE;demande-irfm-alexis-bachelay.pdf;NONE;avis-cada-20173621.pdf;24/11/2017
-027;Guillaume Bachelay;H;NONE;demande-irfm-guillaume-bachelay.pdf;NONE;avis-cada-20173622.pdf;24/11/2017
-028;Jean-Paul Bacquet;H;NONE;demande-irfm-jean-paul-bacquet.pdf;NONE;avis-cada-20173623.pdf;24/11/2017
-029;Dominique Baert;H;NONE;demande-irfm-dominique-baert.pdf;NONE;avis-cada-20173624.pdf;24/11/2017
-030;Guy Bailliart;H;NONE;demande-irfm-guy-bailliart.pdf;NONE;avis-cada-20173625.pdf;24/11/2017
-031;Patrick Balkany;H;NONE;demande-irfm-patrick-balkany.pdf;preuve-envoi-patrick-balkany.jpg;avis-cada-20173626.pdf;24/11/2017
-032;Alain Ballay;H;NONE;demande-irfm-alain-ballay.pdf;preuve-envoi-alain-ballay.jpg;avis-cada-20173627.pdf;24/11/2017
-033;G�rard Bapt;H;NONE;demande-irfm-gerard-bapt.pdf;NONE;avis-cada-20173628.pdf;24/11/2017
-034;Fr�d�ric Barbier;H;NONE;demande-irfm-frederic-barbier.pdf;NONE;avis-cada-20173629.pdf;24/11/2017
-035;Jean-Pierre Barbier;H;NONE;demande-irfm-jean-pierre-barbier.pdf;NONE;avis-cada-20173630.pdf;24/11/2017
-036;Serge Bardy;H;NONE;demande-irfm-serge-bardy.pdf;NONE;avis-cada-20173642.pdf;24/11/2017
-037;Claude Bartolone;H;NONE;demande-irfm-claude-bartolone.pdf;preuve-envoi-claude-bartolone.jpg;avis-cada-20173643.pdf;24/11/2017
-038;Christian Bataille;H;NONE;demande-irfm-christian-bataille.pdf;NONE;avis-cada-20173644.pdf;24/11/2017
-039;Delphine Batho;F;NONE;demande-irfm-delphine-batho.pdf;NONE;avis-cada-20173645.pdf;24/11/2017
-040;Marie-No�lle Battistel;F;NONE;demande-irfm-marie-noelle-battistel.pdf;NONE;avis-cada-20173646.pdf;24/11/2017
-041;Laurent Baumel;H;NONE;demande-irfm-laurent-baumel.pdf;NONE;avis-cada-20173647.pdf;24/11/2017
-042;Philippe Baumel;H;NONE;demande-irfm-philippe-baumel.pdf;NONE;avis-cada-20173648.pdf;24/11/2017
-043;Denis Baupin;H;NONE;demande-irfm-denis-baupin.pdf;NONE;avis-cada-20173649.pdf;24/11/2017
-044;Nicolas Bays;H;NONE;demande-irfm-nicolas-bays.pdf;NONE;avis-cada-20173650.pdf;24/11/2017
-045;Catherine Beaubatie;F;NONE;demande-irfm-catherine-beaubatie.pdf;preuve-envoi-catherine-beaubatie.pdf;avis-cada-20173651.pdf;24/11/2017
-046;Marie-Fran�oise Bechtel;F;NONE;demande-irfm-marie-francoise-bechtel.pdf;NONE;avis-cada-20173686.pdf;24/11/2017
-047;Jean-Marie Beffara;H;NONE;demande-irfm-jean-marie-beffara.pdf;NONE;avis-cada-20173687.pdf;24/11/2017
-048;Huguette Bello;F;NONE;demande-irfm-huguette-bello.pdf;preuve-envoi-huguette-bello.pdf;avis-cada-20173688.pdf;24/11/2017
-049;Luc Belot;H;NONE;demande-irfm-luc-belot.pdf;NONE;avis-cada-20173690.pdf;24/11/2017
-050;Jacques Alain B�nisti;H;NONE;demande-irfm-jacques-alain-benisti.pdf;NONE;avis-cada-20173689.pdf;24/11/2017
-051;Thierry Benoit;H;NONE;demande-irfm-thierry-benoit.pdf;preuve-envoi-thierry-benoit.pdf;avis-cada-20173692.pdf;24/11/2017
-052;Karine Berger;F;NONE;demande-irfm-karine-berger.pdf;NONE;avis-cada-20173691.pdf;24/11/2017
-053;Sylvain Berrios;H;NONE;demande-irfm-sylvain-berrios.pdf;NONE;avis-cada-20173693.pdf;24/11/2017
-054;Chantal Berthelot;F;NONE;demande-irfm-chantal-berthelot.pdf;NONE;avis-cada-20173694.pdf;24/11/2017
-055;V�ronique Besse;F;NONE;demande-irfm-veronique-besse.pdf;NONE;avis-cada-20173695.pdf;24/11/2017
-056;Gis�le Bi�mouret;F;NONE;demande-irfm-gisele-biemouret.pdf;NONE;avis-cada-20173696.pdf;24/11/2017
-057;Philippe Bies;H;NONE;demande-irfm-philippe-bies.pdf;preuve-envoi-philippe-bies.pdf;avis-cada-20173697.pdf;24/11/2017
-058;Erwann Binet;H;NONE;demande-irfm-erwann-binet.pdf;NONE;avis-cada-20173698.pdf;24/11/2017
-059;Jean-Pierre Blazy;H;NONE;demande-irfm-jean-pierre-blazy.pdf;NONE;avis-cada-20173699.pdf;24/11/2017
-060;Yves Blein;H;NONE;demande-irfm-yves-blein.pdf;NONE;avis-cada-20173701.pdf;24/11/2017
-061;Patrick Bloche;H;NONE;demande-irfm-patrick-bloche.pdf;NONE;avis-cada-20173702.pdf;24/11/2017
-062;Alain Bocquet;H;NONE;demande-irfm-alain-bocquet.pdf;NONE;avis-cada-20173700.pdf;24/11/2017
-063;Daniel Boisserie;H;NONE;demande-irfm-daniel-boisserie.pdf;preuve-envoi-daniel-boisserie.pdf;avis-cada-20173703.pdf;24/11/2017
-064;Jacques Bompard;H;NONE;demande-irfm-jacques-bompard.pdf;preuve-envoi-jacques-bompard.jpg;avis-cada-20173704.pdf;24/11/2017
-065;Mich�le Bonneton;F;NONE;demande-irfm-michele-bonneton.pdf;NONE;avis-cada-20173705.pdf;24/11/2017
-066;Marcel Bonnot;H;NONE;demande-irfm-marcel-bonnot.pdf;preuve-envoi-marcel-bonnot.pdf;avis-cada-20173708.pdf;24/11/2017
-067;Christophe Borgel;H;NONE;demande-irfm-christophe-borgel.pdf;NONE;avis-cada-20173709.pdf;24/11/2017
-068;Jean-Claude Bouchet;H;NONE;demande-irfm-jean-claude-bouchet.pdf;NONE;avis-cada-20173710.pdf;24/11/2017
-069;Florent Boudi�;H;NONE;demande-irfm-florent-boudie.pdf;NONE;avis-cada-20173727.pdf;24/11/2017
-070;Marie-Odile Bouill�;F;NONE;demande-irfm-marie-odile-bouille.pdf;NONE;avis-cada-20173711.pdf;24/11/2017
-071;Christophe Bouillon;H;NONE;demande-irfm-christophe-bouillon.pdf;NONE;avis-cada-20173712.pdf;24/11/2017
-072;Gilles Bourdouleix;H;NONE;demande-irfm-gilles-bourdouleix.pdf;NONE;avis-cada-20173713.pdf;24/11/2017
-073;Brigitte Bourguignon;F;NONE;demande-irfm-brigitte-bourguignon.pdf;NONE;avis-cada-20173714.pdf;24/11/2017
-074;Malek Boutih;H;NONE;demande-irfm-malek-boutih.pdf;NONE;avis-cada-20173715.pdf;24/11/2017
-075;Kheira Bouziane-Laroussi;F;NONE;demande-irfm-kheira-bouziane-laroussi.pdf;NONE;avis-cada-20173716.pdf;24/11/2017
-076;Val�rie Boyer;F;NONE;demande-irfm-valerie-boyer.pdf;NONE;avis-cada-20173717.pdf;24/11/2017
-077;Emeric Br�hier;H;NONE;demande-irfm-emeric-brehier.pdf;NONE;avis-cada-20173718.pdf;24/11/2017
-078;Marine Brenier;F;NONE;demande-irfm-marine-brenier.pdf;preuve-envoi-marine-brenier.jpg;avis-cada-20173719.pdf;24/11/2017
-079;Xavier Breton;H;NONE;demande-irfm-xavier-breton.pdf;NONE;avis-cada-20173720.pdf;24/11/2017
-080;Philippe Briand;H;NONE;demande-irfm-philippe-briand.pdf;NONE;avis-cada-20173721.pdf;24/11/2017
-081;Jean-Louis Bricout;H;NONE;demande-irfm-jean-louis-bricout.pdf;NONE;avis-cada-20173722.pdf;24/11/2017
-082;Jean-Jacques Bridey;H;NONE;demande-irfm-jean-jacques-bridey.pdf;NONE;avis-cada-20173723.pdf;24/11/2017
-083;Bernard Brochand;H;NONE;demande-irfm-bernard-brochand.pdf;NONE;avis-cada-20173724.pdf;24/11/2017
-084;Isabelle Bruneau;F;NONE;demande-irfm-isabelle-bruneau.pdf;NONE;avis-cada-20173725.pdf;24/11/2017
-085;Marie-George Buffet;F;NONE;demande-irfm-marie-george-buffet.pdf;NONE;avis-cada-20173726.pdf;24/11/2017
-086;Sabine Buis;F;NONE;demande-irfm-sabine-buis.pdf;NONE;avis-cada-20173519.pdf;29/12/2017
-087;Jean-Claude Buisine;H;NONE;demande-irfm-jean-claude-buisine.pdf;NONE;avis-cada-20173533.pdf;29/12/2017
-088;Sylviane Bulteau;F;NONE;demande-irfm-sylviane-bulteau.pdf;preuve-envoi-sylviane-bulteau.jpg;avis-cada-20173534.pdf;29/12/2017
-089;Vincent Burroni;H;NONE;demande-irfm-vincent-burroni.pdf;NONE;avis-cada-20173535.pdf;29/12/2017
-090;Dominique Bussereau;H;NONE;demande-irfm-dominique-bussereau.pdf;NONE;avis-cada-20173536.pdf;29/12/2017
-091;Alain Calmette;H;NONE;demande-irfm-alain-calmette.pdf;NONE;avis-cada-20173537.pdf;29/12/2017
-092;Jean-Christophe Cambad�lis;H;NONE;demande-irfm-jean-christophe-cambadelis.pdf;preuve-envoi-jean-christophe-cambadelis.pdf;avis-cada-20173538.pdf;29/12/2017
-093;Jean-Jacques Candelier;H;NONE;demande-irfm-jean-jacques-candelier.pdf;NONE;avis-cada-20173539.pdf;29/12/2017
-094;Colette Capdevielle;F;NONE;demande-irfm-colette-capdevielle.pdf;NONE;avis-cada-20173540.pdf;29/12/2017
-095;Yann Capet;H;REFUS;demande-irfm-yann-capet.pdf;NONE;avis-cada-20173395.pdf;24/11/2017
-096;Christophe Caresche;H;NONE;demande-irfm-christophe-caresche.pdf;NONE;avis-cada-20173541.pdf;29/12/2017
-097;Marie-Arlette Carlotti;F;NONE;demande-irfm-marie-arlette-carlotti.pdf;NONE;avis-cada-20173542.pdf;29/12/2017
-098;Jean-No�l Carpentier;H;NONE;demande-irfm-jean-noel-carpentier.pdf;NONE;avis-cada-20173543.pdf;29/12/2017
-099;Olivier Carr�;H;NONE;demande-irfm-olivier-carre.pdf;preuve-envoi-olivier-carre.png;avis-cada-20173544.pdf;29/12/2017
-100;Gilles Carrez;H;NONE;demande-irfm-gilles-carrez.pdf;preuve-envoi-gilles-carrez.jpg;avis-cada-20173545.pdf;29/12/2017
-101;Martine Carrillon-Couvreur;F;NONE;demande-irfm-martine-carrillon-couvreur.pdf;NONE;avis-cada-20173546.pdf;29/12/2017
-102;Patrice Carvalho;H;NONE;demande-irfm-patrice-carvalho.pdf;NONE;avis-cada-20173547.pdf;29/12/2017
-103;Christophe Castaner;H;NONE;demande-irfm-christophe-castaner.pdf;NONE;avis-cada-20173548.pdf;29/12/2017
-104;Laurent Cathala;H;NONE;demande-irfm-laurent-cathala.pdf;NONE;avis-cada-20173549.pdf;03/01/2018
-105;Jean-Yves Caullet;H;REFUS;demande-irfm-jean-yves-caullet.pdf;preuve-envoi-jean-yves-caullet.jpg;avis-cada-20173403.pdf;24/11/2017
-106;Christophe Cavard;H;NONE;demande-irfm-christophe-cavard.pdf;NONE;avis-cada-20173550.pdf;03/01/2018
-107;Yves Censi;H;NONE;demande-irfm-yves-censi.pdf;NONE;avis-cada-20173551.pdf;03/01/2018
-108;Nathalie Chabanne;F;NONE;demande-irfm-nathalie-chabanne.pdf;NONE;avis-cada-20173552.pdf;03/01/2018
-109;Ary Chalus;H;NONE;demande-irfm-ary-chalus.pdf;NONE;avis-cada-20174114.pdf;03/01/2018
-110;Guy Chambefort;H;NONE;demande-irfm-guy-chambefort.pdf;NONE;avis-cada-20173460.pdf;29/12/2017
-111;Jean-Paul Chanteguet;H;NONE;demande-irfm-jean-paul-chanteguet.pdf;preuve-envoi-jean-paul-chanteguet.pdf;avis-cada-20173461.pdf;29/12/2017
-112;Marie-Anne Chapdelaine;F;NONE;demande-irfm-marie-anne-chapdelaine.pdf;NONE;avis-cada-20174687.pdf;03/01/2018
-113;G�rard Charasse;H;NONE;demande-irfm-gerard-charasse.pdf;NONE;avis-cada-20173463.pdf;29/12/2017
-114;Gaby Charroux;H;NONE;demande-irfm-gaby-charroux.pdf;NONE;avis-cada-20174118.pdf;03/01/2018
-115;J�r�me Chartier;H;NONE;demande-irfm-jerome-chartier.pdf;NONE;avis-cada-20173476.pdf;29/12/2017
-116;Andr� Chassaigne;H;NONE;demande-irfm-andre-chassaigne.pdf;preuve-envoi-andre-chassaigne.jpg;avis-cada-20174688.pdf;03/01/2018
-117;Luc Chatel;H;NONE;demande-irfm-luc-chatel.pdf;NONE;avis-cada-20173559.pdf;03/01/2018
-118;Guy-Michel Chauveau;H;NONE;demande-irfm-guy-michel-chauveau.pdf;NONE;avis-cada-20173560.pdf;03/01/2018
-119;Dominique Chauvel;F;NONE;demande-irfm-dominique-chauvel.pdf;NONE;avis-cada-20173561.pdf;03/01/2018
-120;Pascal Cherki;H;NONE;demande-irfm-pascal-cherki.pdf;NONE;avis-cada-20173562.pdf;03/01/2018
-121;G�rard Cherpion;H;NONE;demande-irfm-gerard-cherpion.pdf;NONE;avis-cada-20173563.pdf;03/01/2018
-122;Guillaume Chevrollier;H;NONE;demande-irfm-guillaume-chevrollier.pdf;NONE;avis-cada-20173564.pdf;03/01/2018
-123;Alain Chr�tien;H;NONE;demande-irfm-alain-chretien.pdf;NONE;avis-cada-20174689.pdf;03/01/2018
-124;Jean-Louis Christ;H;NONE;demande-irfm-jean-louis-christ.pdf;NONE;avis-cada-20173565.pdf;03/01/2018
-125;Dino Cinieri;H;NONE;demande-irfm-dino-cinieri.pdf;NONE;avis-cada-20174690.pdf;03/01/2018
-126;Jean-David Ciot;H;NONE;demande-irfm-jean-david-ciot.pdf;preuve-envoi-jean-david-ciot.jpg;avis-cada-20173566.pdf;03/01/2018
-127;�ric Ciotti;H;NONE;demande-irfm-eric-ciotti.pdf;preuve-envoi-eric-ciotti.jpg;avis-cada-20174117.pdf;03/01/2018
-128;Alain Claeys;H;NONE;demande-irfm-alain-claeys.pdf;NONE;avis-cada-20173567.pdf;03/01/2018
-129;St�phane Claireaux;H;NONE;demande-irfm-stephane-claireaux.pdf;NONE;avis-cada-20173568.pdf;03/01/2018
-130;Jean-Michel Cl�ment;H;NONE;demande-irfm-jean-michel-clement.pdf;NONE;avis-cada-20174691.pdf;03/01/2018
-131;Marie-Fran�oise Clergeau;F;NONE;demande-irfm-marie-francoise-clergeau.pdf;NONE;avis-cada-20173569.pdf;03/01/2018
-132;Philippe Cochet;H;NONE;demande-irfm-philippe-cochet.pdf;preuve-envoi-philippe-cochet.jpg;avis-cada-20173570.pdf;03/01/2018
-133;Romain Colas;H;NONE;demande-irfm-romain-colas.pdf;NONE;avis-cada-20173571.pdf;03/01/2018
-134;Gilbert Collard;H;NONE;demande-irfm-gilbert-collard.pdf;NONE;avis-cada-20173572.pdf;03/01/2018
-135;David Comet;H;NONE;demande-irfm-david-comet.pdf;preuve-envoi-david-comet.pdf;avis-cada-20173573.pdf;03/01/2018
-136;Jean-Fran�ois Cop�;H;NONE;demande-irfm-jean-francois-cope.pdf;preuve-envoi-jean-francois-cope.jpg;avis-cada-20173574.pdf;03/01/2018
-137;Philip Cordery;H;NONE;demande-irfm-philip-cordery.pdf;NONE;avis-cada-20173587.pdf;03/01/2018
-138;Fran�ois Cornut-Gentille;H;NONE;demande-irfm-francois-cornut-gentille.pdf;NONE;avis-cada-20173588.pdf;03/01/2018
-139;Sergio Coronado;H;NONE;demande-irfm-sergio-coronado.pdf;NONE;avis-cada-20174692.pdf;03/01/2018
-140;Val�rie Corre;F;NONE;demande-irfm-valerie-corre.pdf;NONE;avis-cada-20173575.pdf;03/01/2018
-141;Jean-Louis Costes;H;NONE;demande-irfm-jean-louis-costes.pdf;NONE;avis-cada-20173576.pdf;03/01/2018
-142;Jean-Jacques Cottel;H;NONE;demande-irfm-jean-jacques-cottel.pdf;NONE;avis-cada-20174693.pdf;03/01/2018
-143;Charles de Courson;H;REFUS;demande-irfm-charles-de-courson.pdf;NONE;avis-cada-20173400.pdf;24/11/2017
-144;�douard Courtial;H;NONE;demande-irfm-edouard-courtial.pdf;NONE;avis-cada-20174694.pdf;03/01/2018
-145;Catherine Coutelle;F;NONE;demande-irfm-catherine-coutelle.pdf;NONE;avis-cada-20173577.pdf;03/01/2018
-146;Jean-Michel Couve;H;NONE;demande-irfm-jean-michel-couve.pdf;NONE;avis-cada-20173578.pdf;03/01/2018
-147;Jacques Cresta;H;NONE;demande-irfm-jacques-cresta.pdf;NONE;avis-cada-20173579.pdf;03/01/2018
-148;Pascale Crozon;F;NONE;demande-irfm-pascale-crozon.pdf;preuve-envoi-pascale-crozon.png;avis-cada-20174116.pdf;03/01/2018
-149;Fr�d�ric Cuvillier;H;NONE;demande-irfm-frederic-cuvillier.pdf;NONE;avis-cada-20173580.pdf;03/01/2018
-150;Seybah Dagoma;F;NONE;demande-irfm-seybah-dagoma.pdf;preuve-envoi-seybah-dagoma.jpg;avis-cada-20174696.pdf;19/12/2017
-151;Marie-Christine Dalloz;F;NONE;demande-irfm-marie-christine-dalloz.pdf;NONE;avis-cada-20173581.pdf;03/01/2018
-152;Karine Daniel;F;REFUS;demande-irfm-karine-daniel.pdf;NONE;avis-cada-20173396.pdf;24/11/2017
-153;Yves Daniel;H;NONE;demande-irfm-yves-daniel.pdf;NONE;avis-cada-20173582.pdf;03/01/2018
-154;Carlos Da Silva;H;NONE;demande-irfm-carlos-da-silva.pdf;NONE;avis-cada-20174695.pdf;19/12/2017
-155;Olivier Dassault;H;NONE;demande-irfm-olivier-dassault.pdf;NONE;avis-cada-20173583.pdf;03/01/2018
-156;Marc-Philippe Daubresse;H;NONE;demande-irfm-marc-philippe-daubresse.pdf;NONE;avis-cada-20173584.pdf;03/01/2018
-157;Bernard Debr�;H;NONE;demande-irfm-bernard-debre.pdf;NONE;avis-cada-20174697.pdf;19/12/2017
-158;Jean-Pierre Decool;H;NONE;demande-irfm-jean-pierre-decool.pdf;NONE;avis-cada-20173585.pdf;03/01/2018
-159;Bernard Deflesselles;H;NONE;demande-irfm-bernard-deflesselles.pdf;NONE;avis-cada-20174698.pdf;19/12/2017
-160;Laurent Degallaix;H;NONE;demande-irfm-laurent-degallaix.pdf;NONE;avis-cada-20173586.pdf;03/01/2018
-161;Lucien Degauchy;H;NONE;demande-irfm-lucien-degauchy.pdf;NONE;avis-cada-20173753.pdf;03/01/2018
-162;Pascal Deguilhem;H;NONE;demande-irfm-pascal-deguilhem.pdf;NONE;avis-cada-20173754.pdf;03/01/2018
-163;R�mi Delatte;H;NONE;demande-irfm-remi-delatte.pdf;NONE;avis-cada-20174699.pdf;19/12/2017
-164;Florence Delaunay;F;NONE;demande-irfm-florence-delaunay.pdf;NONE;avis-cada-20173755.pdf;03/01/2018
-165;Mich�le Delaunay;F;NONE;demande-irfm-michele-delaunay.pdf;NONE;avis-cada-20173756.pdf;03/01/2018
-166;Guy Delcourt;H;NONE;demande-irfm-guy-delcourt.pdf;NONE;avis-cada-20173757.pdf;03/01/2018
-167;Carole Delga;F;NONE;demande-irfm-carole-delga.pdf;NONE;avis-cada-20173758.pdf;03/01/2018
-168;Jacques Dellerie;H;NONE;demande-irfm-jacques-dellerie.pdf;NONE;avis-cada-20173759.pdf;03/01/2018
-169;Pascal Demarthe;H;NONE;demande-irfm-pascal-demarthe.pdf;NONE;avis-cada-20173760.pdf;03/01/2018
-170;St�phane Demilly;H;NONE;demande-irfm-stephane-demilly.pdf;NONE;avis-cada-20173761.pdf;03/01/2018
-171;S�bastien Denaja;H;NONE;demande-irfm-sebastien-denaja.pdf;NONE;avis-cada-20173762.pdf;03/01/2018
-172;Fran�oise Descamps-Crosnier;F;NONE;demande-irfm-francoise-descamps-crosnier.pdf;NONE;avis-cada-20173777.pdf;03/01/2018
-173;Jean-Louis Destans;H;NONE;demande-irfm-jean-louis-destans.pdf;NONE;avis-cada-20173778.pdf;03/01/2018
-174;Michel Destot;H;NONE;demande-irfm-michel-destot.pdf;NONE;avis-cada-20173975.pdf;03/01/2018
-175;Patrick Devedjian;H;NONE;demande-irfm-patrick-devedjian.pdf;NONE;avis-cada-20173976.pdf;03/01/2018
-176;Nicolas Dhuicq;H;NONE;demande-irfm-nicolas-dhuicq.pdf;NONE;avis-cada-20173977.pdf;03/01/2018
-177;Sophie Dion;F;NONE;demande-irfm-sophie-dion.pdf;preuve-envoi-sophie-dion.pdf;avis-cada-20173978.pdf;03/01/2018
-178;Julien Dive;H;NONE;demande-irfm-julien-dive.pdf;NONE;avis-cada-20173979.pdf;03/01/2018
-179;Marc Dolez;H;NONE;demande-irfm-marc-dolez.pdf;NONE;avis-cada-20173980.pdf;03/01/2018
-180;Fanny Dombre Coste;F;NONE;demande-irfm-fanny-dombre-coste.pdf;preuve-envoi-fanny-dombre-coste.jpg;avis-cada-20173981.pdf;03/01/2018
-181;Jean-Pierre Door;H;NONE;demande-irfm-jean-pierre-door.pdf;NONE;avis-cada-20173982.pdf;03/01/2018
-182;Dominique Dord;H;NONE;demande-irfm-dominique-dord.pdf;NONE;avis-cada-20173983.pdf;03/01/2018
-183;Ren� Dosi�re;H;NONE;demande-irfm-rene-dosiere.pdf;NONE;avis-cada-20173984.pdf;03/01/2018
-184;Philippe Doucet;H;NONE;demande-irfm-philippe-doucet.pdf;NONE;avis-cada-20173994.pdf;03/01/2018
-185;Sandrine Doucet;F;NONE;demande-irfm-sandrine-doucet.pdf;NONE;avis-cada-20173995.pdf;03/01/2018
-186;David Douillet;H;NONE;demande-irfm-david-douillet.pdf;NONE;avis-cada-20173996.pdf;03/01/2018
-187;Jeanine Dubi�;F;NONE;demande-irfm-jeanine-dubie.pdf;NONE;avis-cada-20173997.pdf;03/01/2018
-188;Fran�oise Dubois;F;NONE;demande-irfm-francoise-dubois.pdf;NONE;avis-cada-20173998.pdf;03/01/2018
-189;Marianne Dubois;F;NONE;demande-irfm-marianne-dubois.pdf;NONE;avis-cada-20173999.pdf;03/01/2018
-190;Virginie Duby-Muller;F;NONE;demande-irfm-virginie-duby-muller.pdf;NONE;avis-cada-20174000.pdf;03/01/2018
-191;Jean-Pierre Dufau;H;NONE;demande-irfm-jean-pierre-dufau.pdf;NONE;avis-cada-20173520.pdf;08/12/2017
-192;C�cile Duflot;F;NONE;demande-irfm-cecile-duflot.pdf;NONE;avis-cada-20173664.pdf;08/12/2017
-193;Anne-Lise Dufour-Tonini;F;NONE;demande-irfm-anne-lise-dufour-tonini.pdf;NONE;avis-cada-20173665.pdf;08/12/2017
-194;William Dumas;H;NONE;demande-irfm-william-dumas.pdf;NONE;avis-cada-20173683.pdf;08/12/2017
-195;Fran�oise Dumas;F;NONE;demande-irfm-francoise-dumas.pdf;NONE;avis-cada-20173676.pdf;08/12/2017
-196;Laurence Dumont;F;NONE;demande-irfm-laurence-dumont.pdf;NONE;avis-cada-20173681.pdf;08/12/2017
-197;Jean-Louis Dumont;H;NONE;demande-irfm-jean-louis-dumont.pdf;NONE;avis-cada-20173682.pdf;08/12/2017
-198;Nicolas Dupont-Aignan;H;NONE;demande-irfm-nicolas-dupont-aignan.pdf;NONE;avis-cada-20173680.pdf;08/12/2017
-199;Jean-Paul Dupr�;H;NONE;demande-irfm-jean-paul-dupre.pdf;NONE;avis-cada-20173679.pdf;08/12/2017
-200;Yves Durand;H;NONE;demande-irfm-yves-durand.pdf;NONE;avis-cada-20173678.pdf;08/12/2017
-201;Philippe Duron;H;NONE;demande-irfm-philippe-duron.pdf;NONE;avis-cada-20173677.pdf;08/12/2017
-202;Olivier Dussopt;H;NONE;demande-irfm-olivier-dussopt.pdf;NONE;avis-cada-20173675.pdf;08/12/2017
-203;Eric Elkouby;H;NONE;demande-irfm-eric-elkouby.pdf;preuve-envoi-eric-elkouby.pdf;avis-cada-20173674.pdf;08/12/2017
-204;Sophie Errante;F;NONE;demande-irfm-sophie-errante.pdf;preuve-envoi-sophie-errante.pdf;avis-cada-20173673.pdf;08/12/2017
-205;Marie-H�l�ne Fabre;F;NONE;demande-irfm-marie-helene-fabre.pdf;NONE;avis-cada-20173672.pdf;08/12/2017
-206;Olivier Falorni;H;NONE;demande-irfm-olivier-falorni.pdf;NONE;avis-cada-20173671.pdf;08/12/2017
-207;Daniel Fasquelle;H;NONE;demande-irfm-daniel-fasquelle.pdf;preuve-envoi-daniel-fasquelle.jpg;avis-cada-20173669.pdf;08/12/2017
-208;Olivier Faure;H;NONE;demande-irfm-olivier-faure.pdf;NONE;avis-cada-20173668.pdf;08/12/2017
-209;Martine Faure;F;NONE;demande-irfm-martine-faure.pdf;NONE;avis-cada-20173670.pdf;08/12/2017
-210;Alain Faur�;H;NONE;demande-irfm-alain-faure.pdf;NONE;avis-cada-20173667.pdf;08/12/2017
-211;Yannick Favennec;H;NONE;demande-irfm-yannick-favennec.pdf;NONE;avis-cada-20173666.pdf;08/12/2017
-212;Georges Fenech;H;NONE;demande-irfm-georges-fenech.pdf;NONE;avis-cada-20173729.pdf;07/12/2017
-213;Herv� F�ron;H;NONE;demande-irfm-herve-feron.pdf;NONE;avis-cada-20173733.pdf;07/12/2017
-214;Richard Ferrand;H;NONE;demande-irfm-richard-ferrand.pdf;preuve-envoi-richard-ferrand.jpg;avis-cada-20173750.pdf;07/12/2017
-215;Aur�lie Filippetti;F;NONE;demande-irfm-aurelie-filippetti.pdf;NONE;avis-cada-20173749.pdf;07/12/2017
-216;Fran�ois Fillon;H;NONE;demande-irfm-francois-fillon.pdf;NONE;avis-cada-20173748.pdf;07/12/2017
-217;Genevi�ve Fioraso;F;REFUS;demande-irfm-genevieve-fioraso.pdf;NONE;avis-cada-20173393.pdf;24/11/2017
-218;Philippe Folliot;H;NONE;demande-irfm-philippe-folliot.pdf;NONE;avis-cada-20173747.pdf;07/12/2017
-219;Marie-Louise Fort;F;NONE;demande-irfm-marie-louise-fort.pdf;NONE;avis-cada-20173746.pdf;07/12/2017
-220;Yves Foulon;H;NONE;demande-irfm-yves-foulon.pdf;NONE;avis-cada-20173745.pdf;07/12/2017
-221;Hugues Fourage;H;NONE;demande-irfm-hugues-fourage.pdf;NONE;avis-cada-20173743.pdf;07/12/2017
-222;Jean-Marc Fournel;H;NONE;demande-irfm-jean-marc-fournel.pdf;preuve-envoi-jean-marc-fournel.pdf;avis-cada-20173744.pdf;07/12/2017
-223;Val�rie Fourneyron;F;NONE;demande-irfm-valerie-fourneyron.pdf;NONE;avis-cada-20173742.pdf;07/12/2017
-224;Mich�le Fournier-Armand;F;NONE;demande-irfm-michele-fournier-armand.pdf;NONE;avis-cada-20173741.pdf;07/12/2017
-225;Michel Fran�aix;H;NONE;demande-irfm-michel-francaix.pdf;NONE;avis-cada-20173740.pdf;07/12/2017
-226;Marc Francina;H;NONE;demande-irfm-marc-francina.pdf;preuve-envoi-marc-francina.jpg;avis-cada-20173739.pdf;07/12/2017
-227;Christian Franqueville;H;NONE;demande-irfm-christian-franqueville.pdf;NONE;avis-cada-20173738.pdf;07/12/2017
-228;Jacqueline Fraysse;F;NONE;demande-irfm-jacqueline-fraysse.pdf;NONE;avis-cada-20173737.pdf;07/12/2017
-229;Jean-Christophe Fromantin;H;NONE;demande-irfm-jean-christophe-fromantin.pdf;NONE;avis-cada-20173736.pdf;07/12/2017
-230;Yves Fromion;H;NONE;demande-irfm-yves-fromion.pdf;NONE;avis-cada-20173735.pdf;07/12/2017
-231;Jean-Claude Fruteau;H;NONE;demande-irfm-jean-claude-fruteau.pdf;preuve-envoi-jean-claude-fruteau.pdf;avis-cada-20173734.pdf;07/12/2017
-232;Laurent Furst;H;NONE;demande-irfm-laurent-furst.pdf;preuve-envoi-laurent-furst.pdf;avis-cada-20173732.pdf;07/12/2017
-233;Jean-Louis Gagnaire;H;NONE;demande-irfm-jean-louis-gagnaire.pdf;NONE;avis-cada-20173775.pdf;07/12/2017
-234;Genevi�ve Gaillard;F;NONE;demande-irfm-genevieve-gaillard.pdf;NONE;avis-cada-20173731.pdf;07/12/2017
-235;Yann Galut;H;NONE;demande-irfm-yann-galut.pdf;NONE;avis-cada-20173730.pdf;07/12/2017
-236;Claude de Ganay;H;NONE;demande-irfm-claude-de-ganay.pdf;NONE;avis-cada-20173807.pdf;07/12/2017
-237;Sauveur Gandolfi-Scheit;H;NONE;demande-irfm-sauveur-gandolfi-scheit.pdf;NONE;avis-cada-20173816.pdf;07/12/2017
-238;Guillaume Garot;H;REFUS;demande-irfm-guillaume-garot.pdf;NONE;avis-cada-20173408.pdf;24/11/2017
-239;Renaud Gauquelin;H;NONE;demande-irfm-renaud-gauquelin.pdf;NONE;avis-cada-20173815.pdf;07/12/2017
-240;Herv� Gaymard;H;NONE;demande-irfm-herve-gaymard.pdf;NONE;avis-cada-20173814.pdf;07/12/2017
-241;Annie Genevard;F;NONE;demande-irfm-annie-genevard.pdf;preuve-envoi-annie-genevard.pdf;avis-cada-20173830.pdf;06/12/2017
-242;Guy Geoffroy;H;NONE;demande-irfm-guy-geoffroy.pdf;NONE;avis-cada-20173813.pdf;07/12/2017
-243;Bernard G�rard;H;NONE;demande-irfm-bernard-gerard.pdf;NONE;avis-cada-20173812.pdf;07/12/2017
-244;Jean-Marc Germain;H;NONE;demande-irfm-jean-marc-germain.pdf;NONE;avis-cada-20173811.pdf;07/12/2017
-245;Alain Gest;H;NONE;demande-irfm-alain-gest.pdf;NONE;avis-cada-20173810.pdf;07/12/2017
-246;Paul Giacobbi;H;NONE;demande-irfm-paul-giacobbi.pdf;NONE;avis-cada-20173809.pdf;07/12/2017
-247;Daniel Gibbes;H;NONE;demande-irfm-daniel-gibbes.pdf;NONE;avis-cada-20173808.pdf;07/12/2017
-248;Franck Gilard;H;NONE;demande-irfm-franck-gilard.pdf;NONE;avis-cada-20173805.pdf;07/12/2017
-249;Jean-Patrick Gille;H;NONE;demande-irfm-jean-patrick-gille.pdf;NONE;avis-cada-20173873.pdf;06/12/2017
-250;Georges Ginesta;H;NONE;demande-irfm-georges-ginesta.pdf;NONE;avis-cada-20173876.pdf;06/12/2017
-251;Charles-Ange Ginesy;H;NONE;demande-irfm-charles-ange-ginesy.pdf;preuve-envoi-charles-ange-ginesy.jpg;avis-cada-20173875.pdf;06/12/2017
-252;Jean-Pierre Giran;H;NONE;demande-irfm-jean-pierre-giran.pdf;NONE;avis-cada-20173874.pdf;06/12/2017
-253;Jean Glavany;H;NONE;demande-irfm-jean-glavany.pdf;NONE;avis-cada-20173847.pdf;06/12/2017
-254;Yves Goasdoue;H;NONE;demande-irfm-yves-goasdoue.pdf;NONE;avis-cada-20173846.pdf;06/12/2017
-255;Claude Goasguen;H;NONE;demande-irfm-claude-goasguen.pdf;NONE;avis-cada-20173845.pdf;06/12/2017
-256;Daniel Goldberg;H;NONE;demande-irfm-daniel-goldberg.pdf;NONE;avis-cada-20173844.pdf;06/12/2017
-257;Philippe Gomes;H;NONE;demande-irfm-philippe-gomes.pdf;NONE;avis-cada-20173843.pdf;06/12/2017
-258;Jean-Pierre Gorges;H;NONE;demande-irfm-jean-pierre-gorges.pdf;NONE;avis-cada-20173806.pdf;07/12/2017
-259;Philippe Gosselin;H;REFUS;demande-irfm-philippe-gosselin.pdf;NONE;avis-cada-20173394.pdf;24/11/2017
-260;Genevi�ve Gosselin-Fleury;F;NONE;demande-irfm-genevieve-gosselin-fleury.pdf;NONE;avis-cada-20173858.pdf;06/12/2017
-261;Pascale Got;F;NONE;demande-irfm-pascale-got.pdf;NONE;avis-cada-20173867.pdf;06/12/2017
-262;Marc Goua;H;NONE;demande-irfm-marc-goua.pdf;NONE;avis-cada-20173871.pdf;06/12/2017
-263;Philippe Goujon;H;NONE;demande-irfm-philippe-goujon.pdf;NONE;avis-cada-20173870.pdf;06/12/2017
-264;Linda Gourjade;F;NONE;demande-irfm-linda-gourjade.pdf;NONE;avis-cada-20173869.pdf;06/12/2017
-265;Laurent Grandguillaume;H;NONE;demande-irfm-laurent-grandguillaume.pdf;NONE;avis-cada-20173868.pdf;06/12/2017
-266;Claude Greff;F;NONE;demande-irfm-claude-greff.pdf;NONE;avis-cada-20173866.pdf;06/12/2017
-267;Jean Grellier;H;NONE;demande-irfm-jean-grellier.pdf;NONE;avis-cada-20173865.pdf;06/12/2017
-268;Arlette Grosskost;F;NONE;demande-irfm-arlette-grosskost.pdf;NONE;avis-cada-20173864.pdf;06/12/2017
-269;Serge Grouard;H;NONE;demande-irfm-serge-grouard.pdf;NONE;avis-cada-20174700.pdf;19/12/2017
-270;Henri Guaino;H;NONE;demande-irfm-henri-guaino.pdf;preuve-envoi-henri-guaino.pdf;avis-cada-20173863.pdf;06/12/2017
-271;Fran�oise Gu�got;F;NONE;demande-irfm-francoise-guegot.pdf;NONE;avis-cada-20173862.pdf;06/12/2017
-272;Edith Gueugneau;F;NONE;demande-irfm-edith-gueugneau.pdf;NONE;avis-cada-20173921.pdf;06/12/2017
-273;Jean-Claude Guibal;H;NONE;demande-irfm-jean-claude-guibal.pdf;preuve-envoi-jean-claude-guibal.pdf;avis-cada-20173920.pdf;06/12/2017
-274;�lisabeth Guigou;F;NONE;demande-irfm-elisabeth-guigou.pdf;NONE;avis-cada-20173919.pdf;06/12/2017
-275;Jean-Jacques Guillet;H;NONE;demande-irfm-jean-jacques-guillet.pdf;NONE;avis-cada-20173918.pdf;06/12/2017
-276;Christophe Guilloteau;H;NONE;demande-irfm-christophe-guilloteau.pdf;NONE;avis-cada-20173917.pdf;06/12/2017
-277;Chantal Guittet;F;NONE;demande-irfm-chantal-guittet.pdf;NONE;avis-cada-20173916.pdf;06/12/2017
-278;Meyer Habib;H;NONE;demande-irfm-meyer-habib.pdf;NONE;avis-cada-20173915.pdf;06/12/2017
-279;David Habib;H;REFUS;demande-irfm-david-habib.pdf;NONE;avis-cada-20173401.pdf;24/11/2017
-280;Razzy Hammadi;H;NONE;demande-irfm-razzy-hammadi.pdf;NONE;avis-cada-20173914.pdf;06/12/2017
-281;Beno�t Hamon;H;NONE;demande-irfm-benoit-hamon.pdf;preuve-envoi-benoit-hamon.pdf;avis-cada-20173913.pdf;06/12/2017
-282;Mathieu Hanotin;H;NONE;demande-irfm-mathieu-hanotin.pdf;NONE;avis-cada-20173912.pdf;06/12/2017
-283;Michel Heinrich;H;NONE;demande-irfm-michel-heinrich.pdf;NONE;avis-cada-20172386.pdf;08/12/2017
-284;Michel Herbillon;H;NONE;demande-irfm-michel-herbillon.pdf;NONE;avis-cada-20172739.pdf;08/12/2017
-285;Antoine Herth;H;NONE;demande-irfm-antoine-herth.pdf;preuve-envoi-antoine-herth.pdf;avis-cada-20172883.pdf;08/12/2017
-286;Patrick Hetzel;H;NONE;demande-irfm-patrick-hetzel.pdf;preuve-envoi-patrick-hetzel.pdf;avis-cada-20173361.pdf;08/12/2017
-287;Francis Hillmeyer;H;REFUS;demande-irfm-francis-hillmeyer.pdf;NONE;avis-cada-20173399.pdf;24/11/2017
-288;Gilda Hobert;F;NONE;demande-irfm-gilda-hobert.pdf;NONE;avis-cada-20173380.pdf;08/12/2017
-289;Philippe Houillon;H;NONE;demande-irfm-philippe-houillon.pdf;NONE;avis-cada-20173368.pdf;08/12/2017
-290;Gu�nha�l Huet;H;NONE;demande-irfm-guenhael-huet.pdf;NONE;avis-cada-20173362.pdf;08/12/2017
-291;Jo�lle Huillier;F;NONE;demande-irfm-joelle-huillier.pdf;NONE;avis-cada-20173356.pdf;08/12/2017
-292;Christian Hutin;H;NONE;demande-irfm-christian-hutin.pdf;NONE;avis-cada-20173331.pdf;08/12/2017
-293;S�bastien Huyghe;H;NONE;demande-irfm-sebastien-huyghe.pdf;NONE;avis-cada-20173312.pdf;08/12/2017
-294;Monique Iborra;F;NONE;demande-irfm-monique-iborra.pdf;NONE;avis-cada-20173217.pdf;08/12/2017
-295;Fran�oise Imbert;F;NONE;demande-irfm-francoise-imbert.pdf;NONE;avis-cada-20173192.pdf;08/12/2017
-296;Michel Issindou;H;NONE;demande-irfm-michel-issindou.pdf;NONE;avis-cada-20173066.pdf;08/12/2017
-297;Christian Jacob;H;NONE;demande-irfm-christian-jacob.pdf;NONE;avis-cada-20173521.pdf;23/11/2017
-298;Denis Jacquat;H;NONE;demande-irfm-denis-jacquat.pdf;preuve-envoi-denis-jacquat.png;avis-cada-20173415.pdf;24/11/2017
-299;�ric Jalton;H;NONE;demande-irfm-eric-jalton.pdf;NONE;avis-cada-20173426.pdf;24/11/2017
-300;Serge Janquin;H;NONE;demande-irfm-serge-janquin.pdf;NONE;avis-cada-20173430.pdf;24/11/2017
-301;Yves J�go;H;REFUS;demande-irfm-yves-jego.pdf;preuve-envoi-yves-jego.jpg;avis-cada-20173405.pdf;24/11/2017
-302;Henri Jibrayel;H;NONE;demande-irfm-henri-jibrayel.pdf;NONE;avis-cada-20173434.pdf;24/11/2017
-303;Romain Joron;H;NONE;demande-irfm-romain-joron.pdf;NONE;avis-cada-20173444.pdf;24/11/2017
-304;Laurent Kalinowski;H;NONE;demande-irfm-laurent-kalinowski.pdf;NONE;avis-cada-20173445.pdf;24/11/2017
-305;Marietta Karamanli;F;NONE;demande-irfm-marietta-karamanli.pdf;NONE;avis-cada-20173447.pdf;24/11/2017
-306;Philippe Kemel;H;NONE;demande-irfm-philippe-kemel.pdf;NONE;avis-cada-20173483.pdf;24/11/2017
-307;Christian Kert;H;NONE;demande-irfm-christian-kert.pdf;preuve-envoi-christian-kert.pdf;avis-cada-20173484.pdf;24/11/2017
-308;Chaynesse Khirouni;F;NONE;demande-irfm-chaynesse-khirouni.pdf;NONE;avis-cada-20173485.pdf;24/11/2017
-309;Nathalie Kosciusko-Morizet;F;NONE;demande-irfm-nathalie-kosciusko-morizet.pdf;NONE;avis-cada-20173493.pdf;24/11/2017
-310;Jacques Kossowski;H;NONE;demande-irfm-jacques-kossowski.pdf;preuve-envoi-jacques-kossowski.jpg;avis-cada-20173494.pdf;23/11/2017
-311;Jacques Krabal;H;NONE;demande-irfm-jacques-krabal.pdf;NONE;avis-cada-20173499.pdf;23/11/2017
-312;Patrick Labaune;H;NONE;demande-irfm-patrick-labaune.pdf;NONE;avis-cada-20173503.pdf;23/11/2017
-313;Bernadette Laclais;F;NONE;demande-irfm-bernadette-laclais.pdf;preuve-envoi-bernadette-laclais.jpg;avis-cada-20173504.pdf;23/11/2017
-314;Val�rie Lacroute;F;NONE;demande-irfm-valerie-lacroute.pdf;NONE;avis-cada-20173505.pdf;23/11/2017
-315;Conchita Lacuey;F;NONE;demande-irfm-conchita-lacuey.pdf;preuve-envoi-conchita-lacuey.jpg;avis-cada-20173511.pdf;23/11/2017
-316;Marc Laffineur;H;NONE;demande-irfm-marc-laffineur.pdf;NONE;avis-cada-20173513.pdf;23/11/2017
-317;Sonia Lagarde;F;NONE;demande-irfm-sonia-lagarde.pdf;NONE;avis-cada-20173557.pdf;23/11/2017
-318;Jean-Christophe Lagarde;H;NONE;demande-irfm-jean-christophe-lagarde.pdf;NONE;avis-cada-20173531.pdf;23/11/2017
-319;Fran�ois-Michel Lambert;H;NONE;demande-irfm-francois-michel-lambert.pdf;NONE;avis-cada-20173589.pdf;23/11/2017
-320;J�r�me Lambert;H;NONE;demande-irfm-jerome-lambert.pdf;preuve-envoi-jerome-lambert.pdf;avis-cada-20173590.pdf;23/11/2017
-321;Jacques Lamblin;H;NONE;demande-irfm-jacques-lamblin.pdf;NONE;avis-cada-20173591.pdf;23/11/2017
-322;Jean-Fran�ois Lamour;H;NONE;demande-irfm-jean-francois-lamour.pdf;NONE;avis-cada-20173592.pdf;23/11/2017
-323;Fran�ois Lamy;H;NONE;demande-irfm-francois-lamy.pdf;NONE;avis-cada-20173614.pdf;23/11/2017
-324;Anne-Christine Lang;F;NONE;demande-irfm-anne-christine-lang.pdf;NONE;avis-cada-20173618.pdf;23/11/2017
-325;Colette Langlade;F;REFUS;demande-irfm-colette-langlade.pdf;NONE;avis-cada-20173402.pdf;24/11/2017
-326;Laure de La Raudi�re;F;NONE;demande-irfm-laure-de-la-raudiere.pdf;NONE;avis-cada-20173501.pdf;23/11/2017
-327;Guillaume Larriv�;H;NONE;demande-irfm-guillaume-larrive.pdf;NONE;avis-cada-20173619.pdf;23/11/2017
-328;Jean Lassalle;H;NONE;demande-irfm-jean-lassalle.pdf;NONE;avis-cada-20173663.pdf;23/11/2017
-329;Jean Launay;H;NONE;demande-irfm-jean-launay.pdf;NONE;avis-cada-20173752.pdf;23/11/2017
-330;Jean-Luc Laurent;H;NONE;demande-irfm-jean-luc-laurent.pdf;NONE;avis-cada-20173773.pdf;23/11/2017
-331;Charles de La Verpilli�re;H;NONE;demande-irfm-charles-de-la-verpilliere.pdf;NONE;avis-cada-20173502.pdf;23/11/2017
-332;Thierry Lazaro;H;NONE;demande-irfm-thierry-lazaro.pdf;NONE;avis-cada-20173774.pdf;23/11/2017
-333;Alain Leboeuf;H;NONE;demande-irfm-alain-leboeuf.pdf;NONE;avis-cada-20173939.pdf;23/11/2017
-334;Pierre-Yves Le Borgn';H;NONE;demande-irfm-pierre-yves-le-borgn.pdf;preuve-envoi-pierre-yves-le-borgn.pdf;avis-cada-20173776.pdf;23/11/2017
-335;Jean-Yves Le Bouillonnec;H;NONE;demande-irfm-jean-yves-le-bouillonnec.pdf;NONE;avis-cada-20173793.pdf;23/11/2017
-336;Marylise Lebranchu;F;NONE;demande-irfm-marylise-lebranchu.pdf;NONE;avis-cada-20173940.pdf;23/11/2017
-337;Patrick Lebreton;H;NONE;demande-irfm-patrick-lebreton.pdf;preuve-envoi-patrick-lebreton.pdf;avis-cada-20173941.pdf;23/11/2017
-338;Gilbert Le Bris;H;NONE;demande-irfm-gilbert-le-bris.pdf;NONE;avis-cada-20173799.pdf;23/11/2017
-339;Isabelle Le Callennec;F;NONE;demande-irfm-isabelle-le-callennec.pdf;NONE;avis-cada-20173802.pdf;23/11/2017
-340;Anne-Yvonne Le Dain;F;NONE;demande-irfm-anne-yvonne-le-dain.pdf;NONE;avis-cada-20173819.pdf;23/11/2017
-341;Jean-Yves Le D�aut;H;NONE;demande-irfm-jean-yves-le-deaut.pdf;preuve-envoi-jean-yves-le-deaut.pdf;avis-cada-20173831.pdf;23/11/2017
-342;Viviane Le Dissez;F;NONE;demande-irfm-viviane-le-dissez.pdf;NONE;avis-cada-20173832.pdf;23/11/2017
-343;Vincent Ledoux;H;NONE;demande-irfm-vincent-ledoux.pdf;NONE;avis-cada-20173942.pdf;23/11/2017
-344;Michel Lefait;H;NONE;demande-irfm-michel-lefait.pdf;NONE;avis-cada-20173943.pdf;23/11/2017
-345;Dominique Lefebvre;H;NONE;demande-irfm-dominique-lefebvre.pdf;NONE;avis-cada-20173944.pdf;23/11/2017
-346;Fr�d�ric Lefebvre;H;NONE;demande-irfm-frederic-lefebvre.pdf;NONE;avis-cada-20173945.pdf;23/11/2017
-347;Marc Le Fur;H;NONE;demande-irfm-marc-le-fur.pdf;NONE;avis-cada-20173861.pdf;23/11/2017
-348;Annie Le Houerou;F;NONE;demande-irfm-annie-le-houerou.pdf;preuve-envoi-annie-le-houerou.jpg;avis-cada-20173877.pdf;23/11/2017
-349;Pierre Lellouche;H;REFUS;demande-irfm-pierre-lellouche.pdf;NONE;avis-cada-20173398.pdf;24/11/2017
-350;Annick Le Loch;F;NONE;demande-irfm-annick-le-loch.pdf;NONE;avis-cada-20173926.pdf;23/11/2017
-351;Axelle Lemaire;F;NONE;demande-irfm-axelle-lemaire.pdf;NONE;avis-cada-20173946.pdf;23/11/2017
-352;Bruno Le Maire;H;NONE;demande-irfm-bruno-le-maire.pdf;NONE;avis-cada-20173927.pdf;23/11/2017
-353;Patrick Lemasle;H;NONE;demande-irfm-patrick-lemasle.pdf;NONE;avis-cada-20173947.pdf;23/11/2017
-354;Dominique Le M�ner;H;NONE;demande-irfm-dominique-le-mener.pdf;NONE;avis-cada-20173928.pdf;23/11/2017
-355;Catherine Lemorton;F;NONE;demande-irfm-catherine-lemorton.pdf;NONE;avis-cada-20173948.pdf;23/11/2017
-356;Christophe L�onard;H;NONE;demande-irfm-christophe-leonard.pdf;NONE;avis-cada-20173951.pdf;23/11/2017
-357;Jean Leonetti;H;NONE;demande-irfm-jean-leonetti.pdf;NONE;avis-cada-20173952.pdf;23/11/2017
-358;Annick Lepetit;F;NONE;demande-irfm-annick-lepetit.pdf;NONE;avis-cada-20173953.pdf;23/11/2017
-359;Pierre Lequiller;H;NONE;demande-irfm-pierre-lequiller.pdf;NONE;avis-cada-20173954.pdf;23/11/2017
-360;Philippe Le Ray;H;NONE;demande-irfm-philippe-le-ray.pdf;preuve-envoi-philippe-le-ray.png;avis-cada-20173929.pdf;23/11/2017
-361;Jean-Pierre Le Roch;H;NONE;demande-irfm-jean-pierre-le-roch.pdf;NONE;avis-cada-20173930.pdf;23/11/2017
-362;Bruno Le Roux;H;NONE;demande-irfm-bruno-le-roux.pdf;preuve-envoi-bruno-le-roux.pdf;avis-cada-20173931.pdf;23/11/2017
-363;Arnaud Leroy;H;NONE;demande-irfm-arnaud-leroy.pdf;NONE;avis-cada-20173955.pdf;23/11/2017
-364;Maurice Leroy;H;NONE;demande-irfm-maurice-leroy.pdf;NONE;avis-cada-20173956.pdf;23/11/2017
-365;Marie-Th�r�se Le Roy;F;NONE;demande-irfm-marie-therese-le-roy.pdf;NONE;avis-cada-20173932.pdf;23/11/2017
-366;Michel Lesage;H;NONE;demande-irfm-michel-lesage.pdf;NONE;avis-cada-20173957.pdf;23/11/2017
-367;Bernard Lesterlin;H;NONE;demande-irfm-bernard-lesterlin.pdf;NONE;avis-cada-20173958.pdf;23/11/2017
-368;Serge Letchimy;H;NONE;demande-irfm-serge-letchimy.pdf;preuve-envoi-serge-letchimy.jpg;avis-cada-20173959.pdf;23/11/2017
-369;C�leste Lett;H;NONE;demande-irfm-celeste-lett.pdf;NONE;avis-cada-20173960.pdf;23/11/2017
-370;Marie Le Vern;F;NONE;demande-irfm-marie-le-vern.pdf;NONE;avis-cada-20173933.pdf;23/11/2017
-371;Genevi�ve Levy;F;NONE;demande-irfm-genevieve-levy.pdf;NONE;avis-cada-20173522.pdf;24/11/2017
-372;Michel Liebgott;H;NONE;demande-irfm-michel-liebgott.pdf;NONE;avis-cada-20173392.pdf;24/11/2017
-373;Martine Ligni�res-Cassou;F;NONE;demande-irfm-martine-lignieres-cassou.pdf;NONE;avis-cada-20173412.pdf;24/11/2017
-374;Audrey Linkenheld;F;NONE;demande-irfm-audrey-linkenheld.pdf;NONE;avis-cada-20173514.pdf;24/11/2017
-375;Fran�ois Loncle;H;NONE;demande-irfm-francois-loncle.pdf;NONE;avis-cada-20173878.pdf;24/11/2017
-376;Gabrielle Louis-Carabin;F;NONE;demande-irfm-gabrielle-louis-carabin.pdf;NONE;avis-cada-20173879.pdf;24/11/2017
-377;Lucette Lousteau;F;NONE;demande-irfm-lucette-lousteau.pdf;NONE;avis-cada-20173880.pdf;24/11/2017
-378;V�ronique Louwagie;F;NONE;demande-irfm-veronique-louwagie.pdf;NONE;avis-cada-20173881.pdf;24/11/2017
-379;Lionnel Luca;H;NONE;demande-irfm-lionnel-luca.pdf;NONE;avis-cada-20173882.pdf;24/11/2017
-380;Victorin Lurel;H;NONE;demande-irfm-victorin-lurel.pdf;NONE;NONE;NONE
-381;Gilles Lurton;H;NONE;demande-irfm-gilles-lurton.pdf;preuve-envoi-gilles-lurton.pdf;avis-cada-20174010.pdf;23/11/2017
-382;Jean-Pierre Maggi;H;NONE;demande-irfm-jean-pierre-maggi.pdf;preuve-envoi-jean-pierre-maggi.pdf;avis-cada-20174011.pdf;23/11/2017
-383;No�l Mam�re;H;NONE;demande-irfm-noel-mamere.pdf;preuve-envoi-noel-mamere.jpg;avis-cada-20174012.pdf;23/11/2017
-384;Jean-Fran�ois Mancel;H;NONE;demande-irfm-jean-francois-mancel.pdf;NONE;avis-cada-20174013.pdf;23/11/2017
-385;Jacqueline Maquet;F;NONE;demande-irfm-jacqueline-maquet.pdf;NONE;avis-cada-20174014.pdf;23/11/2017
-386;Laurent Marcangeli;H;NONE;demande-irfm-laurent-marcangeli.pdf;NONE;avis-cada-20174015.pdf;23/11/2017
-387;Marie-Lou Marcel;F;NONE;demande-irfm-marie-lou-marcel.pdf;NONE;avis-cada-20174016.pdf;23/11/2017
-388;Marion Mar�chal-Le Pen;F;NONE;demande-irfm-marion-marechal-le-pen.pdf;NONE;avis-cada-20174017.pdf;23/11/2017
-389;Thierry Mariani;H;NONE;demande-irfm-thierry-mariani.pdf;NONE;avis-cada-20174018.pdf;23/11/2017
-390;Alfred Marie-Jeanne;H;NONE;demande-irfm-alfred-marie-jeanne.pdf;preuve-envoi-alfred-marie-jeanne.jpg;avis-cada-20174019.pdf;23/11/2017
-391;Herv� Mariton;H;NONE;demande-irfm-herve-mariton.pdf;NONE;avis-cada-20174020.pdf;23/11/2017
-392;Olivier Marleix;H;NONE;demande-irfm-olivier-marleix.pdf;preuve-envoi-olivier-marleix.jpg;avis-cada-20174024.pdf;23/11/2017
-393;Alain Marleix;H;NONE;demande-irfm-alain-marleix.pdf;NONE;avis-cada-20174023.pdf;23/11/2017
-394;Franck Marlin;H;NONE;demande-irfm-franck-marlin.pdf;NONE;avis-cada-20174025.pdf;23/11/2017
-395;Jean-Ren� Marsac;H;NONE;demande-irfm-jean-rene-marsac.pdf;NONE;avis-cada-20174026.pdf;23/11/2017
-396;Alain Marsaud;H;NONE;demande-irfm-alain-marsaud.pdf;NONE;avis-cada-20174027.pdf;23/11/2017
-397;Philippe Martin;H;NONE;demande-irfm-philippe-martin.pdf;NONE;avis-cada-20174028.pdf;23/11/2017
-398;Philippe Armand Martin;H;NONE;demande-irfm-philippe-armand-martin.pdf;NONE;avis-cada-20174029.pdf;23/11/2017
-399;Martine Martinel;F;NONE;demande-irfm-martine-martinel.pdf;NONE;avis-cada-20174031.pdf;23/11/2017
-400;Patrice Martin-Lalande;H;NONE;demande-irfm-patrice-martin-lalande.pdf;NONE;avis-cada-20174030.pdf;23/11/2017
-401;Alain Marty;H;NONE;demande-irfm-alain-marty.pdf;NONE;avis-cada-20174032.pdf;23/11/2017
-402;Fr�d�rique Massat;F;NONE;demande-irfm-frederique-massat.pdf;NONE;avis-cada-20174033.pdf;23/11/2017
-403;V�ronique Massonneau;F;NONE;demande-irfm-veronique-massonneau.pdf;NONE;avis-cada-20174034.pdf;23/11/2017
-404;Jean-Claude Mathis;H;NONE;demande-irfm-jean-claude-mathis.pdf;NONE;avis-cada-20174035.pdf;23/11/2017
-405;Sandrine Mazetier;F;NONE;demande-irfm-sandrine-mazetier.pdf;NONE;avis-cada-20174036.pdf;23/11/2017
-406;Fran�ois de Mazi�res;H;NONE;demande-irfm-francois-de-mazieres.pdf;NONE;avis-cada-20174037.pdf;23/11/2017
-407;Michel M�nard;H;NONE;demande-irfm-michel-menard.pdf;NONE;avis-cada-20174038.pdf;23/11/2017
-408;Patrick Mennucci;H;NONE;demande-irfm-patrick-mennucci.pdf;NONE;avis-cada-20174039.pdf;23/11/2017
-409;G�rard Menuel;H;NONE;demande-irfm-gerard-menuel.pdf;NONE;avis-cada-20174040.pdf;23/11/2017
-410;Damien Meslot;H;NONE;demande-irfm-damien-meslot.pdf;NONE;avis-cada-20174041.pdf;23/11/2017
-411;Kl�ber Mesquida;H;NONE;demande-irfm-kleber-mesquida.pdf;NONE;avis-cada-20174042.pdf;23/11/2017
-412;Philippe Meunier;H;NONE;demande-irfm-philippe-meunier.pdf;NONE;avis-cada-20174043.pdf;23/11/2017
-413;Jean-Claude Mignon;H;NONE;demande-irfm-jean-claude-mignon.pdf;NONE;avis-cada-20174044.pdf;23/11/2017
-414;Paul Molac;H;NONE;demande-irfm-paul-molac.pdf;preuve-envoi-paul-molac.jpg;avis-cada-20174045.pdf;23/11/2017
-415;Pierre Morange;H;NONE;demande-irfm-pierre-morange.pdf;NONE;avis-cada-20174046.pdf;23/11/2017
-416;Yannick Moreau;H;NONE;demande-irfm-yannick-moreau.pdf;preuve-envoi-yannick-moreau.jpg;avis-cada-20174047.pdf;23/11/2017
-417;Pierre Morel-A-L'Huissier;H;NONE;demande-irfm-pierre-morel-a-lhuissier.pdf;preuve-envoi-pierre-morel-a-lhuissier.pdf;avis-cada-20174048.pdf;23/11/2017
-418;Alain Moyne-Bressand;H;NONE;demande-irfm-alain-moyne-bressand.pdf;NONE;avis-cada-20174049.pdf;23/11/2017
-419;Pierre-Alain Muet;H;NONE;demande-irfm-pierre-alain-muet.pdf;NONE;avis-cada-20174050.pdf;23/11/2017
-420;Jacques Myard;H;NONE;demande-irfm-jacques-myard.pdf;NONE;avis-cada-20174051.pdf;23/11/2017
-421;Dominique Nachury;F;REFUS;demande-irfm-dominique-nachury.pdf;NONE;avis-cada-20174052.pdf;23/11/2017
-422;Philippe Naillet;H;NONE;demande-irfm-philippe-naillet.pdf;preuve-envoi-philippe-naillet.pdf;avis-cada-20174054.pdf;23/11/2017
-423;Philippe Nauche;H;NONE;demande-irfm-philippe-nauche.pdf;preuve-envoi-philippe-nauche.jpg;avis-cada-20174055.pdf;23/11/2017
-424;Yves Nicolin;H;NONE;demande-irfm-yves-nicolin.pdf;NONE;avis-cada-20174056.pdf;23/11/2017
-425;Nathalie Nieson;F;NONE;demande-irfm-nathalie-nieson.pdf;NONE;avis-cada-20174057.pdf;23/11/2017
-426;Jean-Philippe Nilor;H;NONE;demande-irfm-jean-philippe-nilor.pdf;NONE;avis-cada-20174058.pdf;23/11/2017
-427;Philippe Nogu�s;H;NONE;demande-irfm-philippe-nogues.pdf;NONE;avis-cada-20174059.pdf;23/11/2017
-428;Robert Olive;H;NONE;demande-irfm-robert-olive.pdf;NONE;avis-cada-20174060.pdf;23/11/2017
-429;Maud Olivier;F;NONE;demande-irfm-maud-olivier.pdf;NONE;avis-cada-20174061.pdf;23/11/2017
-430;Patrick Ollier;H;NONE;demande-irfm-patrick-ollier.pdf;NONE;avis-cada-20174062.pdf;23/11/2017
-431;Dominique Orliac;F;REFUS;demande-irfm-dominique-orliac.pdf;NONE;avis-cada-20173407.pdf;24/11/2017
-432;Monique Orph�;F;NONE;demande-irfm-monique-orphe.pdf;preuve-envoi-monique-orphe.pdf;avis-cada-20174063.pdf;23/11/2017
-433;Michel Pajon;H;NONE;demande-irfm-michel-pajon.pdf;NONE;avis-cada-20174064.pdf;23/11/2017
-434;Bertrand Pancher;H;NONE;demande-irfm-bertrand-pancher.pdf;NONE;avis-cada-20174065.pdf;23/11/2017
-435;Luce Pane;F;NONE;demande-irfm-luce-pane.pdf;NONE;avis-cada-20174066.pdf;23/11/2017
-436;Christian Paul;H;NONE;demande-irfm-christian-paul.pdf;NONE;avis-cada-20174068.pdf;23/11/2017
-437;George Pau-Langevin;F;NONE;demande-irfm-george-pau-langevin.pdf;NONE;avis-cada-20174067.pdf;23/11/2017
-438;R�mi Pauvros;H;NONE;demande-irfm-remi-pauvros.pdf;preuve-envoi-remi-pauvros.pdf;avis-cada-20174069.pdf;23/11/2017
-439;Germinal Peiro;H;NONE;demande-irfm-germinal-peiro.pdf;NONE;avis-cada-20174070.pdf;23/11/2017
-440;Jacques P�lissard;H;NONE;demande-irfm-jacques-pelissard.pdf;NONE;avis-cada-20174071.pdf;23/11/2017
-441;Herv� Pellois;H;NONE;demande-irfm-herve-pellois.pdf;NONE;avis-cada-20174072.pdf;23/11/2017
-442;Jean-Claude Perez;H;NONE;demande-irfm-jean-claude-perez.pdf;NONE;avis-cada-20174073.pdf;23/11/2017
-443;St�phanie Pernod Beaudon;F;REFUS;demande-irfm-stephanie-pernod-beaudon.pdf;NONE;avis-cada-20173397.pdf;24/11/2017
-444;Bernard Perrut;H;NONE;demande-irfm-bernard-perrut.pdf;NONE;avis-cada-20173524.pdf;27/11/2017
-445;Edouard Philippe;H;NONE;demande-irfm-edouard-philippe.pdf;NONE;avis-cada-20173593.pdf;27/11/2017
-446;S�bastien Pietrasanta;H;NONE;demande-irfm-sebastien-pietrasanta.pdf;preuve-envoi-sebastien-pietrasanta.pdf;avis-cada-20173594.pdf;27/11/2017
-447;Sylvia Pinel;F;NONE;demande-irfm-sylvia-pinel.pdf;preuve-envoi-sylvia-pinel.pdf;avis-cada-20173595.pdf;27/11/2017
-448;Christine Pires Beaune;F;REFUS;demande-irfm-christine-pires-beaune.pdf;preuve-envoi-christine-pires-beaune.jpg;avis-cada-20173406.pdf;24/11/2017
-449;Michel Piron;H;NONE;demande-irfm-michel-piron.pdf;NONE;avis-cada-20173596.pdf;27/11/2017
-450;Philippe Plisson;H;NONE;demande-irfm-philippe-plisson.pdf;NONE;avis-cada-20173597.pdf;27/11/2017
-451;Elisabeth Pochon;F;NONE;demande-irfm-elisabeth-pochon.pdf;NONE;avis-cada-20173598.pdf;27/11/2017
-452;Jean-Fr�d�ric Poisson;H;NONE;demande-irfm-jean-frederic-poisson.pdf;NONE;avis-cada-20173599.pdf;27/11/2017
-453;B�reng�re Poletti;F;NONE;demande-irfm-berengere-poletti.pdf;NONE;avis-cada-20173600.pdf;27/11/2017
-454;Napole Polut�l�;H;NONE;demande-irfm-napole-polutele.pdf;NONE;avis-cada-20173601.pdf;27/11/2017
-455;Axel Poniatowski;H;NONE;demande-irfm-axel-poniatowski.pdf;NONE;avis-cada-20173602.pdf;29/11/2017
-456;Josette Pons;F;NONE;demande-irfm-josette-pons.pdf;NONE;avis-cada-20173631.pdf;27/11/2017
-457;Pascal Popelin;H;NONE;demande-irfm-pascal-popelin.pdf;NONE;avis-cada-20173632.pdf;29/11/2017
-458;Dominique Potier;H;NONE;demande-irfm-dominique-potier.pdf;NONE;avis-cada-20173633.pdf;29/11/2017
-459;Michel Pouzol;H;NONE;demande-irfm-michel-pouzol.pdf;preuve-envoi-michel-pouzol.jpg;avis-cada-20173634.pdf;29/11/2017
-460;R�gine Pov�da;F;NONE;demande-irfm-regine-poveda.pdf;NONE;avis-cada-20173635.pdf;29/11/2017
-461;Patrice Prat;H;NONE;demande-irfm-patrice-prat.pdf;NONE;avis-cada-20173636.pdf;29/11/2017
-462;Christophe Premat;H;NONE;demande-irfm-christophe-premat.pdf;NONE;avis-cada-20173637.pdf;29/11/2017
-463;Christophe Priou;H;NONE;demande-irfm-christophe-priou.pdf;NONE;avis-cada-20173638.pdf;29/11/2017
-464;Joaquim Pueyo;H;NONE;demande-irfm-joaquim-pueyo.pdf;NONE;avis-cada-20173639.pdf;29/11/2017
-465;Fran�ois Pupponi;H;NONE;demande-irfm-francois-pupponi.pdf;NONE;avis-cada-20173640.pdf;29/11/2017
-466;Didier Quentin;H;NONE;demande-irfm-didier-quentin.pdf;NONE;avis-cada-20173653.pdf;29/11/2017
-467;Catherine Qu�r�;F;NONE;demande-irfm-catherine-quere.pdf;NONE;avis-cada-20173654.pdf;29/11/2017
-468;Val�rie Rabault;F;NONE;demande-irfm-valerie-rabault.pdf;NONE;avis-cada-20173655.pdf;29/11/2017
-469;Monique Rabin;F;NONE;demande-irfm-monique-rabin.pdf;NONE;avis-cada-20173656.pdf;29/11/2017
-470;Marie R�calde;F;NONE;demande-irfm-marie-recalde.pdf;NONE;avis-cada-20173657.pdf;29/11/2017
-471;Fr�d�ric Reiss;H;NONE;demande-irfm-frederic-reiss.pdf;preuve-envoi-frederic-reiss.pdf;avis-cada-20173658.pdf;29/11/2017
-472;Jean-Luc Reitzer;H;NONE;demande-irfm-jean-luc-reitzer.pdf;NONE;avis-cada-20173659.pdf;29/11/2017
-473;Marie-Line Reynaud;F;NONE;demande-irfm-marie-line-reynaud.pdf;preuve-envoi-marie-line-reynaud.pdf;avis-cada-20173660.pdf;29/11/2017
-474;Bernard Reyn�s;H;NONE;demande-irfm-bernard-reynes.pdf;NONE;avis-cada-20173661.pdf;29/11/2017
-475;Franck Reynier;H;NONE;demande-irfm-franck-reynier.pdf;NONE;avis-cada-20173662.pdf;29/11/2017
-476;Pierre Ribeaud;H;NONE;demande-irfm-pierre-ribeaud.pdf;NONE;avis-cada-20173763.pdf;29/11/2017
-477;Arnaud Richard;H;NONE;demande-irfm-arnaud-richard.pdf;NONE;avis-cada-20173764.pdf;29/11/2017
-478;Franck Riester;H;NONE;demande-irfm-franck-riester.pdf;NONE;avis-cada-20173765.pdf;29/11/2017
-479;Eduardo Rihan Cypel;H;NONE;demande-irfm-eduardo-rihan-cypel.pdf;NONE;avis-cada-20173766.pdf;29/11/2017
-480;Thierry Robert;H;NONE;demande-irfm-thierry-robert.pdf;preuve-envoi-thierry-robert.pdf;avis-cada-20173767.pdf;28/11/2017
-481;Denys Robiliard;H;NONE;demande-irfm-denys-robiliard.pdf;NONE;avis-cada-20173768.pdf;28/11/2017
-482;Arnaud Robinet;H;NONE;demande-irfm-arnaud-robinet.pdf;NONE;avis-cada-20173769.pdf;28/11/2017
-483;Camille de Rocca Serra;H;NONE;demande-irfm-camille-de-rocca-serra.pdf;NONE;avis-cada-20173770.pdf;28/11/2017
-484;Fran�ois Rochebloine;H;NONE;demande-irfm-francois-rochebloine.pdf;NONE;avis-cada-20173771.pdf;28/11/2017
-485;Alain Rodet;H;NONE;demande-irfm-alain-rodet.pdf;preuve-envoi-alain-rodet.pdf;avis-cada-20173772.pdf;28/11/2017
-486;Marcel Rogemont;H;NONE;demande-irfm-marcel-rogemont.pdf;preuve-envoi-marcel-rogemont.pdf;avis-cada-20173820.pdf;28/11/2017
-487;Sophie Rohfritsch;F;NONE;demande-irfm-sophie-rohfritsch.pdf;preuve-envoi-sophie-rohfritsch.pdf;avis-cada-20173821.pdf;28/11/2017
-488;Fr�d�ric Roig;H;NONE;demande-irfm-frederic-roig.pdf;NONE;avis-cada-20173822.pdf;28/11/2017
-489;Gwendal Rouillard;H;NONE;demande-irfm-gwendal-rouillard.pdf;NONE;avis-cada-20173823.pdf;28/11/2017
-490;Jean-Louis Roumegas;H;NONE;demande-irfm-jean-louis-roumegas.pdf;NONE;avis-cada-20173824.pdf;28/11/2017
-491;Ren� Rouquet;H;NONE;demande-irfm-rene-rouquet.pdf;preuve-envoi-rene-rouquet.png;avis-cada-20173825.pdf;28/11/2017
-492;Alain Rousset;H;NONE;demande-irfm-alain-rousset.pdf;NONE;avis-cada-20173826.pdf;28/11/2017
-493;Fran�ois de Rugy;H;NONE;demande-irfm-francois-de-rugy.pdf;NONE;avis-cada-20173827.pdf;28/11/2017
-494;Martial Saddier;H;NONE;demande-irfm-martial-saddier.pdf;NONE;avis-cada-20173828.pdf;28/11/2017
-495;Maina Sage;F;NONE;demande-irfm-maina-sage.pdf;NONE;avis-cada-20173780.pdf;28/11/2017
-496;Boinali Said;H;NONE;demande-irfm-boinali-said.pdf;NONE;avis-cada-20173779.pdf;28/11/2017
-497;St�phane Saint-Andr�;H;NONE;demande-irfm-stephane-saint-andre.pdf;NONE;avis-cada-20173781.pdf;28/11/2017
-498;Paul Salen;H;NONE;demande-irfm-paul-salen.pdf;NONE;avis-cada-20173782.pdf;28/11/2017
-499;Rudy Salles;H;NONE;demande-irfm-rudy-salles.pdf;NONE;avis-cada-20173783.pdf;28/11/2017
-500;Nicolas Sansu;H;NONE;demande-irfm-nicolas-sansu.pdf;NONE;avis-cada-20173784.pdf;28/11/2017
-501;B�atrice Santais;F;NONE;demande-irfm-beatrice-santais.pdf;NONE;avis-cada-20173785.pdf;28/11/2017
-502;Andr� Santini;H;NONE;demande-irfm-andre-santini.pdf;NONE;avis-cada-20173786.pdf;28/11/2017
-503;Eva Sas;F;NONE;demande-irfm-eva-sas.pdf;NONE;avis-cada-20173787.pdf;28/11/2017
-504;Odile Saugues;F;NONE;demande-irfm-odile-saugues.pdf;preuve-envoi-odile-saugues.jpg;avis-cada-20173829.pdf;28/11/2017
-505;Gilbert Sauvan;H;NONE;demande-irfm-gilbert-sauvan.pdf;NONE;avis-cada-20173833.pdf;28/11/2017
-506;Gilles Savary;H;NONE;demande-irfm-gilles-savary.pdf;NONE;avis-cada-20173834.pdf;28/11/2017
-507;Fran�ois Scellier;H;NONE;demande-irfm-francois-scellier.pdf;NONE;avis-cada-20173835.pdf;28/11/2017
-508;Claudine Schmid;F;NONE;demande-irfm-claudine-schmid.pdf;NONE;avis-cada-20173836.pdf;28/11/2017
-509;Andr� Schneider;H;NONE;demande-irfm-andre-schneider.pdf;preuve-envoi-andre-schneider.pdf;avis-cada-20173837.pdf;28/11/2017
-510;Roger-G�rard Schwartzenberg;H;NONE;demande-irfm-roger-gerard-schwartzenberg.pdf;NONE;avis-cada-20173838.pdf;28/11/2017
-511;G�rard Sebaoun;H;NONE;demande-irfm-gerard-sebaoun.pdf;preuve-envoi-gerard-sebaoun.png;avis-cada-20173839.pdf;28/11/2017
-512;Jean-Marie Sermier;H;NONE;demande-irfm-jean-marie-sermier.pdf;NONE;avis-cada-20173840.pdf;28/11/2017
-513;Gabriel Serville;H;NONE;demande-irfm-gabriel-serville.pdf;NONE;avis-cada-20173790.pdf;28/11/2017
-514;Fernand Sir�;H;NONE;demande-irfm-fernand-sire.pdf;NONE;avis-cada-20173791.pdf;28/11/2017
-515;Thierry Sol�re;H;NONE;demande-irfm-thierry-solere.pdf;preuve-envoi-thierry-solere.png;NONE;NONE
-516;Julie Sommaruga;F;NONE;demande-irfm-julie-sommaruga.pdf;NONE;avis-cada-20173525.pdf;04/12/2017
-517;Michel Sordi;H;NONE;demande-irfm-michel-sordi.pdf;NONE;avis-cada-20174080.pdf;27/11/2017
-518;�ric Straumann;H;NONE;demande-irfm-eric-straumann.pdf;NONE;avis-cada-20174081.pdf;27/11/2017
-519;Claude Sturni;H;NONE;demande-irfm-claude-sturni.pdf;preuve-envoi-claude-sturni.pdf;avis-cada-20174082.pdf;27/11/2017
-520;Alain Suguenot;H;NONE;demande-irfm-alain-suguenot.pdf;NONE;avis-cada-20174083.pdf;27/11/2017
-521;Mich�le Tabarot;F;NONE;demande-irfm-michele-tabarot.pdf;preuve-envoi-michele-tabarot.pdf;avis-cada-20174084.pdf;27/11/2017
-522;Jonas Tahuaitu;H;NONE;demande-irfm-jonas-tahuaitu.pdf;NONE;avis-cada-20174086.pdf;27/11/2017
-523;Suzanne Tallard;F;NONE;demande-irfm-suzanne-tallard.pdf;NONE;avis-cada-20174091.pdf;27/11/2017
-524;Lionel Tardy;H;NONE;demande-irfm-lionel-tardy.pdf;preuve-envoi-lionel-tardy.pdf;avis-cada-20174093.pdf;27/11/2017
-525;Jean-Charles Taugourdeau;H;NONE;demande-irfm-jean-charles-taugourdeau.pdf;NONE;avis-cada-20174096.pdf;23/11/2017
-526;Guy Teissier;H;NONE;demande-irfm-guy-teissier.pdf;NONE;avis-cada-20174135.pdf;23/11/2017
-527;Pascal Terrasse;H;NONE;demande-irfm-pascal-terrasse.pdf;NONE;avis-cada-20174140.pdf;23/11/2017
-528;Michel Terrot;H;NONE;demande-irfm-michel-terrot.pdf;NONE;avis-cada-20174141.pdf;23/11/2017
-529;Jean-Marie Tetart;H;NONE;demande-irfm-jean-marie-tetart.pdf;NONE;avis-cada-20174142.pdf;23/11/2017
-530;Pascal Th�venot;H;NONE;demande-irfm-pascal-thevenot.pdf;NONE;avis-cada-20174143.pdf;23/11/2017
-531;Thomas Th�venoud;H;NONE;demande-irfm-thomas-thevenoud.pdf;NONE;avis-cada-20174144.pdf;23/11/2017
-532;Dominique Tian;H;NONE;demande-irfm-dominique-tian.pdf;NONE;avis-cada-20174145.pdf;23/11/2017
-533;Sylvie Tolmont;F;NONE;demande-irfm-sylvie-tolmont.pdf;NONE;avis-cada-20174146.pdf;23/11/2017
-534;Jean-Louis Touraine;H;NONE;demande-irfm-jean-louis-touraine.pdf;NONE;avis-cada-20174147.pdf;23/11/2017
-535;Alain Tourret;H;NONE;demande-irfm-alain-tourret.pdf;NONE;avis-cada-20174148.pdf;23/11/2017
-536;St�phane Travert;H;NONE;demande-irfm-stephane-travert.pdf;NONE;avis-cada-20174149.pdf;23/11/2017
-537;Yannick Trigance;H;NONE;demande-irfm-yannick-trigance.pdf;NONE;avis-cada-20174150.pdf;23/11/2017
-538;Catherine Troallic;F;NONE;demande-irfm-catherine-troallic.pdf;NONE;avis-cada-20174151.pdf;23/11/2017
-539;Jean-Paul Tuaiva;H;NONE;demande-irfm-jean-paul-tuaiva.pdf;NONE;avis-cada-20174152.pdf;23/11/2017
-540;C�cile Untermaier;F;NONE;demande-irfm-cecile-untermaier.pdf;NONE;avis-cada-20174153.pdf;23/11/2017
-541;Daniel Vaillant;H;NONE;demande-irfm-daniel-vaillant.pdf;NONE;avis-cada-20174154.pdf;23/11/2017
-542;Jacques Valax;H;NONE;demande-irfm-jacques-valax.pdf;NONE;avis-cada-20174155.pdf;23/11/2017
-543;Manuel Valls;H;NONE;demande-irfm-manuel-valls.pdf;NONE;avis-cada-20174156.pdf;23/11/2017
-544;Fran�ois Vannson;H;NONE;demande-irfm-francois-vannson.pdf;NONE;avis-cada-20174157.pdf;23/11/2017
-545;Catherine Vautrin;F;NONE;demande-irfm-catherine-vautrin.pdf;NONE;avis-cada-20174158.pdf;23/11/2017
-546;Michel Vauzelle;H;NONE;demande-irfm-michel-vauzelle.pdf;NONE;avis-cada-20174159.pdf;23/11/2017
-547;Francis Vercamer;H;NONE;demande-irfm-francis-vercamer.pdf;preuve-envoi-francis-vercamer.jpg;avis-cada-20173886.pdf;04/12/2017
-548;Patrice Verch�re;H;NONE;demande-irfm-patrice-verchere.pdf;NONE;avis-cada-20173889.pdf;04/12/2017
-549;Fabrice Verdier;H;NONE;demande-irfm-fabrice-verdier.pdf;NONE;avis-cada-20173891.pdf;04/12/2017
-550;Michel Vergnier;H;NONE;demande-irfm-michel-vergnier.pdf;NONE;avis-cada-20173894.pdf;04/12/2017
-551;Arnaud Viala;H;NONE;demande-irfm-arnaud-viala.pdf;NONE;avis-cada-20173901.pdf;27/11/2017
-552;Jean-S�bastien Vialatte;H;NONE;demande-irfm-jean-sebastien-vialatte.pdf;NONE;avis-cada-20174100.pdf;23/11/2017
-553;Jean-Pierre Vigier;H;NONE;demande-irfm-jean-pierre-vigier.pdf;NONE;avis-cada-20174161.pdf;23/11/2017
-554;Philippe Vigier;H;NONE;demande-irfm-philippe-vigier.pdf;NONE;avis-cada-20174162.pdf;23/11/2017
-555;Patrick Vignal;H;NONE;demande-irfm-patrick-vignal.pdf;NONE;avis-cada-20174163.pdf;23/11/2017
-556;Fran�ois-Xavier Villain;H;NONE;demande-irfm-francois-xavier-villain.pdf;NONE;avis-cada-20174164.pdf;23/11/2017
-557;Jean-Michel Villaum�;H;NONE;demande-irfm-jean-michel-villaume.pdf;NONE;avis-cada-20174167.pdf;23/11/2017
-558;Philippe Vitel;H;NONE;demande-irfm-philippe-vitel.pdf;NONE;avis-cada-20174168.pdf;23/11/2017
-559;Jean Jacques Vlody;H;NONE;demande-irfm-jean-jacques-vlody.pdf;preuve-envoi-jean-jacques-vlody.pdf;avis-cada-20174169.pdf;23/11/2017
-560;Michel Voisin;H;NONE;demande-irfm-michel-voisin.pdf;NONE;avis-cada-20174170.pdf;23/11/2017
-561;Jean-Luc Warsmann;H;NONE;demande-irfm-jean-luc-warsmann.pdf;NONE;avis-cada-20174171.pdf;23/11/2017
-562;Laurent Wauquiez;H;NONE;demande-irfm-laurent-wauquiez.pdf;NONE;avis-cada-20174172.pdf;23/11/2017
-563;Patrick Weiten;H;NONE;demande-irfm-patrick-weiten.pdf;NONE;avis-cada-20174173.pdf;23/11/2017
-564;�ric Woerth;H;NONE;demande-irfm-eric-woerth.pdf;NONE;avis-cada-20174174.pdf;23/11/2017
-565;Paola Zanetti;F;NONE;demande-irfm-paola-zanetti.pdf;NONE;avis-cada-20174175.pdf;23/11/2017
-566;Marie-Jo Zimmermann;F;NONE;demande-irfm-marie-jo-zimmermann.pdf;NONE;avis-cada-20174176.pdf;23/11/2017
-567;Michel Zumkeller;H;NONE;demande-irfm-michel-zumkeller.pdf;NONE;avis-cada-20174177.pdf;23/11/2017
+num;nom;slug;sexe;adresse;refus;demande;bordereau;cada_no;avis_cada;date_cada;lar_envoi;lar_reception
+001;Damien Abad;damien-abad;H;Permanence parlementaire d'Oyonnax, 158 Rue Anatole-France, 01100 Oyonnax; ;demande-irfm-damien-abad.pdf;NONE;20173424;avis-cada-20173424.pdf;24 novembre 2017;07 juin 2017;
+002;Laurence Abeille;laurence-abeille;F;Assemblée nationale, 126 Rue de l'université, 75355 Paris 07 SP; ;demande-irfm-laurence-abeille.pdf;preuve-envoi-laurence-abeille.jpg;20173423;avis-cada-20173423.pdf;24 novembre 2017;30 mai 2017;07 juin 2017
+003;Ibrahim Aboubacar;ibrahim-aboubacar;H;Quartier Comojou, SADA, BP 105, 97640 Sada; ;demande-irfm-ibrahim-aboubacar.pdf;;20173422;avis-cada-20173422.pdf;24 novembre 2017;;
+004;Élie Aboud;elie-aboud;H;Permanence parlementaire, 6 Avenue du 22 Août, 34500 Béziers; ;demande-irfm-elie-aboud.pdf;NONE;20173420;avis-cada-20173420.pdf;24 novembre 2017;29 mai 2017;02 juin 2017
+005;Bernard Accoyer;bernard-accoyer;H;49 Avenue de Genève, 74000 Annecy; ;demande-irfm-bernard-accoyer.pdf;preuve-envoi-bernard-accoyer.jpg;20173421;avis-cada-20173421.pdf;24 novembre 2017;01 juin 2017;06 juin 2017
+006;Patricia Adam;patricia-adam;F;Permanence, 43 D Rue Branda, BP 21041, 29210 Brest cedex 1; ;demande-irfm-patricia-adam.pdf;preuve-envoi-patricia-adam.pdf;20173419;avis-cada-20173419.pdf;24 novembre 2017;07 juin 2017;11 juin 2017
+007;Sylviane Alaux;sylviane-alaux;F;Permanence parlementaire, 17 Avenue Gabriel Delaunay, Bâtiment Ederra, 64500 Ciboure; ;demande-irfm-sylviane-alaux.pdf;;20173418;avis-cada-20173418.pdf;24 novembre 2017;;
+008;Éric Alauzet;eric-alauzet;H;Permanence parlementaire, 59 Rue de Belfort, 25000 Besançon;REFUS;demande-irfm-eric-alauzet.pdf;;20173404;avis-cada-20173404.pdf;24 novembre 2017;;07 juin 2017
+009;Yves Albarello;yves-albarello;H;Permanence parlementaire, 64 Rue Jean-Jaurès, 77410 Claye-Souilly; ;demande-irfm-yves-albarello.pdf;;20173417;avis-cada-20173417.pdf;24 novembre 2017;;
+010;Jean-Pierre Allossery;jean-pierre-allossery;H;Permanence parlementaire, 2 Rue de Lille, 59190 Hazebrouck; ;demande-irfm-jean-pierre-allossery.pdf;;20173416;avis-cada-20173416.pdf;24 novembre 2017;;
+011;Nicole Ameline;nicole-ameline;F;Permanence parlementaire, BP 20096, 14603 Honfleur cedex; ;demande-irfm-nicole-ameline.pdf;;20173411;avis-cada-20173411.pdf;24 novembre 2017;;
+012;Pouria Amirshahi;pouria-amirshahi;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-pouria-amirshahi.pdf;;20173410;avis-cada-20173410.pdf;24 novembre 2017;;
+013;François André;francois-andre;H;2 Avenue du Languedoc, 35000 Rennes; ;demande-irfm-francois-andre.pdf;NONE;20173409;avis-cada-20173409.pdf;24 novembre 2017;23 juin 2017;24 juin 2017
+014;Sylvie Andrieux;sylvie-andrieux;F;Permanence parlementaire, 1 Place Albert Durand, Village de Sainte-Marthe, 13014 Marseille; ;demande-irfm-sylvie-andrieux.pdf;preuve-envoi-sylvie-andrieux.pdf;20173518;avis-cada-20173518.pdf;24 novembre 2017;09 juin 2017;28 juin 2017
+015;Benoist Apparu;benoist-apparu;H;Permanence parlementaire, 25 Rue Prieur de la Marne, 51000 Châlons-en-Champagne; ;demande-irfm-benoist-apparu.pdf;NONE;20173613;avis-cada-20173613.pdf;24 novembre 2017;29 mai 2017;06 juin 2017
+016;Nathalie Appéré;nathalie-appere;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-nathalie-appere.pdf;preuve-envoi-nathalie-appere.jpg;20173612;avis-cada-20173612.pdf;24 novembre 2017;31 mai 2017;22 juin 2017
+017;Kader Arif;kader-arif;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-kader-arif.pdf;;20173611;avis-cada-20173611.pdf;24 novembre 2017;;
+018;Laurence Arribagé;laurence-arribage;F;Permanence parlementaire, 16 Rue Fermat, 31000 Toulouse; ;demande-irfm-laurence-arribage.pdf;;20173610;avis-cada-20173610.pdf;24 novembre 2017;;
+019;François Asensi;francois-asensi;H;18 Boulevard de l'Hôtel de Ville, 93290 Tremblay-en-France; ;demande-irfm-francois-asensi.pdf;;20173609;avis-cada-20173609.pdf;24 novembre 2017;;
+020;Christian Assaf;christian-assaf;H;8 Allée Antonin Chauliac, 34080 Montpellier; ;demande-irfm-christian-assaf.pdf;preuve-envoi-christian-assaf.pdf;20173608;avis-cada-20173608.pdf;24 novembre 2017;06 juin 2017;09 juin 2017
+021;Julien Aubert;julien-aubert;H;Permanence parlementaire, 36 Boulevard Albin Durand, BP 70045, 84202 Carpentras Cedex;REFUS;demande-irfm-julien-aubert.pdf;;20173883;avis-cada-20173883.pdf;23 novembre 2017;;
+022;Olivier Audibert Troin;olivier-audibert-troin;H;Permanence parlementaire, 9 Avenue Lazare Carnot, 83300 Draguignan; ;demande-irfm-olivier-audibert-troin.pdf;;20173604;avis-cada-20173604.pdf;24 novembre 2017;;
+023;Danielle Auroi;danielle-auroi;F;7 Rue Montlosier, 63000 Clermont Ferrand; ;demande-irfm-danielle-auroi.pdf;NONE;20173605;avis-cada-20173605.pdf;24 novembre 2017;11 juin 2017;15 juin 2017
+024;Pierre Aylagas;pierre-aylagas;H;2 Boulevard Lafayette, 66400 Céret; ;demande-irfm-pierre-aylagas.pdf;;20173606;avis-cada-20173606.pdf;24 novembre 2017;;
+025;Bruno Nestor Azerot;bruno-nestor-azerot;H;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-bruno-nestor-azerot.pdf;preuve-envoi-bruno-nestor-azerot.jpg;20173607;avis-cada-20173607.pdf;24 novembre 2017;27 mai 2017;
+026;Alexis Bachelay;alexis-bachelay;H;Maison de la Circonscription, 9 Place Jean Grandel, 92230 Gennevilliers; ;demande-irfm-alexis-bachelay.pdf;NONE;20173621;avis-cada-20173621.pdf;24 novembre 2017;30 mai 2017;06 juin 2017
+027;Guillaume Bachelay;guillaume-bachelay;H;Assemblée nationale, 126 Rue de l'Univeristé, 75355 Paris 07 SP; ;demande-irfm-guillaume-bachelay.pdf;;20173622;avis-cada-20173622.pdf;24 novembre 2017;;
+028;Jean-Paul Bacquet;jean-paul-bacquet;H;Mairie, 63114 Coudes; ;demande-irfm-jean-paul-bacquet.pdf;;20173623;avis-cada-20173623.pdf;24 novembre 2017;;
+029;Dominique Baert;dominique-baert;H;Hôtel de Ville, Place J. Delvainquière, 59150 Wattrelos; ;demande-irfm-dominique-baert.pdf;;20173624;avis-cada-20173624.pdf;24 novembre 2017;;
+030;Guy Bailliart;guy-bailliart;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-guy-bailliart.pdf;NONE;20173625;avis-cada-20173625.pdf;24 novembre 2017;11 juin 2017;14 juin 2017
+031;Patrick Balkany;patrick-balkany;H;Permanence, 18 Rue Charles et René Auffray, 92110 Clichy-la-Garenne; ;demande-irfm-patrick-balkany.pdf;preuve-envoi-patrick-balkany.jpg;20173626;avis-cada-20173626.pdf;24 novembre 2017;23 mai 2017;
+032;Alain Ballay;alain-ballay;H;Permanence parlementaire, 36-38 Avenue Victor Hugo, 19000 Tulle; ;demande-irfm-alain-ballay.pdf;preuve-envoi-alain-ballay.jpg;20173627;avis-cada-20173627.pdf;24 novembre 2017;03 juin 2017;09 juin 2017
+033;Gérard Bapt;gerard-bapt;H;5 Rue Pierrette Louin, Résidence L'Aiglon, 31200 Toulouse; ;demande-irfm-gerard-bapt.pdf;NONE;20173628;avis-cada-20173628.pdf;24 novembre 2017;30 mai 2017;06 juin 2017
+034;Frédéric Barbier;frederic-barbier;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-frederic-barbier.pdf;NONE;20173629;avis-cada-20173629.pdf;24 novembre 2017;23 juin 2017;
+035;Jean-Pierre Barbier;jean-pierre-barbier;H;6 Avenue Jean jaurès, 38260 La Côte Saint-André; ;demande-irfm-jean-pierre-barbier.pdf;;20173630;avis-cada-20173630.pdf;24 novembre 2017;;
+036;Serge Bardy;serge-bardy;H;48 Rue Henri Hamelin, 49000 Angers; ;demande-irfm-serge-bardy.pdf;NONE;20173642;avis-cada-20173642.pdf;24 novembre 2017;25 mai 2017;06 juin 2017
+037;Claude Bartolone;claude-bartolone;H;Permanence, 45 Avenue du Général Leclerc, 93500 Pantin; ;demande-irfm-claude-bartolone.pdf;preuve-envoi-claude-bartolone.jpg;20173643;avis-cada-20173643.pdf;24 novembre 2017;28 mai 2017;
+038;Christian Bataille;christian-bataille;H;14 Rue Paul Vaillant Couturier, 59620 Aulnoye Aymeries; ;demande-irfm-christian-bataille.pdf;;20173644;avis-cada-20173644.pdf;24 novembre 2017;;
+039;Delphine Batho;delphine-batho;F;Permanence parlementaire, 24 Rue Jean Jaurès, 79200 Parthenay; ;demande-irfm-delphine-batho.pdf;NONE;20173645;avis-cada-20173645.pdf;24 novembre 2017;22 juin 2017;14 juillet 2017
+040;Marie-Noëlle Battistel;marie-noelle-battistel;F;Permanence, 9 Rue de la Poste, 38170 Seyssinet-Pariset; ;demande-irfm-marie-noelle-battistel.pdf;NONE;20173646;avis-cada-20173646.pdf;24 novembre 2017;01 juin 2017;11 juin 2017
+041;Laurent Baumel;laurent-baumel;H;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-laurent-baumel.pdf;NONE;20173647;avis-cada-20173647.pdf;24 novembre 2017;30 mai 2017;16 juin 2017
+042;Philippe Baumel;philippe-baumel;H;Permanence parlementaire, 1 Boulevard Henri-Paul Schneider, 71200 Le Creusot; ;demande-irfm-philippe-baumel.pdf;NONE;20173648;avis-cada-20173648.pdf;24 novembre 2017;01 juin 2017;15 juin 2017
+043;Denis Baupin;denis-baupin;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-denis-baupin.pdf;NONE;20173649;avis-cada-20173649.pdf;24 novembre 2017;31 mai 2017;06 juin 2017
+044;Nicolas Bays;nicolas-bays;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-nicolas-bays.pdf;;20173650;avis-cada-20173650.pdf;24 novembre 2017;;
+045;Catherine Beaubatie;catherine-beaubatie;F;Permanence parlementaire, 3 Rue Haute de la Comédie, BP 15, 87001 Limoges Cedex; ;demande-irfm-catherine-beaubatie.pdf;preuve-envoi-catherine-beaubatie.pdf;20173651;avis-cada-20173651.pdf;24 novembre 2017;26 mai 2017;06 juin 2017
+046;Marie-Françoise Bechtel;marie-francoise-bechtel;F;Permanence parlementaire, 1 Avenue du Général de Gaulle, 02200 Soissons; ;demande-irfm-marie-francoise-bechtel.pdf;;20173686;avis-cada-20173686.pdf;24 novembre 2017;;
+047;Jean-Marie Beffara;jean-marie-beffara;H;Permanence parlementaire, 4 Rue des Douves, 37250 Montbazon; ;demande-irfm-jean-marie-beffara.pdf;NONE;20173687;avis-cada-20173687.pdf;24 novembre 2017;08 juin 2017;12 juin 2017
+048;Huguette Bello;huguette-bello;F;19 Chaussée Royale, BP 69, 97862 Saint-Paul cedex; ;demande-irfm-huguette-bello.pdf;preuve-envoi-huguette-bello.pdf;20173688;avis-cada-20173688.pdf;24 novembre 2017;16 juin 2017;28 juillet 2017
+049;Luc Belot;luc-belot;H;Permanence parlementaire, 15 Rue Voltaire, 49100 Angers; ;demande-irfm-luc-belot.pdf;;20173690;avis-cada-20173690.pdf;24 novembre 2017;;
+050;Jacques Alain Bénisti;jacques-alain-benisti;H;Permanence parlementaire, 29 Rue du Général de Gaulle, 94430 Chennevières-sur-Marne; ;demande-irfm-jacques-alain-benisti.pdf;NONE;20173689;avis-cada-20173689.pdf;24 novembre 2017;01 juin 2017;
+051;Thierry Benoit;thierry-benoit;H;1 Bis Boulevard Leclerc, 35300 Fougères; ;demande-irfm-thierry-benoit.pdf;preuve-envoi-thierry-benoit.pdf;20173692;avis-cada-20173692.pdf;24 novembre 2017;31 mai 2017;06 juin 2017
+052;Karine Berger;karine-berger;F;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-karine-berger.pdf;;20173691;avis-cada-20173691.pdf;24 novembre 2017;;
+053;Sylvain Berrios;sylvain-berrios;H;Permanence parlementaire, 6/8 Rue Maurice Lauzière, 94100 Saint-Maur-des-Fossés; ;demande-irfm-sylvain-berrios.pdf;;20173693;avis-cada-20173693.pdf;24 novembre 2017;;
+054;Chantal Berthelot;chantal-berthelot;F;Permanence parlementaire, 2 Rue des Aïmaras, B.P. 199, 97375 Kourou Cedex; ;demande-irfm-chantal-berthelot.pdf;;20173694;avis-cada-20173694.pdf;24 novembre 2017;;
+055;Véronique Besse;veronique-besse;F;2 Bis Rue du Tourniquet, 85500 Les Herbiers; ;demande-irfm-veronique-besse.pdf;NONE;20173695;avis-cada-20173695.pdf;24 novembre 2017;07 juin 2017;28 juin 2017
+056;Gisèle Biémouret;gisele-biemouret;F;Permanence, 28 Avenue Grünberg, 32100 Condom; ;demande-irfm-gisele-biemouret.pdf;NONE;20173696;avis-cada-20173696.pdf;24 novembre 2017;22 juin 2017;24 juin 2017
+057;Philippe Bies;philippe-bies;H;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-philippe-bies.pdf;preuve-envoi-philippe-bies.pdf;20173697;avis-cada-20173697.pdf;24 novembre 2017;26 mai 2017;06 juin 2017
+058;Erwann Binet;erwann-binet;H;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-erwann-binet.pdf;NONE;20173698;avis-cada-20173698.pdf;24 novembre 2017;09 juin 2017;28 juin 2017
+059;Jean-Pierre Blazy;jean-pierre-blazy;H;Hôtel de Ville, 66 Rue de Paris, 95500 Gonesse; ;demande-irfm-jean-pierre-blazy.pdf;;20173699;avis-cada-20173699.pdf;24 novembre 2017;;
+060;Yves Blein;yves-blein;H;Permanence parlementaire, 2 Rue du Château, 69200 Venissieux; ;demande-irfm-yves-blein.pdf;NONE;20173701;avis-cada-20173701.pdf;24 novembre 2017;22 juin 2017;30 juin 2017
+061;Patrick Bloche;patrick-bloche;H;7 Rue François de Neufchâteau, 75011 Paris; ;demande-irfm-patrick-bloche.pdf;NONE;20173702;avis-cada-20173702.pdf;24 novembre 2017;31 mai 2017;22 juin 2017
+062;Alain Bocquet;alain-bocquet;H;4 Rue Jean Jaurès, 59860 Bruay-sur-Escaut; ;demande-irfm-alain-bocquet.pdf;;20173700;avis-cada-20173700.pdf;24 novembre 2017;;
+063;Daniel Boisserie;daniel-boisserie;H;Mairie, 87500 Saint-Yrieix-la-Perche; ;demande-irfm-daniel-boisserie.pdf;preuve-envoi-daniel-boisserie.pdf;20173703;avis-cada-20173703.pdf;24 novembre 2017;26 mai 2017;29 mai 2017
+064;Jacques Bompard;jacques-bompard;H;La Blissone, Clos Cavalier, Orange, 84100 ; ;demande-irfm-jacques-bompard.pdf;preuve-envoi-jacques-bompard.jpg;20173704;avis-cada-20173704.pdf;24 novembre 2017;26 mai 2017;06 juin 2017
+065;Michèle Bonneton;michele-bonneton;F;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-michele-bonneton.pdf;;20173705;avis-cada-20173705.pdf;24 novembre 2017;;
+066;Marcel Bonnot;marcel-bonnot;H;Permanence, 1 Rue de la Schliffe, BP 67361, 25207 Montbéliard cedex; ;demande-irfm-marcel-bonnot.pdf;preuve-envoi-marcel-bonnot.pdf;20173708;avis-cada-20173708.pdf;24 novembre 2017;31 mai 2017;06 juin 2017
+067;Christophe Borgel;christophe-borgel;H;Permanence parlementaire, 16 Bis Avenue de l'URSS, 31400 Toulouse; ;demande-irfm-christophe-borgel.pdf;;20173709;avis-cada-20173709.pdf;24 novembre 2017;;
+068;Jean-Claude Bouchet;jean-claude-bouchet;H;33, Cours Sadi-Carnot, BP 70044, 84302 Cavaillon cedex; ;demande-irfm-jean-claude-bouchet.pdf;NONE;20173710;avis-cada-20173710.pdf;24 novembre 2017;22 juin 2017;21 juillet 2017
+069;Florent Boudié;florent-boudie;H;Permanence parlementaire, 57 Cours Tourny, 33500 Libourne; ;demande-irfm-florent-boudie.pdf;NONE;20173727;avis-cada-20173727.pdf;24 novembre 2017;22 juin 2017;28 juin 2017
+070;Marie-Odile Bouillé;marie-odile-bouille;F;Permanence parlementaire, 30 Rue de Bois Savary, BP 50132, 44603 Saint-Nazaire Cedex; ;demande-irfm-marie-odile-bouille.pdf;;20173711;avis-cada-20173711.pdf;24 novembre 2017;;
+071;Christophe Bouillon;christophe-bouillon;H;Permanence parlementaire, 51 Rue Louis Leseigneur, 76360 Barentin; ;demande-irfm-christophe-bouillon.pdf;NONE;20173712;avis-cada-20173712.pdf;24 novembre 2017;22 juin 2017;24 juin 2017
+072;Gilles Bourdouleix;gilles-bourdouleix;H;Permanence parlementaire, 7 Rue Travot, 49300 Cholet; ;demande-irfm-gilles-bourdouleix.pdf;;20173713;avis-cada-20173713.pdf;24 novembre 2017;;
+073;Brigitte Bourguignon;brigitte-bourguignon;F;1 Rue Minguet, BP 23, 62240 Desvres; ;demande-irfm-brigitte-bourguignon.pdf;NONE;20173714;avis-cada-20173714.pdf;24 novembre 2017;22 juin 2017;21 juillet 2017
+074;Malek Boutih;malek-boutih;H;4 Rue Émile Kahn, 91700 Sainte-Geneviève-des-Bois; ;demande-irfm-malek-boutih.pdf;;20173715;avis-cada-20173715.pdf;24 novembre 2017;;
+075;Kheira Bouziane-Laroussi;kheira-bouziane-laroussi;F;4 Avenue du Parc, 21800 Quetigny; ;demande-irfm-kheira-bouziane-laroussi.pdf;;20173716;avis-cada-20173716.pdf;24 novembre 2017;;
+076;Valérie Boyer;valerie-boyer;F;50 Avenue des Caillols, 13012 Marseille; ;demande-irfm-valerie-boyer.pdf;NONE;20173717;avis-cada-20173717.pdf;24 novembre 2017;22 juin 2017;03 juillet 2017
+077;Emeric Bréhier;emeric-brehier;H;Permanence parlementaire, 2 Rue Berteaux, 77500 Chelles; ;demande-irfm-emeric-brehier.pdf;;20173718;avis-cada-20173718.pdf;24 novembre 2017;;
+078;Marine Brenier;marine-brenier;F;Permanence parlementaire, 211 Avenue de la Californie, 06200 Nice; ;demande-irfm-marine-brenier.pdf;preuve-envoi-marine-brenier.jpg;20173719;avis-cada-20173719.pdf;24 novembre 2017;26 mai 2017;06 juin 2017
+079;Xavier Breton;xavier-breton;H;27 Rue du Docteur Hudellet, 01000 Bourg-en-Bresse; ;demande-irfm-xavier-breton.pdf;NONE;20173720;avis-cada-20173720.pdf;24 novembre 2017;23 mai 2017;06 juin 2017
+080;Philippe Briand;philippe-briand;H;Hôtel de Ville, BP 139, 37541 Saint-Cyr cedex; ;demande-irfm-philippe-briand.pdf;NONE;20173721;avis-cada-20173721.pdf;24 novembre 2017;24 mai 2017;06 juin 2017
+081;Jean-Louis Bricout;jean-louis-bricout;H;Permanence parlementaire, 9 Rue de la République, 02140 Vervins; ;demande-irfm-jean-louis-bricout.pdf;NONE;20173722;avis-cada-20173722.pdf;24 novembre 2017;22 juin 2017;
+082;Jean-Jacques Bridey;jean-jacques-bridey;H;Hôtel de Ville, 94260 Fresnes; ;demande-irfm-jean-jacques-bridey.pdf;;20173723;avis-cada-20173723.pdf;24 novembre 2017;;
+083;Bernard Brochand;bernard-brochand;H;Permanence parlementaire, 5 Rue Louis Blanc, 06400 Cannes; ;demande-irfm-bernard-brochand.pdf;NONE;20173724;avis-cada-20173724.pdf;24 novembre 2017;22 juin 2017;30 juin 2017
+084;Isabelle Bruneau;isabelle-bruneau;F;Permanence parlementaire, 4 Place du marché aux légumes, BP 27, 36102 Issoudun Cedex; ;demande-irfm-isabelle-bruneau.pdf;;20173725;avis-cada-20173725.pdf;24 novembre 2017;;
+085;Marie-George Buffet;marie-george-buffet;F;2 Rue Carnot, 93240 Stains; ;demande-irfm-marie-george-buffet.pdf;NONE;20173726;avis-cada-20173726.pdf;24 novembre 2017;22 juin 2017;
+086;Sabine Buis;sabine-buis;F;26 Rue Jean Mermoz, Résidence Osiris, 07200 Aubenas; ;demande-irfm-sabine-buis.pdf;NONE;20173519;avis-cada-20173519.pdf;29 décembre 2017;08 juin 2017;28 juin 2017
+087;Jean-Claude Buisine;jean-claude-buisine;H;Permanence parlementaire, 13 Rue du Général Sarrail, 80210 Feuquières-en-Vimeu; ;demande-irfm-jean-claude-buisine.pdf;;20173533;avis-cada-20173533.pdf;29 décembre 2017;;
+088;Sylviane Bulteau;sylviane-bulteau;F;Permanence parlementaire, BP 60371, 85009 La Roche-sur-Yon Cedex; ;demande-irfm-sylviane-bulteau.pdf;preuve-envoi-sylviane-bulteau.jpg;20173534;avis-cada-20173534.pdf;29 décembre 2017;16 juin 2017;14 juillet 2017
+089;Vincent Burroni;vincent-burroni;H;Permanence parlementaire (courrier), BP 10, 13161 Châteauneuf-les-Martigues Cedex; ;demande-irfm-vincent-burroni.pdf;;20173535;avis-cada-20173535.pdf;29 décembre 2017;;
+090;Dominique Bussereau;dominique-bussereau;H;Conseil général de Charente-Maritime, 88 Boulevard de la République, 17000 La Rochelle; ;demande-irfm-dominique-bussereau.pdf;;20173536;avis-cada-20173536.pdf;29 décembre 2017;;
+091;Alain Calmette;alain-calmette;H;Permanence parlementaire, 8 Boulevard du Pont Rouge, 15000 Aurillac; ;demande-irfm-alain-calmette.pdf;;20173537;avis-cada-20173537.pdf;29 décembre 2017;;
+092;Jean-Christophe Cambadélis;jean-christophe-cambadelis;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jean-christophe-cambadelis.pdf;preuve-envoi-jean-christophe-cambadelis.pdf;20173538;avis-cada-20173538.pdf;29 décembre 2017;27 mai 2017;06 juin 2017
+093;Jean-Jacques Candelier;jean-jacques-candelier;H;Permanence, Place Victor Brachelet, 59490 Somain; ;demande-irfm-jean-jacques-candelier.pdf;;20173539;avis-cada-20173539.pdf;29 décembre 2017;;
+094;Colette Capdevielle;colette-capdevielle;F;Permanence parlementaire, 5 Allées Marines, Résidence Allées marines - Porte 7, 64100 Bayonne; ;demande-irfm-colette-capdevielle.pdf;;20173540;avis-cada-20173540.pdf;29 décembre 2017;;
+095;Yann Capet;yann-capet;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP;REFUS;demande-irfm-yann-capet.pdf;;20173395;avis-cada-20173395.pdf;24 novembre 2017;;
+096;Christophe Caresche;christophe-caresche;H;Permanence parlementaire, 76 Bis Rue Duhesme, 75018 Paris; ;demande-irfm-christophe-caresche.pdf;NONE;20173541;avis-cada-20173541.pdf;29 décembre 2017;31 mai 2017;
+097;Marie-Arlette Carlotti;marie-arlette-carlotti;F;Permanence parlementaire, 83 Boulevard Chave, 13005 Marseille; ;demande-irfm-marie-arlette-carlotti.pdf;;20173542;avis-cada-20173542.pdf;29 décembre 2017;;
+098;Jean-Noël Carpentier;jean-noel-carpentier;H;4 Rue de la Croix blanche, 95370 Montigny-les-Cormeilles; ;demande-irfm-jean-noel-carpentier.pdf;;20173543;avis-cada-20173543.pdf;29 décembre 2017;;
+099;Olivier Carré;olivier-carre;H;Hôtel de Vill, 1 Place de l'Étape, 45000 Orléans; ;demande-irfm-olivier-carre.pdf;preuve-envoi-olivier-carre.png;20173544;avis-cada-20173544.pdf;29 décembre 2017;04 juin 2017;13 juin 2017
+100;Gilles Carrez;gilles-carrez;H;Hôtel de Ville, Place de la Libération, 94170 Le Perreux-sur-Marne; ;demande-irfm-gilles-carrez.pdf;preuve-envoi-gilles-carrez.jpg;20173545;avis-cada-20173545.pdf;29 décembre 2017;01 juin 2017;07 juin 2017
+101;Martine Carrillon-Couvreur;martine-carrillon-couvreur;F;1 Bis Avenue Saint Just, BP 70217, 58002 Nevers Cedex; ;demande-irfm-martine-carrillon-couvreur.pdf;;20173546;avis-cada-20173546.pdf;29 décembre 2017;;
+102;Patrice Carvalho;patrice-carvalho;H;Mairie, Rue Jean Jaurès, 60150 Thourotte; ;demande-irfm-patrice-carvalho.pdf;;20173547;avis-cada-20173547.pdf;29 décembre 2017;;
+103;Christophe Castaner;christophe-castaner;H;Permanence parlementaire, 39 Rue Grande, 04100 Manosque; ;demande-irfm-christophe-castaner.pdf;NONE;20173548;avis-cada-20173548.pdf;29 décembre 2017;09 juin 2017;
+104;Laurent Cathala;laurent-cathala;H;Hôtel de Ville, 94000 Créteil; ;demande-irfm-laurent-cathala.pdf;;20173549;avis-cada-20173549.pdf;03 janvier 2018;;
+105;Jean-Yves Caullet;jean-yves-caullet;H;Permanence parlementaire, 7 Rue Tour du Magasin, BP71, 89202 Avallon Cedex;REFUS;demande-irfm-jean-yves-caullet.pdf;preuve-envoi-jean-yves-caullet.jpg;20173403;avis-cada-20173403.pdf;24 novembre 2017;06 juin 2017;09 juin 2017
+106;Christophe Cavard;christophe-cavard;H;Permanence parlementaire, 9 Rue de l'Écluse, 30000 Nîmes; ;demande-irfm-christophe-cavard.pdf;NONE;20173550;avis-cada-20173550.pdf;03 janvier 2018;01 juin 2017;07 juin 2017
+107;Yves Censi;yves-censi;H;5 Boulevard de la République, 12000 Rodez; ;demande-irfm-yves-censi.pdf;;20173551;avis-cada-20173551.pdf;03 janvier 2018;;
+108;Nathalie Chabanne;nathalie-chabanne;F;14 Rue Jean-Jacques de Monaix, 64000 Pau; ;demande-irfm-nathalie-chabanne.pdf;;20173552;avis-cada-20173552.pdf;03 janvier 2018;;
+109;Ary Chalus;ary-chalus;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-ary-chalus.pdf;;20174114;avis-cada-20174114.pdf;03 janvier 2018;;
+110;Guy Chambefort;guy-chambefort;H;Permanence, 23 Place Jules Ferry, 03400 Yzeure; ;demande-irfm-guy-chambefort.pdf;;20173460;avis-cada-20173460.pdf;29 décembre 2017;;
+111;Jean-Paul Chanteguet;jean-paul-chanteguet;H;Permanence parlementaire, 6 Bis Rue Saint-Luc, 36000 Châteauroux; ;demande-irfm-jean-paul-chanteguet.pdf;preuve-envoi-jean-paul-chanteguet.pdf;20173461;avis-cada-20173461.pdf;29 décembre 2017;25 mai 2017;06 juin 2017
+112;Marie-Anne Chapdelaine;marie-anne-chapdelaine;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-marie-anne-chapdelaine.pdf;NONE;20174687;avis-cada-20174687.pdf;03 janvier 2018;23 mai 2017;06 juin 2017
+113;Gérard Charasse;gerard-charasse;H;Permanence parlementaire, 72 Rue de Paris, 03200 Vichy; ;demande-irfm-gerard-charasse.pdf;;20173463;avis-cada-20173463.pdf;29 décembre 2017;;
+114;Gaby Charroux;gaby-charroux;H;Hôtel de Ville, BP 60101, 13692 Martigues Cedex; ;demande-irfm-gaby-charroux.pdf;;20174118;avis-cada-20174118.pdf;03 janvier 2018;;
+115;Jérôme Chartier;jerome-chartier;H;47 Rue de la Mairie, 95330 Domont; ;demande-irfm-jerome-chartier.pdf;;20173476;avis-cada-20173476.pdf;29 décembre 2017;;
+116;André Chassaigne;andre-chassaigne;H;4 Place Jean-Antoine Pourtier, 63890 Saint-Amant-Roche-Savine; ;demande-irfm-andre-chassaigne.pdf;preuve-envoi-andre-chassaigne.jpg;20174688;avis-cada-20174688.pdf;03 janvier 2018;26 mai 2017;06 juin 2017
+117;Luc Chatel;luc-chatel;H;6 Rue Bouchardon, BP 192, 52006 Chaumont cedex; ;demande-irfm-luc-chatel.pdf;NONE;20173559;avis-cada-20173559.pdf;03 janvier 2018;26 mai 2017;06 juin 2017
+118;Guy-Michel Chauveau;guy-michel-chauveau;H;16 Boulevard d'Alger, BP 70128, 72205 La Flèche cedex; ;demande-irfm-guy-michel-chauveau.pdf;;20173560;avis-cada-20173560.pdf;03 janvier 2018;;
+119;Dominique Chauvel;dominique-chauvel;F;Hôtel du département, Quai Jean Moulin, 76100 Rouen Cedex; ;demande-irfm-dominique-chauvel.pdf;;20173561;avis-cada-20173561.pdf;03 janvier 2018;;
+120;Pascal Cherki;pascal-cherki;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris; ;demande-irfm-pascal-cherki.pdf;NONE;20173562;avis-cada-20173562.pdf;03 janvier 2018;25 mai 2017;06 juin 2017
+121;Gérard Cherpion;gerard-cherpion;H;Permanence, 47 Rue de la Bolle, 88100 Saint-Dié-des-Vosges; ;demande-irfm-gerard-cherpion.pdf;;20173563;avis-cada-20173563.pdf;03 janvier 2018;;
+122;Guillaume Chevrollier;guillaume-chevrollier;H;Permanence parlementaire, 35 Rue Alexandre Fournier, 53200 Château Gontier - Bazouges; ;demande-irfm-guillaume-chevrollier.pdf;;20173564;avis-cada-20173564.pdf;03 janvier 2018;;
+123;Alain Chrétien;alain-chretien;H;20 Place Pierre Renet, 70000 Vesoul; ;demande-irfm-alain-chretien.pdf;;20174689;avis-cada-20174689.pdf;03 janvier 2018;;
+124;Jean-Louis Christ;jean-louis-christ;H;Permanence parlementaire, 10 Grand'Rue, 68230 Turckheim; ;demande-irfm-jean-louis-christ.pdf;;20173565;avis-cada-20173565.pdf;03 janvier 2018;;
+125;Dino Cinieri;dino-cinieri;H;3 Avenue Grégoire Chapoton, 42170 Saint Just Saint Rambert; ;demande-irfm-dino-cinieri.pdf;NONE;20174690;avis-cada-20174690.pdf;03 janvier 2018;22 juin 2017;24 juin 2017
+126;Jean-David Ciot;jean-david-ciot;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07; ;demande-irfm-jean-david-ciot.pdf;preuve-envoi-jean-david-ciot.jpg;20173566;avis-cada-20173566.pdf;03 janvier 2018;29 mai 2017;15 juin 2017
+127;Éric Ciotti;eric-ciotti;H;Permanence parlementaire, 15 Quai des Deux Emmanuel, 06300 Nice; ;demande-irfm-eric-ciotti.pdf;preuve-envoi-eric-ciotti.jpg;20174117;avis-cada-20174117.pdf;03 janvier 2018;26 mai 2017;06 juin 2017
+128;Alain Claeys;alain-claeys;H;Hôtel de ville, 86021 Poitiers Cedex; ;demande-irfm-alain-claeys.pdf;;20173567;avis-cada-20173567.pdf;03 janvier 2018;;
+129;Stéphane Claireaux;stephane-claireaux;H;Permanence parlementaire, 7 Rue René Autin, 97500 Saint-Pierre-et-Miquelon; ;demande-irfm-stephane-claireaux.pdf;;20173568;avis-cada-20173568.pdf;03 janvier 2018;;
+130;Jean-Michel Clément;jean-michel-clement;H;Permanence, Place du Champ de Foire, BP 25, 86160 Gençay; ;demande-irfm-jean-michel-clement.pdf;NONE;20174691;avis-cada-20174691.pdf;03 janvier 2018;22 juin 2017;
+131;Marie-Françoise Clergeau;marie-francoise-clergeau;F;11 Quai Turenne, 44000 Nantes; ;demande-irfm-marie-francoise-clergeau.pdf;;20173569;avis-cada-20173569.pdf;03 janvier 2018;;
+132;Philippe Cochet;philippe-cochet;H;Permanence, 13 Rue Jean Moulin, BP 101, 69300 Caluire-et-Cuire; ;demande-irfm-philippe-cochet.pdf;preuve-envoi-philippe-cochet.jpg;20173570;avis-cada-20173570.pdf;03 janvier 2018;24 mai 2017;06 juin 2017
+133;Romain Colas;romain-colas;H;Permanence parlementaire, 59 Rue Pierre Brossolette, 91130 Ris-Orangis; ;demande-irfm-romain-colas.pdf;;20173571;avis-cada-20173571.pdf;03 janvier 2018;;
+134;Gilbert Collard;gilbert-collard;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-gilbert-collard.pdf;NONE;20173572;avis-cada-20173572.pdf;03 janvier 2018;30 mai 2017;27 juin 2017
+135;David Comet;david-comet;H;Permanence parlementaire, 7 Place de l'Hôtel de ville, 16160 Gond-Pontouvre; ;demande-irfm-david-comet.pdf;preuve-envoi-david-comet.pdf;20173573;avis-cada-20173573.pdf;03 janvier 2018;26 mai 2017;06 juin 2017
+136;Jean-François Copé;jean-francois-cope;H;Hôtel de Ville, 2 Place de l'Hôtel de Ville, 77100 Meaux; ;demande-irfm-jean-francois-cope.pdf;preuve-envoi-jean-francois-cope.jpg;20173574;avis-cada-20173574.pdf;03 janvier 2018;23 mai 2017;06 juin 2017
+137;Philip Cordery;philip-cordery;H;Clos du Parnasse 3G, 1050 Bruxelles; ;demande-irfm-philip-cordery.pdf;;20173587;avis-cada-20173587.pdf;03 janvier 2018;;
+138;François Cornut-Gentille;francois-cornut-gentille;H;Permanence, 15 Rue du Docteur Desprès, 52100 Saint-Dizier; ;demande-irfm-francois-cornut-gentille.pdf;NONE;20173588;avis-cada-20173588.pdf;03 janvier 2018;22 juin 2017;24 juin 2017
+139;Sergio Coronado;sergio-coronado;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-sergio-coronado.pdf;NONE;20174692;avis-cada-20174692.pdf;03 janvier 2018;26 mai 2017;06 juin 2017
+140;Valérie Corre;valerie-corre;F;Permanence parlementaire, 17 Ter Rue Croix de Malte, 45000 Orléans; ;demande-irfm-valerie-corre.pdf;;20173575;avis-cada-20173575.pdf;03 janvier 2018;;
+141;Jean-Louis Costes;jean-louis-costes;H;Permanence parlementaire, 73 Avenue du Maréchal Leclerc, 47300 Villeneuve-sur-Lot; ;demande-irfm-jean-louis-costes.pdf;;20173576;avis-cada-20173576.pdf;03 janvier 2018;;
+142;Jean-Jacques Cottel;jean-jacques-cottel;H;Permanence parlementaire, 22 Route Nationale, 62450 Beaulencourt; ;demande-irfm-jean-jacques-cottel.pdf;;20174693;avis-cada-20174693.pdf;03 janvier 2018;;
+143;Charles de Courson;charles-de-courson;H;38 Rue de la Petite-Sainte, 51300 Vitry-le-François;REFUS;demande-irfm-charles-de-courson.pdf;NONE;20173400;avis-cada-20173400.pdf;24 novembre 2017;22 juin 2017;
+144;Édouard Courtial;edouard-courtial;H;45 Rue du Pont de Pierre, 60600 Clermont; ;demande-irfm-edouard-courtial.pdf;NONE;20174694;avis-cada-20174694.pdf;03 janvier 2018;15 juin 2017;21 juin 2017
+145;Catherine Coutelle;catherine-coutelle;F;11 Place de France, 86000 Poitiers; ;demande-irfm-catherine-coutelle.pdf;;20173577;avis-cada-20173577.pdf;03 janvier 2018;;
+146;Jean-Michel Couve;jean-michel-couve;H;Permanence parlementaire, Résidence du Port, Appartement 51, 83990 Saint-Tropez; ;demande-irfm-jean-michel-couve.pdf;NONE;20173578;avis-cada-20173578.pdf;03 janvier 2018;29 juillet 2017;
+147;Jacques Cresta;jacques-cresta;H;Permanence parlementaire, BP 10438, 66334 Cabestany Cedex; ;demande-irfm-jacques-cresta.pdf;;20173579;avis-cada-20173579.pdf;03 janvier 2018;;
+148;Pascale Crozon;pascale-crozon;F;Permanence parlementaire, 25 Rue Paul Verlaine, 69100 Villeurbanne; ;demande-irfm-pascale-crozon.pdf;preuve-envoi-pascale-crozon.png;20174116;avis-cada-20174116.pdf;03 janvier 2018;26 mai 2017;06 juin 2017
+149;Frédéric Cuvillier;frederic-cuvillier;H;Permanence parlementaire, 69 Rue Carnot, 62480 Le Portel; ;demande-irfm-frederic-cuvillier.pdf;;20173580;avis-cada-20173580.pdf;03 janvier 2018;;
+150;Seybah Dagoma;seybah-dagoma;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-seybah-dagoma.pdf;preuve-envoi-seybah-dagoma.jpg;20174696;avis-cada-20174696.pdf;19 décembre 2017;23 mai 2017;06 juin 2017
+151;Marie-Christine Dalloz;marie-christine-dalloz;F;63 Rue du Collège, 39200 Saint-Claude; ;demande-irfm-marie-christine-dalloz.pdf;NONE;20173581;avis-cada-20173581.pdf;03 janvier 2018;22 juin 2017;24 juin 2017
+152;Karine Daniel;karine-daniel;F;Permanence parlementaire, 47 Place de Preux, BP 50351, 44816 Saint-Herblain Cedex;REFUS;demande-irfm-karine-daniel.pdf;;20173396;avis-cada-20173396.pdf;24 novembre 2017;;
+153;Yves Daniel;yves-daniel;H;Permanence parlementaire, 4 Allée des Lilas, BP 17, 44170 Nozay; ;demande-irfm-yves-daniel.pdf;;20173582;avis-cada-20173582.pdf;03 janvier 2018;;24 juin 2017
+154;Carlos Da Silva;carlos-da-silva;H;35 Bis Rue Féray, 91100 Corbeil-Essonnes; ;demande-irfm-carlos-da-silva.pdf;;20174695;avis-cada-20174695.pdf;19 décembre 2017;;
+155;Olivier Dassault;olivier-dassault;H;Permanence, 11 Bis Boulevard Amyot-d'Inville, 60000 Beauvais; ;demande-irfm-olivier-dassault.pdf;;20173583;avis-cada-20173583.pdf;03 janvier 2018;;
+156;Marc-Philippe Daubresse;marc-philippe-daubresse;H;11 Bis Place des frères Thomas, 59130 Lambersart; ;demande-irfm-marc-philippe-daubresse.pdf;;20173584;avis-cada-20173584.pdf;03 janvier 2018;;
+157;Bernard Debré;bernard-debre;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-bernard-debre.pdf;NONE;20174697;avis-cada-20174697.pdf;19 décembre 2017;31 mai 2017;06 juin 2017
+158;Jean-Pierre Decool;jean-pierre-decool;H;Permanence, 11 Place du Marché-aux-Fruits, 59630 Bourbourg; ;demande-irfm-jean-pierre-decool.pdf;;20173585;avis-cada-20173585.pdf;03 janvier 2018;;
+159;Bernard Deflesselles;bernard-deflesselles;H;4 Rue Chaulan, 13400 Aubagne; ;demande-irfm-bernard-deflesselles.pdf;;20174698;avis-cada-20174698.pdf;19 décembre 2017;;
+160;Laurent Degallaix;laurent-degallaix;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-laurent-degallaix.pdf;;20173586;avis-cada-20173586.pdf;03 janvier 2018;;
+161;Lucien Degauchy;lucien-degauchy;H;Rue d'Angoulême, 60350 Courtieux; ;demande-irfm-lucien-degauchy.pdf;;20173753;avis-cada-20173753.pdf;03 janvier 2018;;
+162;Pascal Deguilhem;pascal-deguilhem;H;Permanence parlementaire, 7 Bis Place de la Cité, 24000 Périgueux; ;demande-irfm-pascal-deguilhem.pdf;;20173754;avis-cada-20173754.pdf;03 janvier 2018;;
+163;Rémi Delatte;remi-delatte;H;Permanence, 14 Avenue Maréchal Lyautey, 21000 Dijon; ;demande-irfm-remi-delatte.pdf;;20174699;avis-cada-20174699.pdf;19 décembre 2017;;
+164;Florence Delaunay;florence-delaunay;F;Permanence parlementaire, 11 Rue Sadi-Carnot, 40000 Mont-de-Marsan; ;demande-irfm-florence-delaunay.pdf;;20173755;avis-cada-20173755.pdf;03 janvier 2018;;
+165;Michèle Delaunay;michele-delaunay;F;Permanence parlementaire, 20 Rue Saint Laurent, 33000 Bordeaux; ;demande-irfm-michele-delaunay.pdf;;20173756;avis-cada-20173756.pdf;03 janvier 2018;;
+166;Guy Delcourt;guy-delcourt;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-guy-delcourt.pdf;;20173757;avis-cada-20173757.pdf;03 janvier 2018;;
+167;Carole Delga;carole-delga;F;Place Jean-Jaurès, 31800 Saint-Gaudens; ;demande-irfm-carole-delga.pdf;;20173758;avis-cada-20173758.pdf;03 janvier 2018;;
+168;Jacques Dellerie;jacques-dellerie;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jacques-dellerie.pdf;;20173759;avis-cada-20173759.pdf;03 janvier 2018;;
+169;Pascal Demarthe;pascal-demarthe;H;Permanence parlementaire, 43 Rue Octave Tierce, 80000 Amiens; ;demande-irfm-pascal-demarthe.pdf;;20173760;avis-cada-20173760.pdf;03 janvier 2018;;
+170;Stéphane Demilly;stephane-demilly;H;Permanence parlementaire, Rue de la Caisse d'épargne, BP 10071, 80201 Péronne Cedex; ;demande-irfm-stephane-demilly.pdf;NONE;20173761;avis-cada-20173761.pdf;03 janvier 2018;10 juin 2017;15 juin 2017
+171;Sébastien Denaja;sebastien-denaja;H;Permanence parlementaire, 40 Avenue Victor Hugo, 34200 Sète; ;demande-irfm-sebastien-denaja.pdf;;20173762;avis-cada-20173762.pdf;03 janvier 2018;;
+172;Françoise Descamps-Crosnier;francoise-descamps-crosnier;F;Permanence parlementaire, 2 Avenue Division du Général Leclerc, 78200 Mantes-la-Jolie; ;demande-irfm-francoise-descamps-crosnier.pdf;NONE;20173777;avis-cada-20173777.pdf;03 janvier 2018;11 juin 2017;28 juin 2017
+173;Jean-Louis Destans;jean-louis-destans;H;Permanence parlementaire, 6 Boulevard Georges Chauvin, Résidence du Palais, 27000 Evreux; ;demande-irfm-jean-louis-destans.pdf;;20173778;avis-cada-20173778.pdf;03 janvier 2018;;
+174;Michel Destot;michel-destot;H;Cabinet parlementaire, 24 Avenue Alsace-Lorraine, 38000 Grenoble; ;demande-irfm-michel-destot.pdf;NONE;20173975;avis-cada-20173975.pdf;03 janvier 2018;31 mai 2017;09 juin 2017
+175;Patrick Devedjian;patrick-devedjian;H;Conseil général, 2-16 Boulevard Soufflot, 92015 Nanterre cedex; ;demande-irfm-patrick-devedjian.pdf;;20173976;avis-cada-20173976.pdf;03 janvier 2018;;
+176;Nicolas Dhuicq;nicolas-dhuicq;H;7 Rue Joseph Gaucher, 10500 Brienne-le-Château; ;demande-irfm-nicolas-dhuicq.pdf;NONE;20173977;avis-cada-20173977.pdf;03 janvier 2018;02 juin 2017;09 juin 2017
+177;Sophie Dion;sophie-dion;F;Permanence parlementaire, 108 Place Charles de Gaulle, 74300 Cluses; ;demande-irfm-sophie-dion.pdf;preuve-envoi-sophie-dion.pdf;20173978;avis-cada-20173978.pdf;03 janvier 2018;05 juin 2017;12 juin 2017
+178;Julien Dive;julien-dive;H;Permanence parlementaire, 19 Rue du Gouvernement, 02100 Saint-Quentin; ;demande-irfm-julien-dive.pdf;NONE;20173979;avis-cada-20173979.pdf;03 janvier 2018;11 juin 2017;28 juin 2017
+179;Marc Dolez;marc-dolez;H;57 Rue de Bellain, 59500 Douai; ;demande-irfm-marc-dolez.pdf;;20173980;avis-cada-20173980.pdf;03 janvier 2018;;
+180;Fanny Dombre Coste;fanny-dombre-coste;F;Permanence parlementaire, 37 Rue du Faubourg Boutonnet, 34090 Montpellier; ;demande-irfm-fanny-dombre-coste.pdf;preuve-envoi-fanny-dombre-coste.jpg;20173981;avis-cada-20173981.pdf;03 janvier 2018;13 juin 2017;28 juin 2017
+181;Jean-Pierre Door;jean-pierre-door;H;23 Place de la République, 45200 Montargis; ;demande-irfm-jean-pierre-door.pdf;NONE;20173982;avis-cada-20173982.pdf;03 janvier 2018;09 juin 2017;12 juin 2017
+182;Dominique Dord;dominique-dord;H;Mairie, BP 348, 73103 Aix-les-Bains; ;demande-irfm-dominique-dord.pdf;NONE;20173983;avis-cada-20173983.pdf;03 janvier 2018;14 juin 2017;28 juin 2017
+183;René Dosière;rene-dosiere;H;BP 138, 02005 Laon cedex; ;demande-irfm-rene-dosiere.pdf;NONE;20173984;avis-cada-20173984.pdf;03 janvier 2018;08 juin 2017;15 juin 2017
+184;Philippe Doucet;philippe-doucet;H;Permanence, 74 Rue Paul-Vaillant-Couturier, 95100 Argenteuil; ;demande-irfm-philippe-doucet.pdf;;20173994;avis-cada-20173994.pdf;03 janvier 2018;;
+185;Sandrine Doucet;sandrine-doucet;F;Permanence parlementaire, 54 Cours du Médoc, 33000 Bordeaux; ;demande-irfm-sandrine-doucet.pdf;;20173995;avis-cada-20173995.pdf;03 janvier 2018;;
+186;David Douillet;david-douillet;H;147 Avenue du Général de Gaulle, 78300 Poissy; ;demande-irfm-david-douillet.pdf;;20173996;avis-cada-20173996.pdf;03 janvier 2018;;
+187;Jeanine Dubié;jeanine-dubie;F;2 Rue des Graves, Route de Lourdes, 65310 Odos; ;demande-irfm-jeanine-dubie.pdf;NONE;20173997;avis-cada-20173997.pdf;03 janvier 2018;23 juin 2017;
+188;Françoise Dubois;francoise-dubois;F;Permanence en circonscription, 84 Bis Rue Montoise, 72000 Le Mans; ;demande-irfm-francoise-dubois.pdf;;20173998;avis-cada-20173998.pdf;03 janvier 2018;;
+189;Marianne Dubois;marianne-dubois;F;Permanence parlementaire, 2 Faubourg d'Orléans, 45300 Pithiviers; ;demande-irfm-marianne-dubois.pdf;NONE;20173999;avis-cada-20173999.pdf;03 janvier 2018;08 juin 2017;11 juin 2017
+190;Virginie Duby-Muller;virginie-duby-muller;F;7 Place de la Libération, 74100 Annemasse; ;demande-irfm-virginie-duby-muller.pdf;NONE;20174000;avis-cada-20174000.pdf;03 janvier 2018;23 juin 2017;27 juin 2017
+191;Jean-Pierre Dufau;jean-pierre-dufau;H;Permanence, 1 Rue du Tuc d'Eauze, 40100 Dax; ;demande-irfm-jean-pierre-dufau.pdf;;20173520;avis-cada-20173520.pdf;08 décembre 2017;;
+192;Cécile Duflot;cecile-duflot;F;Permanence parlementaire, 8 Rue Jouy Rouve, 75020 Paris; ;demande-irfm-cecile-duflot.pdf;NONE;20173664;avis-cada-20173664.pdf;08 décembre 2017;23 mai 2017;
+193;Anne-Lise Dufour-Tonini;anne-lise-dufour-tonini;F;Hôtel de ville, Rue de Villars, 59220 Denain; ;demande-irfm-anne-lise-dufour-tonini.pdf;;20173665;avis-cada-20173665.pdf;08 décembre 2017;;
+194;William Dumas;william-dumas;H;Adresse postale, BP 8,  Saint-Mamert-du-Gard; ;demande-irfm-william-dumas.pdf;;20173683;avis-cada-20173683.pdf;08 décembre 2017;;
+195;Françoise Dumas;francoise-dumas;F;Permanence parlementaire, 7 Avenue Jean-Jaurès, 30900 NÎmes; ;demande-irfm-francoise-dumas.pdf;NONE;20173676;avis-cada-20173676.pdf;08 décembre 2017;31 mai 2017;
+196;Laurence Dumont;laurence-dumont;F;Permanence parlementaire, 17 Rue Paul Toutain, 14000 Caen; ;demande-irfm-laurence-dumont.pdf;NONE;20173681;avis-cada-20173681.pdf;08 décembre 2017;23 juin 2017;27 juin 2017
+197;Jean-Louis Dumont;jean-louis-dumont;H;Permanence, 1 Avenue Garibaldi, BP 70075, 55102 Verdun cedex; ;demande-irfm-jean-louis-dumont.pdf;;20173682;avis-cada-20173682.pdf;08 décembre 2017;;
+198;Nicolas Dupont-Aignan;nicolas-dupont-aignan;H;Mairie, 60 Rue Charles de Gaulle, 91335 Yerres cedex; ;demande-irfm-nicolas-dupont-aignan.pdf;NONE;20173680;avis-cada-20173680.pdf;08 décembre 2017;29 mai 2017;06 juin 2017
+199;Jean-Paul Dupré;jean-paul-dupre;H;90 Rue Saint-Martin, 11300 Limoux; ;demande-irfm-jean-paul-dupre.pdf;NONE;20173679;avis-cada-20173679.pdf;08 décembre 2017;14 juin 2017;28 juin 2017
+200;Yves Durand;yves-durand;H;Permanence parlementaire, 351 Avenue de Dunkerque, BP 20415, 59464 Lomme cedex; ;demande-irfm-yves-durand.pdf;;20173678;avis-cada-20173678.pdf;08 décembre 2017;;
+201;Philippe Duron;philippe-duron;H;Permanence parlementaire, 55 Rue des Jacobins, 14000 Caen; ;demande-irfm-philippe-duron.pdf;;20173677;avis-cada-20173677.pdf;08 décembre 2017;;
+202;Olivier Dussopt;olivier-dussopt;H;1 Rue Sadi Carnot, 07100 Annonay; ;demande-irfm-olivier-dussopt.pdf;NONE;20173675;avis-cada-20173675.pdf;08 décembre 2017;16 juin 2017;30 juin 2017
+203;Eric Elkouby;eric-elkouby;H;Permanence parlementaire, 40 Avenue des Vosges, 67000 Strasbourg; ;demande-irfm-eric-elkouby.pdf;preuve-envoi-eric-elkouby.pdf;20173674;avis-cada-20173674.pdf;08 décembre 2017;26 mai 2017;06 juin 2017
+204;Sophie Errante;sophie-errante;F;Permanence parlementaire, 17 Rue des Sports, App. 7, 44330 Le Pallet; ;demande-irfm-sophie-errante.pdf;preuve-envoi-sophie-errante.pdf;20173673;avis-cada-20173673.pdf;08 décembre 2017;01 juin 2017;09 juin 2017
+205;Marie-Hélène Fabre;marie-helene-fabre;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-marie-helene-fabre.pdf;;20173672;avis-cada-20173672.pdf;08 décembre 2017;;
+206;Olivier Falorni;olivier-falorni;H;Permanence parlementaire, 12 Ter Rue Villeneuve, 17000 La Rochelle; ;demande-irfm-olivier-falorni.pdf;NONE;20173671;avis-cada-20173671.pdf;08 décembre 2017;18 juin 2017;
+207;Daniel Fasquelle;daniel-fasquelle;H;441 Bis Rue de l'Impératrice, 62600 Berck sur Mer; ;demande-irfm-daniel-fasquelle.pdf;preuve-envoi-daniel-fasquelle.jpg;20173669;avis-cada-20173669.pdf;08 décembre 2017;07 juin 2017;11 juin 2017
+208;Olivier Faure;olivier-faure;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-olivier-faure.pdf;NONE;20173668;avis-cada-20173668.pdf;08 décembre 2017;12 juin 2017;15 juin 2017
+209;Martine Faure;martine-faure;F;Permanence parlementaire, 7 Allée des Tilleuls, 33490 Saint-Macaire; ;demande-irfm-martine-faure.pdf;;20173670;avis-cada-20173670.pdf;08 décembre 2017;;
+210;Alain Fauré;alain-faure;H;Permanence parlementaire, 1 Quai du Gravier, BP40, 09201 Saint-Girons Cedex; ;demande-irfm-alain-faure.pdf;NONE;20173667;avis-cada-20173667.pdf;08 décembre 2017;13 juin 2017;
+211;Yannick Favennec;yannick-favennec;H;4 Place du 9 juin, 53100 Mayenne; ;demande-irfm-yannick-favennec.pdf;NONE;20173666;avis-cada-20173666.pdf;08 décembre 2017;23 juin 2017;24 juin 2017
+212;Georges Fenech;georges-fenech;H;Permanence, 9 Rue Victor Hugo, 69700 Givors; ;demande-irfm-georges-fenech.pdf;NONE;20173729;avis-cada-20173729.pdf;07 décembre 2017;23 mai 2017;29 mai 2017
+213;Hervé Féron;herve-feron;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-herve-feron.pdf;;20173733;avis-cada-20173733.pdf;07 décembre 2017;;
+214;Richard Ferrand;richard-ferrand;H;Permanence parlementaire, 2 Rue Baltzer, 29150 Châteaulin; ;demande-irfm-richard-ferrand.pdf;preuve-envoi-richard-ferrand.jpg;20173750;avis-cada-20173750.pdf;07 décembre 2017;26 mai 2017;06 juin 2017
+215;Aurélie Filippetti;aurelie-filippetti;F;Permanence parlementaire, 4 Rue des Écoles, 57000 Metz; ;demande-irfm-aurelie-filippetti.pdf;NONE;20173749;avis-cada-20173749.pdf;07 décembre 2017;11 juillet 2017;
+216;François Fillon;francois-fillon;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-francois-fillon.pdf;NONE;20173748;avis-cada-20173748.pdf;07 décembre 2017;31 mai 2017;06 juin 2017
+217;Geneviève Fioraso;genevieve-fioraso;F;Permanence parlementaire, 7 Rue Voltaire, 38000 Grenoble;REFUS;demande-irfm-genevieve-fioraso.pdf;;20173393;avis-cada-20173393.pdf;24 novembre 2017;;
+218;Philippe Folliot;philippe-folliot;H;Permanence, 3 Boulevard des Lices, 81100 Castres; ;demande-irfm-philippe-folliot.pdf;NONE;20173747;avis-cada-20173747.pdf;07 décembre 2017;23 juin 2017;30 juin 2017
+219;Marie-Louise Fort;marie-louise-fort;F;Permanence parlementaire, 36 Bis Rue de l'Epée, 89100 Sens; ;demande-irfm-marie-louise-fort.pdf;;20173746;avis-cada-20173746.pdf;07 décembre 2017;;
+220;Yves Foulon;yves-foulon;H;Hôtel de Ville, Place Lucien de Gracia, 33120 Arcachon; ;demande-irfm-yves-foulon.pdf;;20173745;avis-cada-20173745.pdf;07 décembre 2017;;
+221;Hugues Fourage;hugues-fourage;H;Permanence parlementaire, 12 Rue des Orfèvres, 85200 Fontenay-le-Comte; ;demande-irfm-hugues-fourage.pdf;NONE;20173743;avis-cada-20173743.pdf;07 décembre 2017;07 juin 2017;15 juin 2017
+222;Jean-Marc Fournel;jean-marc-fournel;H;Permanence parlementaire, 8 Rue Alfred Mézières, 54400 Longwy; ;demande-irfm-jean-marc-fournel.pdf;preuve-envoi-jean-marc-fournel.pdf;20173744;avis-cada-20173744.pdf;07 décembre 2017;30 juillet 2017;
+223;Valérie Fourneyron;valerie-fourneyron;F;Permanence, 23 Rue de la République, 76100 Rouen; ;demande-irfm-valerie-fourneyron.pdf;;20173742;avis-cada-20173742.pdf;07 décembre 2017;;
+224;Michèle Fournier-Armand;michele-fournier-armand;F;55 Avenue Pierre Sémard, 84000 Avignon; ;demande-irfm-michele-fournier-armand.pdf;;20173741;avis-cada-20173741.pdf;07 décembre 2017;;
+225;Michel Françaix;michel-francaix;H;Hôtel de Ville, Place de la Mairie, BP 10110, 60230 Chambly Cedex; ;demande-irfm-michel-francaix.pdf;;20173740;avis-cada-20173740.pdf;07 décembre 2017;;06 juin 2017
+226;Marc Francina;marc-francina;H;Représentation parlementaire, 5 Rue de l'Hôtel de Ville, 74200 Thonon-les-Bains; ;demande-irfm-marc-francina.pdf;preuve-envoi-marc-francina.jpg;20173739;avis-cada-20173739.pdf;07 décembre 2017;31 mai 2017;06 juin 2017
+227;Christian Franqueville;christian-franqueville;H;Permanence parlementaire, 23 Rue des Anciennes Halles, 88140 Bulgnéville; ;demande-irfm-christian-franqueville.pdf;;20173738;avis-cada-20173738.pdf;07 décembre 2017;;
+228;Jacqueline Fraysse;jacqueline-fraysse;F;Hôtel de Ville, Rue du 8 Mai 1945, 92000 Nanterre; ;demande-irfm-jacqueline-fraysse.pdf;;20173737;avis-cada-20173737.pdf;07 décembre 2017;;
+229;Jean-Christophe Fromantin;jean-christophe-fromantin;H;Assemblée nationale, 126 Rue de l'université, 75355 Paris 07 SP; ;demande-irfm-jean-christophe-fromantin.pdf;NONE;20173736;avis-cada-20173736.pdf;07 décembre 2017;31 mai 2017;23 juin 2017
+230;Yves Fromion;yves-fromion;H;Secrétariat parlementaire, 4 Rue du Château, 18700 Aubigny-sur-Nère; ;demande-irfm-yves-fromion.pdf;NONE;20173735;avis-cada-20173735.pdf;07 décembre 2017;12 juin 2017;14 juin 2017
+231;Jean-Claude Fruteau;jean-claude-fruteau;H;Mairie, Rue Georges Pompidou, 97470 Saint-Benoit; ;demande-irfm-jean-claude-fruteau.pdf;preuve-envoi-jean-claude-fruteau.pdf;20173734;avis-cada-20173734.pdf;07 décembre 2017;16 juin 2017;28 juin 2017
+232;Laurent Furst;laurent-furst;H;8B Allée Carl, 67120 Molsheim; ;demande-irfm-laurent-furst.pdf;preuve-envoi-laurent-furst.pdf;20173732;avis-cada-20173732.pdf;07 décembre 2017;26 mai 2017;06 juin 2017
+233;Jean-Louis Gagnaire;jean-louis-gagnaire;H;2 Rue Faure-Belon, BP 60 208, 42005 Saint-Étienne cedex 1; ;demande-irfm-jean-louis-gagnaire.pdf;;20173775;avis-cada-20173775.pdf;07 décembre 2017;;
+234;Geneviève Gaillard;genevieve-gaillard;F;Permanence parlementaire, 9 Avenue Saint-Jean d'Angely, 79000 Niort; ;demande-irfm-genevieve-gaillard.pdf;;20173731;avis-cada-20173731.pdf;07 décembre 2017;;
+235;Yann Galut;yann-galut;H;31 Rue Porte Mutin, 18200 Saint-Amand-Montrond; ;demande-irfm-yann-galut.pdf;NONE;20173730;avis-cada-20173730.pdf;07 décembre 2017;22 juillet 2017;
+236;Claude de Ganay;claude-de-ganay;H;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-claude-de-ganay.pdf;NONE;20173807;avis-cada-20173807.pdf;07 décembre 2017;22 juin 2017;
+237;Sauveur Gandolfi-Scheit;sauveur-gandolfi-scheit;H;Hôtel de ville, 20620 Biguglia; ;demande-irfm-sauveur-gandolfi-scheit.pdf;;20173816;avis-cada-20173816.pdf;07 décembre 2017;;
+238;Guillaume Garot;guillaume-garot;H;Permanence parlementaire, 22 Rue Souchu-Servinière, 53000 Laval;REFUS;demande-irfm-guillaume-garot.pdf;NONE;20173408;avis-cada-20173408.pdf;24 novembre 2017;23 juin 2017;27 juin 2017
+239;Renaud Gauquelin;renaud-gauquelin;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-renaud-gauquelin.pdf;;20173815;avis-cada-20173815.pdf;07 décembre 2017;;
+240;Hervé Gaymard;herve-gaymard;H;5 Place Ferdinand Million, 73200 Albertville; ;demande-irfm-herve-gaymard.pdf;;20173814;avis-cada-20173814.pdf;07 décembre 2017;;
+241;Annie Genevard;annie-genevard;F;Permanence parlementaire, 5 Rue du parc, 25300 Pontarlier; ;demande-irfm-annie-genevard.pdf;preuve-envoi-annie-genevard.pdf;20173830;avis-cada-20173830.pdf;06 décembre 2017;31 mai 2017;07 juin 2017
+242;Guy Geoffroy;guy-geoffroy;H;Le Relais Parlementaire, 91 Rue du Général Leclerc, 77170 Brie-Comte-Robert; ;demande-irfm-guy-geoffroy.pdf;;20173813;avis-cada-20173813.pdf;07 décembre 2017;;
+243;Bernard Gérard;bernard-gerard;H;103 Avenue Foch, 59700 Marcq-en-Baroeul; ;demande-irfm-bernard-gerard.pdf;NONE;20173812;avis-cada-20173812.pdf;07 décembre 2017;18 juin 2017;27 juin 2017
+244;Jean-Marc Germain;jean-marc-germain;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jean-marc-germain.pdf;NONE;20173811;avis-cada-20173811.pdf;07 décembre 2017;29 mai 2017;06 juin 2017
+245;Alain Gest;alain-gest;H;32 Rue Jules Lardière, 80800 Corbie; ;demande-irfm-alain-gest.pdf;NONE;20173810;avis-cada-20173810.pdf;07 décembre 2017;10 juin 2017;28 juin 2017
+246;Paul Giacobbi;paul-giacobbi;H;Collectivité Territoriale de Corse, 22 Cours Grandval, BP 215, 20187 Ajaccio cedex 1; ;demande-irfm-paul-giacobbi.pdf;NONE;20173809;avis-cada-20173809.pdf;07 décembre 2017;06 juin 2017;15 juin 2017
+247;Daniel Gibbes;daniel-gibbes;H;12 Rue de la Liberté, 97150 Saint-Martin; ;demande-irfm-daniel-gibbes.pdf;;20173808;avis-cada-20173808.pdf;07 décembre 2017;;
+248;Franck Gilard;franck-gilard;H;Permanence parlementaire, 1 Rue Henri d'Andeli, 27700 Les Andelys; ;demande-irfm-franck-gilard.pdf;;20173805;avis-cada-20173805.pdf;07 décembre 2017;;
+249;Jean-Patrick Gille;jean-patrick-gille;H;Permanence parlementaire, 17 Rue Nationale, 37000 Tours; ;demande-irfm-jean-patrick-gille.pdf;NONE;20173873;avis-cada-20173873.pdf;06 décembre 2017;24 mai 2017;11 juin 2017
+250;Georges Ginesta;georges-ginesta;H;Permanence parlementaire, 102 Rue Albert Camatte, Le Melchior, 83700 Saint-Raphaël; ;demande-irfm-georges-ginesta.pdf;;20173876;avis-cada-20173876.pdf;06 décembre 2017;;
+251;Charles-Ange Ginesy;charles-ange-ginesy;H;Centre administratif, 06470 Valberg Peone; ;demande-irfm-charles-ange-ginesy.pdf;preuve-envoi-charles-ange-ginesy.jpg;20173875;avis-cada-20173875.pdf;06 décembre 2017;23 mai 2017;
+252;Jean-Pierre Giran;jean-pierre-giran;H;Permanence parlementaire, 10 Allée Moignard, 83400 Hyères; ;demande-irfm-jean-pierre-giran.pdf;;20173874;avis-cada-20173874.pdf;06 décembre 2017;;
+253;Jean Glavany;jean-glavany;H;Permanence, 170 Place de la Libération, 65700 Maubourguet; ;demande-irfm-jean-glavany.pdf;NONE;20173847;avis-cada-20173847.pdf;06 décembre 2017;14 juin 2017;28 juin 2017
+254;Yves Goasdoue;yves-goasdoue;H;Hôtel de ville de Flers, 61000 Flers; ;demande-irfm-yves-goasdoue.pdf;NONE;20173846;avis-cada-20173846.pdf;06 décembre 2017;22 juin 2017;06 juillet 2017
+255;Claude Goasguen;claude-goasguen;H;Mairie du 16è arrondissement de Paris, 71 Avenue Henri Martin, 75775 Paris cedex 16; ;demande-irfm-claude-goasguen.pdf;NONE;20173845;avis-cada-20173845.pdf;06 décembre 2017;31 mai 2017;06 juin 2017
+256;Daniel Goldberg;daniel-goldberg;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-daniel-goldberg.pdf;;20173844;avis-cada-20173844.pdf;06 décembre 2017;;
+257;Philippe Gomes;philippe-gomes;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-philippe-gomes.pdf;NONE;20173843;avis-cada-20173843.pdf;06 décembre 2017;23 juin 2017;
+258;Jean-Pierre Gorges;jean-pierre-gorges;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jean-pierre-gorges.pdf;NONE;20173806;avis-cada-20173806.pdf;07 décembre 2017;23 mai 2017;06 juin 2017
+259;Philippe Gosselin;philippe-gosselin;H;Permanence parlementaire, 45 Route de Villedieu, 50000 Saint Lô;REFUS;demande-irfm-philippe-gosselin.pdf;;20173394;avis-cada-20173394.pdf;24 novembre 2017;;
+260;Geneviève Gosselin-Fleury;genevieve-gosselin-fleury;F;Permanence parlementaire, 11 Place de la République, 50100 Cherbourg-Octeville; ;demande-irfm-genevieve-gosselin-fleury.pdf;;20173858;avis-cada-20173858.pdf;06 décembre 2017;;
+261;Pascale Got;pascale-got;F;Bureau de poste principal, BP 30, 33320 Eysines; ;demande-irfm-pascale-got.pdf;;20173867;avis-cada-20173867.pdf;06 décembre 2017;;
+262;Marc Goua;marc-goua;H;Permanence parlementaire, Hôtel de Ville, 49800 Trélazé; ;demande-irfm-marc-goua.pdf;;20173871;avis-cada-20173871.pdf;06 décembre 2017;;
+263;Philippe Goujon;philippe-goujon;H;Mairie du 15ème, Rue Peclet, 75015 Paris; ;demande-irfm-philippe-goujon.pdf;NONE;20173870;avis-cada-20173870.pdf;06 décembre 2017;31 mai 2017;07 juin 2017
+264;Linda Gourjade;linda-gourjade;F;Permanence parlementaire, 13 Boulevard Georges Clémenceau, 81100 Castres; ;demande-irfm-linda-gourjade.pdf;NONE;20173869;avis-cada-20173869.pdf;06 décembre 2017;11 juin 2017;28 juin 2017
+265;Laurent Grandguillaume;laurent-grandguillaume;H;6 Rue Bénigné Frémyot, 21000 Dijon; ;demande-irfm-laurent-grandguillaume.pdf;;20173868;avis-cada-20173868.pdf;06 décembre 2017;;
+266;Claude Greff;claude-greff;F;Permanence parlementaire, 4 Bis Rue Jules Ferry, 37400 Amboise; ;demande-irfm-claude-greff.pdf;;20173866;avis-cada-20173866.pdf;06 décembre 2017;;
+267;Jean Grellier;jean-grellier;H;Permanence parlementaire, 44 Rue Jean Jaurès, 37 Résidence Démeter, 79300 BRESSUIRE; ;demande-irfm-jean-grellier.pdf;;20173865;avis-cada-20173865.pdf;06 décembre 2017;;
+268;Arlette Grosskost;arlette-grosskost;F;Permanence, 26 Bis Rue de la Wanne, 68100 Mulhouse; ;demande-irfm-arlette-grosskost.pdf;;20173864;avis-cada-20173864.pdf;06 décembre 2017;;
+269;Serge Grouard;serge-grouard;H;Permanence parlementaire, 3 Rue du Tabour, 45000 Orléans; ;demande-irfm-serge-grouard.pdf;NONE;20174700;avis-cada-20174700.pdf;19 décembre 2017;31 mai 2017;06 juin 2017
+270;Henri Guaino;henri-guaino;H;Permanence parlementaire, 8 Square Surcouf, Résidence Orsay, 78150 Le Chesnay; ;demande-irfm-henri-guaino.pdf;preuve-envoi-henri-guaino.pdf;20173863;avis-cada-20173863.pdf;06 décembre 2017;25 mai 2017;
+271;Françoise Guégot;francoise-guegot;F;648 Chemin de la Breteque, 76230 Bois Guillaume; ;demande-irfm-francoise-guegot.pdf;;20173862;avis-cada-20173862.pdf;06 décembre 2017;;
+272;Edith Gueugneau;edith-gueugneau;F;Permanence parlementaire, Rue la Châtaigneraie, 71140 Bourbon-Lancy; ;demande-irfm-edith-gueugneau.pdf;NONE;20173921;avis-cada-20173921.pdf;06 décembre 2017;13 juin 2017;15 juin 2017
+273;Jean-Claude Guibal;jean-claude-guibal;H;Permanence, 7 Place de la Mairie, 06500 Menton; ;demande-irfm-jean-claude-guibal.pdf;preuve-envoi-jean-claude-guibal.pdf;20173920;avis-cada-20173920.pdf;06 décembre 2017;24 mai 2017;06 juin 2017
+274;Élisabeth Guigou;elisabeth-guigou;F;BP 26, 93300 Aubervilliers; ;demande-irfm-elisabeth-guigou.pdf;;20173919;avis-cada-20173919.pdf;06 décembre 2017;;
+275;Jean-Jacques Guillet;jean-jacques-guillet;H;2 Bis Avenue de l'Europe, 92310 Sèvres; ;demande-irfm-jean-jacques-guillet.pdf;;20173918;avis-cada-20173918.pdf;06 décembre 2017;;
+276;Christophe Guilloteau;christophe-guilloteau;H;Permanence parlementaire, 108 Avenue Georges Clemenceau, Bât.C3, 69230 Saint-Genis-Laval; ;demande-irfm-christophe-guilloteau.pdf;NONE;20173917;avis-cada-20173917.pdf;06 décembre 2017;19 juin 2017;21 juin 2017
+277;Chantal Guittet;chantal-guittet;F;Permanence parlementaire, 28 Rue du Général de Gaulle, 29260 Lesneven; ;demande-irfm-chantal-guittet.pdf;;20173916;avis-cada-20173916.pdf;06 décembre 2017;;
+278;Meyer Habib;meyer-habib;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-meyer-habib.pdf;;20173915;avis-cada-20173915.pdf;06 décembre 2017;;
+279;David Habib;david-habib;H;Permanence parlementaire, 17 Place Henri Dunant, 64150 Mourenx;REFUS;demande-irfm-david-habib.pdf;NONE;20173401;avis-cada-20173401.pdf;24 novembre 2017;23 mai 2017;06 juin 2017
+280;Razzy Hammadi;razzy-hammadi;H;En circonscription, 135 Boulevard Chanzy, 93100 Montreuil; ;demande-irfm-razzy-hammadi.pdf;;20173914;avis-cada-20173914.pdf;06 décembre 2017;;
+281;Benoît Hamon;benoit-hamon;H;Permanence parlementaire, 2 Avenue Carnot, 78190 Trappes; ;demande-irfm-benoit-hamon.pdf;preuve-envoi-benoit-hamon.pdf;20173913;avis-cada-20173913.pdf;06 décembre 2017;12 juin 2017;15 juin 2017
+282;Mathieu Hanotin;mathieu-hanotin;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-mathieu-hanotin.pdf;NONE;20173912;avis-cada-20173912.pdf;06 décembre 2017;25 mai 2017;06 juin 2017
+283;Michel Heinrich;michel-heinrich;H;Permanence parlementaire, 11 Rue de la Préfecture, 88000 Épinal; ;demande-irfm-michel-heinrich.pdf;;20172386;avis-cada-20172386.pdf;08 décembre 2017;;
+284;Michel Herbillon;michel-herbillon;H;Hôtel de Ville, 118 Avenue du Général de Gaulle, 94700 Maisons-Alfort; ;demande-irfm-michel-herbillon.pdf;NONE;20172739;avis-cada-20172739.pdf;08 décembre 2017;23 juin 2017;24 juin 2017
+285;Antoine Herth;antoine-herth;H;Permanence, 5 Rue Roswag, BP 80192, 67604 Sélestat; ;demande-irfm-antoine-herth.pdf;preuve-envoi-antoine-herth.pdf;20172883;avis-cada-20172883.pdf;08 décembre 2017;26 mai 2017;06 juin 2017
+286;Patrick Hetzel;patrick-hetzel;H;9 Rue de la Gare, 67700 Saverne; ;demande-irfm-patrick-hetzel.pdf;preuve-envoi-patrick-hetzel.pdf;20173361;avis-cada-20173361.pdf;08 décembre 2017;26 mai 2017;06 juin 2017
+287;Francis Hillmeyer;francis-hillmeyer;H;128 Rue de la République, 68120 Pfastatt;REFUS;demande-irfm-francis-hillmeyer.pdf;;20173399;avis-cada-20173399.pdf;24 novembre 2017;;
+288;Gilda Hobert;gilda-hobert;F;Permanence parlementaire, 6 Rue du Palais de Justice, 69005 Lyon; ;demande-irfm-gilda-hobert.pdf;NONE;20173380;avis-cada-20173380.pdf;08 décembre 2017;10 juillet 2017;
+289;Philippe Houillon;philippe-houillon;H;Mairie, 2 Rue Victor Hugo, 95300 Pontoise; ;demande-irfm-philippe-houillon.pdf;;20173368;avis-cada-20173368.pdf;08 décembre 2017;;
+290;Guénhaël Huet;guenhael-huet;H;Permanence parlementaire, 2 Boulevard Léon Jozeau Marigné, 50300 Avranches; ;demande-irfm-guenhael-huet.pdf;;20173362;avis-cada-20173362.pdf;08 décembre 2017;;
+291;Joëlle Huillier;joelle-huillier;F;Ferme de la Croix, Boulevard de Villefontaine, 38090 Villefontaine; ;demande-irfm-joelle-huillier.pdf;;20173356;avis-cada-20173356.pdf;08 décembre 2017;;
+292;Christian Hutin;christian-hutin;H;Cabinet parlementaire, 15 Rue du Jeu de Paume, 59140 Dunkerque; ;demande-irfm-christian-hutin.pdf;NONE;20173331;avis-cada-20173331.pdf;08 décembre 2017;23 juin 2017;27 juin 2017
+293;Sébastien Huyghe;sebastien-huyghe;H;234 Rue du Général de Gaulle, BP 10099, 59635 Wattignies Cedex; ;demande-irfm-sebastien-huyghe.pdf;NONE;20173312;avis-cada-20173312.pdf;08 décembre 2017;23 juin 2017;30 juin 2017
+294;Monique Iborra;monique-iborra;F;Permanence parlementaire, 22 Boulevard Vincent Auriol, 31170 Tournefeuille; ;demande-irfm-monique-iborra.pdf;NONE;20173217;avis-cada-20173217.pdf;08 décembre 2017;23 juin 2017;27 juin 2017
+295;Françoise Imbert;francoise-imbert;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-francoise-imbert.pdf;NONE;20173192;avis-cada-20173192.pdf;08 décembre 2017;26 mai 2017;06 juin 2017
+296;Michel Issindou;michel-issindou;H;Permanence parlementaire, 21 Rue du Doyen Gosse, 38400 Saint Martin d'Hères; ;demande-irfm-michel-issindou.pdf;NONE;20173066;avis-cada-20173066.pdf;08 décembre 2017;23 mai 2017;06 juin 2017
+297;Christian Jacob;christian-jacob;H;Hôtel de Ville, 77160 Provins; ;demande-irfm-christian-jacob.pdf;;20173521;avis-cada-20173521.pdf;23 novembre 2017;;
+298;Denis Jacquat;denis-jacquat;H;Permanence parlementaire, 25 Rue du Cambout, 57000 Metz; ;demande-irfm-denis-jacquat.pdf;preuve-envoi-denis-jacquat.png;20173415;avis-cada-20173415.pdf;24 novembre 2017;13 juin 2017;28 juin 2017
+299;Éric Jalton;eric-jalton;H;Dothémare, 97139 Les Abymes; ;demande-irfm-eric-jalton.pdf;;20173426;avis-cada-20173426.pdf;24 novembre 2017;;
+300;Serge Janquin;serge-janquin;H;Hôtel de Ville, 62700 Bruay-la Buissière; ;demande-irfm-serge-janquin.pdf;;20173430;avis-cada-20173430.pdf;24 novembre 2017;;
+301;Yves Jégo;yves-jego;H;Mairie, 54 Rue Jean Jaurès, 77130 Montereau;REFUS;demande-irfm-yves-jego.pdf;preuve-envoi-yves-jego.jpg;20173405;avis-cada-20173405.pdf;24 novembre 2017;29 mai 2017;14 juin 2017
+302;Henri Jibrayel;henri-jibrayel;H;Conseil général des Bouches du Rhône, 52 Avenue de Saint Just, 13004 Marseille; ;demande-irfm-henri-jibrayel.pdf;NONE;20173434;avis-cada-20173434.pdf;24 novembre 2017;02 juin 2017;15 juin 2017
+303;Romain Joron;romain-joron;H;Permanence parlementaire, 2 Rue Saint-Leu, 80000 Amiens; ;demande-irfm-romain-joron.pdf;;20173444;avis-cada-20173444.pdf;24 novembre 2017;;
+304;Laurent Kalinowski;laurent-kalinowski;H;Permanence parlementaire, 6 Place de l'Alma, 57600 Forbach; ;demande-irfm-laurent-kalinowski.pdf;;20173445;avis-cada-20173445.pdf;24 novembre 2017;;
+305;Marietta Karamanli;marietta-karamanli;F;Permanence en circonscription, 39 Rue Evrard, 72100 Le Mans; ;demande-irfm-marietta-karamanli.pdf;NONE;20173447;avis-cada-20173447.pdf;24 novembre 2017;09 juin 2017;13 juin 2017
+306;Philippe Kemel;philippe-kemel;H;Mairie, 1 Rue Thibaut, 62200 Carvin; ;demande-irfm-philippe-kemel.pdf;;20173483;avis-cada-20173483.pdf;24 novembre 2017;;
+307;Christian Kert;christian-kert;H;Permanence parlementaire, 11 Rue Louise Colet, 13100 Aix-en-Provence; ;demande-irfm-christian-kert.pdf;preuve-envoi-christian-kert.pdf;20173484;avis-cada-20173484.pdf;24 novembre 2017;09 juin 2017;
+308;Chaynesse Khirouni;chaynesse-khirouni;F;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-chaynesse-khirouni.pdf;;20173485;avis-cada-20173485.pdf;24 novembre 2017;;
+309;Nathalie Kosciusko-Morizet;nathalie-kosciusko-morizet;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-nathalie-kosciusko-morizet.pdf;;20173493;avis-cada-20173493.pdf;24 novembre 2017;;
+310;Jacques Kossowski;jacques-kossowski;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jacques-kossowski.pdf;preuve-envoi-jacques-kossowski.jpg;20173494;avis-cada-20173494.pdf;23 novembre 2017;10 juin 2017;28 juin 2017
+311;Jacques Krabal;jacques-krabal;H;Permanence parlementaire, 1 Bis Rue de la Barre, 02400 Château-Thierry; ;demande-irfm-jacques-krabal.pdf;NONE;20173499;avis-cada-20173499.pdf;23 novembre 2017;23 juin 2017;27 juin 2017
+312;Patrick Labaune;patrick-labaune;H;158 Avenue Victor Hugo, Immeuble le Saint Joseph, 26000 Valence; ;demande-irfm-patrick-labaune.pdf;NONE;20173503;avis-cada-20173503.pdf;23 novembre 2017;03 juin 2017;14 juin 2017
+313;Bernadette Laclais;bernadette-laclais;F;Permanence parlementaire, 3 Rue Favre, 73000 Chambéry; ;demande-irfm-bernadette-laclais.pdf;preuve-envoi-bernadette-laclais.jpg;20173504;avis-cada-20173504.pdf;23 novembre 2017;28 juillet 2017;
+314;Valérie Lacroute;valerie-lacroute;F;202 Rue Grande, 77300 Fontainebleau; ;demande-irfm-valerie-lacroute.pdf;NONE;20173505;avis-cada-20173505.pdf;23 novembre 2017;26 mai 2017;11 juin 2017
+315;Conchita Lacuey;conchita-lacuey;F;Hôtel de Ville, 6 Avenue Pasteur, 33270 Floirac; ;demande-irfm-conchita-lacuey.pdf;preuve-envoi-conchita-lacuey.jpg;20173511;avis-cada-20173511.pdf;23 novembre 2017;02 juin 2017;
+316;Marc Laffineur;marc-laffineur;H;Cabinet parlementaire, Hôtel de Ville, CS 50109, 49241 Avrillé Cedex; ;demande-irfm-marc-laffineur.pdf;;20173513;avis-cada-20173513.pdf;23 novembre 2017;;
+317;Sonia Lagarde;sonia-lagarde;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-sonia-lagarde.pdf;;20173557;avis-cada-20173557.pdf;23 novembre 2017;;
+318;Jean-Christophe Lagarde;jean-christophe-lagarde;H;Permanence parlementaire, 176 Avenue Jean Jaurès, 93000 Bobigny; ;demande-irfm-jean-christophe-lagarde.pdf;NONE;20173531;avis-cada-20173531.pdf;23 novembre 2017;23 juin 2017;27 juin 2017
+319;François-Michel Lambert;francois-michel-lambert;H;Permanence parlementaire, 6 Place de la Liberté, 13120 Gardanne; ;demande-irfm-francois-michel-lambert.pdf;NONE;20173589;avis-cada-20173589.pdf;23 novembre 2017;23 juin 2017;27 juin 2017
+320;Jérôme Lambert;jerome-lambert;H;Le Bourg, 16230 Juillé; ;demande-irfm-jerome-lambert.pdf;preuve-envoi-jerome-lambert.pdf;20173590;avis-cada-20173590.pdf;23 novembre 2017;26 mai 2017;06 juin 2017
+321;Jacques Lamblin;jacques-lamblin;H;13 Place Leopold, 54300 Lunéville; ;demande-irfm-jacques-lamblin.pdf;;20173591;avis-cada-20173591.pdf;23 novembre 2017;;
+322;Jean-François Lamour;jean-francois-lamour;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jean-francois-lamour.pdf;NONE;20173592;avis-cada-20173592.pdf;23 novembre 2017;31 mai 2017;06 juin 2017
+323;François Lamy;francois-lamy;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-francois-lamy.pdf;NONE;20173614;avis-cada-20173614.pdf;23 novembre 2017;06 juin 2017;28 juin 2017
+324;Anne-Christine Lang;anne-christine-lang;F;Permanence parlementaire, 147 Avenue de Choisy, 75013 Paris; ;demande-irfm-anne-christine-lang.pdf;NONE;20173618;avis-cada-20173618.pdf;23 novembre 2017;31 mai 2017;22 juin 2017
+325;Colette Langlade;colette-langlade;F;Permanence parlementaire de Nontron, 2 Impasse des Laurières, 24300 Nontron;REFUS;demande-irfm-colette-langlade.pdf;;20173402;avis-cada-20173402.pdf;24 novembre 2017;;
+326;Laure de La Raudière;laure-de-la-raudiere;F;Permanence, 17 Clos Couronnet, 28400 Nogent-le-Rotrou; ;demande-irfm-laure-de-la-raudiere.pdf;NONE;20173501;avis-cada-20173501.pdf;23 novembre 2017;22 juin 2017;24 juin 2017
+327;Guillaume Larrivé;guillaume-larrive;H;3 Impasse Maison Fort, 89000 Auxerre; ;demande-irfm-guillaume-larrive.pdf;NONE;20173619;avis-cada-20173619.pdf;23 novembre 2017;05 juin 2017;05 juin 2017
+328;Jean Lassalle;jean-lassalle;H;Permanence, 2 Rue Saint-Grat, 64400 Oloron-Sainte-Marie; ;demande-irfm-jean-lassalle.pdf;NONE;20173663;avis-cada-20173663.pdf;23 novembre 2017;01 juin 2017;11 juin 2017
+329;Jean Launay;jean-launay;H;Permanence parlementaire, 4 Place Edmond Michelet, BP 99, 46103 Figeac Cedex; ;demande-irfm-jean-launay.pdf;;20173752;avis-cada-20173752.pdf;23 novembre 2017;;
+330;Jean-Luc Laurent;jean-luc-laurent;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jean-luc-laurent.pdf;NONE;20173773;avis-cada-20173773.pdf;23 novembre 2017;11 juin 2017;
+331;Charles de La Verpillière;charles-de-la-verpilliere;H;Permanence parlementaire, 4 Rue du Docteur Mehier, BP 49, 01152 Lagnieu Cedex; ;demande-irfm-charles-de-la-verpilliere.pdf;;20173502;avis-cada-20173502.pdf;23 novembre 2017;;
+332;Thierry Lazaro;thierry-lazaro;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-thierry-lazaro.pdf;;20173774;avis-cada-20173774.pdf;23 novembre 2017;;
+333;Alain Leboeuf;alain-leboeuf;H;Permanence parlementaire, 5A Rue Victor Hugo, 85000 La-Roche-sur-Yon; ;demande-irfm-alain-leboeuf.pdf;NONE;20173939;avis-cada-20173939.pdf;23 novembre 2017;07 juin 2017;11 juin 2017
+334;Pierre-Yves Le Borgn';pierre-yves-le-borgn;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-pierre-yves-le-borgn.pdf;preuve-envoi-pierre-yves-le-borgn.pdf;20173776;avis-cada-20173776.pdf;23 novembre 2017;06 juin 2017;21 juin 2017
+335;Jean-Yves Le Bouillonnec;jean-yves-le-bouillonnec;H;Square de la Libération, 94230 Cachan; ;demande-irfm-jean-yves-le-bouillonnec.pdf;;20173793;avis-cada-20173793.pdf;23 novembre 2017;;
+336;Marylise Lebranchu;marylise-lebranchu;F;Permanence parlementaire, 23 Avenue de la République, 29600 Morlaix; ;demande-irfm-marylise-lebranchu.pdf;;20173940;avis-cada-20173940.pdf;23 novembre 2017;;
+337;Patrick Lebreton;patrick-lebreton;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-patrick-lebreton.pdf;preuve-envoi-patrick-lebreton.pdf;20173941;avis-cada-20173941.pdf;23 novembre 2017;16 juin 2017;27 juin 2017
+338;Gilbert Le Bris;gilbert-le-bris;H;Permanence parlementaire, 18 Rue Dumont d'Urville, 29900 Concarneau; ;demande-irfm-gilbert-le-bris.pdf;;20173799;avis-cada-20173799.pdf;23 novembre 2017;;
+339;Isabelle Le Callennec;isabelle-le-callennec;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-isabelle-le-callennec.pdf;NONE;20173802;avis-cada-20173802.pdf;23 novembre 2017;24 mai 2017;06 juin 2017
+340;Anne-Yvonne Le Dain;anne-yvonne-le-dain;F;Permanence parlementaire, 5 Rue André Michel, 34000 Montpellier; ;demande-irfm-anne-yvonne-le-dain.pdf;;20173819;avis-cada-20173819.pdf;23 novembre 2017;;
+341;Jean-Yves Le Déaut;jean-yves-le-deaut;H;Permanence parlementaire, 21 Place Duroc, BP 177, 54706 Pont-à-Mousson cedex; ;demande-irfm-jean-yves-le-deaut.pdf;preuve-envoi-jean-yves-le-deaut.pdf;20173831;avis-cada-20173831.pdf;23 novembre 2017;06 juin 2017;11 juin 2017
+342;Viviane Le Dissez;viviane-le-dissez;F;12 Bis Rue de Brest, BP 46338, 22106 Dinan Cedex; ;demande-irfm-viviane-le-dissez.pdf;;20173832;avis-cada-20173832.pdf;23 novembre 2017;;
+343;Vincent Ledoux;vincent-ledoux;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-vincent-ledoux.pdf;;20173942;avis-cada-20173942.pdf;23 novembre 2017;;
+344;Michel Lefait;michel-lefait;H;Permanence parlementaire, 23 Bis Rue Marcel Delaplace, 62510 Arques; ;demande-irfm-michel-lefait.pdf;;20173943;avis-cada-20173943.pdf;23 novembre 2017;;
+345;Dominique Lefebvre;dominique-lefebvre;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-dominique-lefebvre.pdf;;20173944;avis-cada-20173944.pdf;23 novembre 2017;;
+346;Frédéric Lefebvre;frederic-lefebvre;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-frederic-lefebvre.pdf;;20173945;avis-cada-20173945.pdf;23 novembre 2017;;
+347;Marc Le Fur;marc-le-fur;H;Permanence, 6 Avenue des Combattants, 22600 Loudéac; ;demande-irfm-marc-le-fur.pdf;NONE;20173861;avis-cada-20173861.pdf;23 novembre 2017;23 juin 2017;30 juin 2017
+348;Annie Le Houerou;annie-le-houerou;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-annie-le-houerou.pdf;preuve-envoi-annie-le-houerou.jpg;20173877;avis-cada-20173877.pdf;23 novembre 2017;23 mai 2017;
+349;Pierre Lellouche;pierre-lellouche;H;Permanence parlementaire (1, 2, 8, 9), 9 Bis Rue de Maubeuge, 75009 Paris;REFUS;demande-irfm-pierre-lellouche.pdf;NONE;20173398;avis-cada-20173398.pdf;24 novembre 2017;23 mai 2017;
+350;Annick Le Loch;annick-le-loch;F;Permanence, 12 Rue du Prat, Résidence Pierre Pichavant, 29120 Pont-l'Abbé; ;demande-irfm-annick-le-loch.pdf;;20173926;avis-cada-20173926.pdf;23 novembre 2017;;
+351;Axelle Lemaire;axelle-lemaire;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-axelle-lemaire.pdf;NONE;20173946;avis-cada-20173946.pdf;23 novembre 2017;23 mai 2017;06 juin 2017
+352;Bruno Le Maire;bruno-le-maire;H;Permanence, 3 Rue Saint-Nicolas, BP 795, 27007 Evreux; ;demande-irfm-bruno-le-maire.pdf;NONE;20173927;avis-cada-20173927.pdf;23 novembre 2017;15 juin 2017;28 juin 2017
+353;Patrick Lemasle;patrick-lemasle;H;21 Rue du Faubourg Saint-Germain, 31310 Montesquieu-Volvestre; ;demande-irfm-patrick-lemasle.pdf;;20173947;avis-cada-20173947.pdf;23 novembre 2017;;
+354;Dominique Le Mèner;dominique-le-mener;H;119 Rue de Malpalu, "Résidence des Noisetiers", 72000 Le Mans; ;demande-irfm-dominique-le-mener.pdf;NONE;20173928;avis-cada-20173928.pdf;23 novembre 2017;09 juin 2017;13 juin 2017
+355;Catherine Lemorton;catherine-lemorton;F;47 Bis Boulevard de Strasbourg, 31000 Toulouse; ;demande-irfm-catherine-lemorton.pdf;;20173948;avis-cada-20173948.pdf;23 novembre 2017;;
+356;Christophe Léonard;christophe-leonard;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-christophe-leonard.pdf;;20173951;avis-cada-20173951.pdf;23 novembre 2017;;
+357;Jean Leonetti;jean-leonetti;H;Mairie, Cours Masséna, 06600 Antibes; ;demande-irfm-jean-leonetti.pdf;;20173952;avis-cada-20173952.pdf;23 novembre 2017;;
+358;Annick Lepetit;annick-lepetit;F;Permanence parlementaire, 27 Rue Lemercier, 75017 Paris; ;demande-irfm-annick-lepetit.pdf;NONE;20173953;avis-cada-20173953.pdf;23 novembre 2017;23 mai 2017;06 juin 2017
+359;Pierre Lequiller;pierre-lequiller;H;Conseil général des Yvelines, 2 Place André Mignot, 78012 Versailles cedex; ;demande-irfm-pierre-lequiller.pdf;NONE;20173954;avis-cada-20173954.pdf;23 novembre 2017;11 juin 2017;
+360;Philippe Le Ray;philippe-le-ray;H;Permanence parlementaire, 17 Place des Quatre Vents, 56400 Auray; ;demande-irfm-philippe-le-ray.pdf;preuve-envoi-philippe-le-ray.png;20173929;avis-cada-20173929.pdf;23 novembre 2017;04 juin 2017;28 juin 2017
+361;Jean-Pierre Le Roch;jean-pierre-le-roch;H;24 Rue Frédéric de Lourmel, 56300 PONTIVY; ;demande-irfm-jean-pierre-le-roch.pdf;;20173930;avis-cada-20173930.pdf;23 novembre 2017;;
+362;Bruno Le Roux;bruno-le-roux;H;19-21 Avenue de la République, 93800 Epinay-sur-Seine; ;demande-irfm-bruno-le-roux.pdf;preuve-envoi-bruno-le-roux.pdf;20173931;avis-cada-20173931.pdf;23 novembre 2017;30 mai 2017;06 juin 2017
+363;Arnaud Leroy;arnaud-leroy;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-arnaud-leroy.pdf;;20173955;avis-cada-20173955.pdf;23 novembre 2017;;
+364;Maurice Leroy;maurice-leroy;H;Permanence, 32 Mail Leclerc, 41100 Vendôme; ;demande-irfm-maurice-leroy.pdf;NONE;20173956;avis-cada-20173956.pdf;23 novembre 2017;23 juin 2017;27 juin 2017
+365;Marie-Thérèse Le Roy;marie-therese-le-roy;F;Permanence parlementaire, 8-10 Place de la Tourbie, 29000 Quimper; ;demande-irfm-marie-therese-le-roy.pdf;;20173932;avis-cada-20173932.pdf;23 novembre 2017;;
+366;Michel Lesage;michel-lesage;H;3 Rue des trois frères Merlin, 22000 Saint Brieuc; ;demande-irfm-michel-lesage.pdf;;20173957;avis-cada-20173957.pdf;23 novembre 2017;;
+367;Bernard Lesterlin;bernard-lesterlin;H;Permanence parlementaire, 6 Place Piquand, 03100 Montluçon; ;demande-irfm-bernard-lesterlin.pdf;;20173958;avis-cada-20173958.pdf;23 novembre 2017;;
+368;Serge Letchimy;serge-letchimy;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-serge-letchimy.pdf;preuve-envoi-serge-letchimy.jpg;20173959;avis-cada-20173959.pdf;23 novembre 2017;27 mai 2017;08 juin 2017
+369;Céleste Lett;celeste-lett;H;Permanence, 18A Rue Chamborand, 57200 Sarreguemines; ;demande-irfm-celeste-lett.pdf;;20173960;avis-cada-20173960.pdf;23 novembre 2017;;
+370;Marie Le Vern;marie-le-vern;F;Permanence parlementaire, 42 Boulevard du Général de Gaulle, 76200 Dieppe; ;demande-irfm-marie-le-vern.pdf;;20173933;avis-cada-20173933.pdf;23 novembre 2017;;
+371;Geneviève Levy;genevieve-levy;F;Permanence parlementaire, 52 Cours Lafayette, 83000 Toulon; ;demande-irfm-genevieve-levy.pdf;NONE;20173522;avis-cada-20173522.pdf;24 novembre 2017;23 juin 2017;24 juin 2017
+372;Michel Liebgott;michel-liebgott;H;2 Rue Diderot, BP 70035, 57293 FAMECK Cedex; ;demande-irfm-michel-liebgott.pdf;;20173392;avis-cada-20173392.pdf;24 novembre 2017;;
+373;Martine Lignières-Cassou;martine-lignieres-cassou;F;Permanence parlementaire, 56 Rue Émile Guichenné, BP 621, 64006 Pau cedex; ;demande-irfm-martine-lignieres-cassou.pdf;;20173412;avis-cada-20173412.pdf;24 novembre 2017;;
+374;Audrey Linkenheld;audrey-linkenheld;F;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-audrey-linkenheld.pdf;NONE;20173514;avis-cada-20173514.pdf;24 novembre 2017;26 mai 2017;06 juin 2017
+375;François Loncle;francois-loncle;H;17 Rue du Rempart, 27400 Louviers; ;demande-irfm-francois-loncle.pdf;;20173878;avis-cada-20173878.pdf;24 novembre 2017;;
+376;Gabrielle Louis-Carabin;gabrielle-louis-carabin;F;Mairie, Rue Joffre, 97160 Le Moule; ;demande-irfm-gabrielle-louis-carabin.pdf;;20173879;avis-cada-20173879.pdf;24 novembre 2017;;
+377;Lucette Lousteau;lucette-lousteau;F;2 Rue Jeanne d'Arc, 47000 Agen; ;demande-irfm-lucette-lousteau.pdf;;20173880;avis-cada-20173880.pdf;24 novembre 2017;;
+378;Véronique Louwagie;veronique-louwagie;F;40 Rue Saint Jean, 61300 L'Aigle; ;demande-irfm-veronique-louwagie.pdf;;20173881;avis-cada-20173881.pdf;24 novembre 2017;;
+379;Lionnel Luca;lionnel-luca;H;Permanence, 14 Rue Jean-Raymond Giacosa, BP 113, 06800 Cagnes-sur-Mer; ;demande-irfm-lionnel-luca.pdf;NONE;20173882;avis-cada-20173882.pdf;24 novembre 2017;09 juin 2017;28 juin 2017
+380;Victorin Lurel;victorin-lurel;H;Permanence parlementaire, 97100 Basse-Terre; ;demande-irfm-victorin-lurel.pdf;;;;;;
+381;Gilles Lurton;gilles-lurton;H;Permanence parlementaire, 73 Rue Ville Pépin- Place de la Roulais, 35400 Saint Malo; ;demande-irfm-gilles-lurton.pdf;preuve-envoi-gilles-lurton.pdf;20174010;avis-cada-20174010.pdf;23 novembre 2017;31 mai 2017;06 juin 2017
+382;Jean-Pierre Maggi;jean-pierre-maggi;H;Permanence parlementaire, 17 Rue Blanchard, 13300 Salon-de-Provence; ;demande-irfm-jean-pierre-maggi.pdf;preuve-envoi-jean-pierre-maggi.pdf;20174011;avis-cada-20174011.pdf;23 novembre 2017;09 juin 2017;14 juin 2017
+383;Noël Mamère;noel-mamere;H;Hôtel de Ville, Cabinet du Maire, Rue Calixte Camelle, BP 153, 33321 Bègles; ;demande-irfm-noel-mamere.pdf;preuve-envoi-noel-mamere.jpg;20174012;avis-cada-20174012.pdf;23 novembre 2017;23 mai 2017;06 juin 2017
+384;Jean-François Mancel;jean-francois-mancel;H;Permanence parlementaire, 18 Rue Beauregard, 60000 Beauvais; ;demande-irfm-jean-francois-mancel.pdf;;20174013;avis-cada-20174013.pdf;23 novembre 2017;;
+385;Jacqueline Maquet;jacqueline-maquet;F;Permanence, 10 Place Courbet, 62000 Arras; ;demande-irfm-jacqueline-maquet.pdf;;20174014;avis-cada-20174014.pdf;23 novembre 2017;;
+386;Laurent Marcangeli;laurent-marcangeli;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-laurent-marcangeli.pdf;;20174015;avis-cada-20174015.pdf;23 novembre 2017;;
+387;Marie-Lou Marcel;marie-lou-marcel;F;6 Avenue du Quercy, 12200 Villefranche de Rouergue; ;demande-irfm-marie-lou-marcel.pdf;;20174016;avis-cada-20174016.pdf;23 novembre 2017;;
+388;Marion Maréchal-Le Pen;marion-marechal-le-pen;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-marion-marechal-le-pen.pdf;NONE;20174017;avis-cada-20174017.pdf;23 novembre 2017;01 juin 2017;28 juin 2017
+389;Thierry Mariani;thierry-mariani;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-thierry-mariani.pdf;;20174018;avis-cada-20174018.pdf;23 novembre 2017;;
+390;Alfred Marie-Jeanne;alfred-marie-jeanne;H;Permanence parlementaire, 4 Rue Albert Camus, Place d'Armes, 97232 Le Lamentin; ;demande-irfm-alfred-marie-jeanne.pdf;preuve-envoi-alfred-marie-jeanne.jpg;20174019;avis-cada-20174019.pdf;23 novembre 2017;27 mai 2017;24 juin 2017
+391;Hervé Mariton;herve-mariton;H;Permanence, 5 Rue Paul Pons, 26400 Crest; ;demande-irfm-herve-mariton.pdf;NONE;20174020;avis-cada-20174020.pdf;23 novembre 2017;03 juin 2017;28 juin 2017
+392;Olivier Marleix;olivier-marleix;H;7 Rue Saint-Martin, 28100 Dreux; ;demande-irfm-olivier-marleix.pdf;preuve-envoi-olivier-marleix.jpg;20174024;avis-cada-20174024.pdf;23 novembre 2017;26 mai 2017;06 juin 2017
+393;Alain Marleix;alain-marleix;H;Permanence, 4 Rue Fernand Talandier, 15200 Mauriac; ;demande-irfm-alain-marleix.pdf;;20174023;avis-cada-20174023.pdf;23 novembre 2017;;
+394;Franck Marlin;franck-marlin;H;Hôtel de Ville, BP 109, 91152 Étampes cedex; ;demande-irfm-franck-marlin.pdf;;20174025;avis-cada-20174025.pdf;23 novembre 2017;;
+395;Jean-René Marsac;jean-rene-marsac;H;Permanence, 55 Rue Notre Dame, 35600 Redon; ;demande-irfm-jean-rene-marsac.pdf;NONE;20174026;avis-cada-20174026.pdf;23 novembre 2017;11 juin 2017;28 juin 2017
+396;Alain Marsaud;alain-marsaud;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-alain-marsaud.pdf;NONE;20174027;avis-cada-20174027.pdf;23 novembre 2017;10 juin 2017;28 juin 2017
+397;Philippe Martin;philippe-martin;H;Permanence parlementaire, 81 Route de Pessan, 32000 Auch; ;demande-irfm-philippe-martin.pdf;NONE;20174028;avis-cada-20174028.pdf;23 novembre 2017;20 juillet 2017;28 juillet 2017
+398;Philippe Armand Martin;philippe-armand-martin;H;Permanence, 15 Bis Rue des Archers, 51200 Épernay; ;demande-irfm-philippe-armand-martin.pdf;;20174029;avis-cada-20174029.pdf;23 novembre 2017;;
+399;Martine Martinel;martine-martinel;F;Permanence parlementaire, 37 Rue Clément Ader, 31300 Toulouse; ;demande-irfm-martine-martinel.pdf;;20174031;avis-cada-20174031.pdf;23 novembre 2017;;
+400;Patrice Martin-Lalande;patrice-martin-lalande;H;Cabinet parlementaire, 4 Place de la Paix, BP 119, 41203 Romorantin-Lanthenay cedex; ;demande-irfm-patrice-martin-lalande.pdf;;20174030;avis-cada-20174030.pdf;23 novembre 2017;;
+401;Alain Marty;alain-marty;H;16 Rue de la Gare, 57400 Sarrebourg; ;demande-irfm-alain-marty.pdf;;20174032;avis-cada-20174032.pdf;23 novembre 2017;;
+402;Frédérique Massat;frederique-massat;F;29 Rue Delcassé, 09000 Foix; ;demande-irfm-frederique-massat.pdf;;20174033;avis-cada-20174033.pdf;23 novembre 2017;;
+403;Véronique Massonneau;veronique-massonneau;F;Permanence parlementaire, 39/41 Boulevard Blossac, 86100 Châtellerault; ;demande-irfm-veronique-massonneau.pdf;;20174034;avis-cada-20174034.pdf;23 novembre 2017;;
+404;Jean-Claude Mathis;jean-claude-mathis;H;2 Rue des Anciennes Tanneries, 10000 Troyes; ;demande-irfm-jean-claude-mathis.pdf;NONE;20174035;avis-cada-20174035.pdf;23 novembre 2017;02 juin 2017;
+405;Sandrine Mazetier;sandrine-mazetier;F;Permanence parlementaire, 123 Rue de Reuilly, 75012 Paris; ;demande-irfm-sandrine-mazetier.pdf;NONE;20174036;avis-cada-20174036.pdf;23 novembre 2017;31 mai 2017;06 juin 2017
+406;François de Mazières;francois-de-mazieres;H;Mairie, 78000 Versailles; ;demande-irfm-francois-de-mazieres.pdf;NONE;20174037;avis-cada-20174037.pdf;23 novembre 2017;30 mai 2017;06 juin 2017
+407;Michel Ménard;michel-menard;H;Permanence parlementaire, 4 Rue Léonard de Vinci, 44470 Carquefou; ;demande-irfm-michel-menard.pdf;NONE;20174038;avis-cada-20174038.pdf;23 novembre 2017;23 mai 2017;06 juin 2017
+408;Patrick Mennucci;patrick-mennucci;H;Permanence parlementaire, 2 Rue de la République, 13001 Marseille; ;demande-irfm-patrick-mennucci.pdf;NONE;20174039;avis-cada-20174039.pdf;23 novembre 2017;27 mai 2017;07 juin 2017
+409;Gérard Menuel;gerard-menuel;H;Permanence parlementaire, 4 Place Foch, 10000 Troyes; ;demande-irfm-gerard-menuel.pdf;NONE;20174040;avis-cada-20174040.pdf;23 novembre 2017;02 juin 2017;09 juin 2017
+410;Damien Meslot;damien-meslot;H;Permanence parlementaire, 4 Rue Georges Clemenceau, 90000 Belfort; ;demande-irfm-damien-meslot.pdf;;20174041;avis-cada-20174041.pdf;23 novembre 2017;;
+411;Kléber Mesquida;kleber-mesquida;H;1 Rue Général Thomières, 34500 Béziers; ;demande-irfm-kleber-mesquida.pdf;NONE;20174042;avis-cada-20174042.pdf;23 novembre 2017;25 mai 2017;06 juin 2017
+412;Philippe Meunier;philippe-meunier;H;18 Rue Louis Saunier, 69330 Meyzieu; ;demande-irfm-philippe-meunier.pdf;;20174043;avis-cada-20174043.pdf;23 novembre 2017;;
+413;Jean-Claude Mignon;jean-claude-mignon;H;BP 11, 77630 Barbizon; ;demande-irfm-jean-claude-mignon.pdf;NONE;20174044;avis-cada-20174044.pdf;23 novembre 2017;12 juin 2017;28 juin 2017
+414;Paul Molac;paul-molac;H;Permanence parlementaire, 26 Place de la Mairie, 56800 Ploërmel; ;demande-irfm-paul-molac.pdf;preuve-envoi-paul-molac.jpg;20174045;avis-cada-20174045.pdf;23 novembre 2017;01 juin 2017;07 juin 2017
+415;Pierre Morange;pierre-morange;H;Permanence parlementaire, 27 Rue de la République, 78100 Saint-Germain-en-Laye; ;demande-irfm-pierre-morange.pdf;NONE;20174046;avis-cada-20174046.pdf;23 novembre 2017;22 juin 2017;06 juillet 2017
+416;Yannick Moreau;yannick-moreau;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-yannick-moreau.pdf;preuve-envoi-yannick-moreau.jpg;20174047;avis-cada-20174047.pdf;23 novembre 2017;16 juin 2017;27 juin 2017
+417;Pierre Morel-A-L'Huissier;pierre-morel-a-lhuissier;H;Permanence parlementaire, 3 Allée Piencourt, 48000 Mende; ;demande-irfm-pierre-morel-a-lhuissier.pdf;preuve-envoi-pierre-morel-a-lhuissier.pdf;20174048;avis-cada-20174048.pdf;23 novembre 2017;06 juin 2017;12 juin 2017
+418;Alain Moyne-Bressand;alain-moyne-bressand;H;Secrétariat parlementaire, Place du 8 mai 1945, 38460 Crémieu; ;demande-irfm-alain-moyne-bressand.pdf;;20174049;avis-cada-20174049.pdf;23 novembre 2017;;
+419;Pierre-Alain Muet;pierre-alain-muet;H;2 Place Louis Pradel, 69001 Lyon; ;demande-irfm-pierre-alain-muet.pdf;;20174050;avis-cada-20174050.pdf;23 novembre 2017;;
+420;Jacques Myard;jacques-myard;H;Permanence, 36 Avenue de la République, 78500 Sartrouville; ;demande-irfm-jacques-myard.pdf;NONE;20174051;avis-cada-20174051.pdf;23 novembre 2017;09 juin 2017;15 juin 2017
+421;Dominique Nachury;dominique-nachury;F;54 Rue Cuvier, 69006 LYON;REFUS;demande-irfm-dominique-nachury.pdf;;20174052;avis-cada-20174052.pdf;23 novembre 2017;;
+422;Philippe Naillet;philippe-naillet;H;Permanence parlementaire, 190 Rue des Deux Canons, Immeuble Futura, 97490 Sainte-Clotilde; ;demande-irfm-philippe-naillet.pdf;preuve-envoi-philippe-naillet.pdf;20174054;avis-cada-20174054.pdf;23 novembre 2017;16 juin 2017;
+423;Philippe Nauche;philippe-nauche;H;Permanence parlementaire, 26 Boulevard Anatole France, 19100 Brive la Gaillarde; ;demande-irfm-philippe-nauche.pdf;preuve-envoi-philippe-nauche.jpg;20174055;avis-cada-20174055.pdf;23 novembre 2017;03 juin 2017;11 juin 2017
+424;Yves Nicolin;yves-nicolin;H;4 Rue Molière, BP 273, 42301 Roanne cedex; ;demande-irfm-yves-nicolin.pdf;;20174056;avis-cada-20174056.pdf;23 novembre 2017;;
+425;Nathalie Nieson;nathalie-nieson;F;Permanence parlementaire, Rue du Docteur Eynard, Hôtel de Ville, 26300 Bourg-de-Péage; ;demande-irfm-nathalie-nieson.pdf;NONE;20174057;avis-cada-20174057.pdf;23 novembre 2017;03 juin 2017;12 juin 2017
+426;Jean-Philippe Nilor;jean-philippe-nilor;H;12 Rue Paul Langevin, 97228 Sainte-Luce; ;demande-irfm-jean-philippe-nilor.pdf;;20174058;avis-cada-20174058.pdf;23 novembre 2017;;
+427;Philippe Noguès;philippe-nogues;H;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-philippe-nogues.pdf;;20174059;avis-cada-20174059.pdf;23 novembre 2017;;
+428;Robert Olive;robert-olive;H;Permanence parlementaire, 24 Quai Sadi Carnot, 66000 Perpignan; ;demande-irfm-robert-olive.pdf;;20174060;avis-cada-20174060.pdf;23 novembre 2017;;
+429;Maud Olivier;maud-olivier;F;5 Rue du Forez, 91940 Les Ulis; ;demande-irfm-maud-olivier.pdf;NONE;20174061;avis-cada-20174061.pdf;23 novembre 2017;19 juin 2017;28 juin 2017
+430;Patrick Ollier;patrick-ollier;H;Mairie, 92501 Rueil-Malmaison; ;demande-irfm-patrick-ollier.pdf;;20174062;avis-cada-20174062.pdf;23 novembre 2017;;
+431;Dominique Orliac;dominique-orliac;F;Permanence parlementaire, 9 Impasse Séguier, 1er étage, 46000 Cahors;REFUS;demande-irfm-dominique-orliac.pdf;NONE;20173407;avis-cada-20173407.pdf;24 novembre 2017;31 mai 2017;06 juin 2017
+432;Monique Orphé;monique-orphe;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-monique-orphe.pdf;preuve-envoi-monique-orphe.pdf;20174063;avis-cada-20174063.pdf;23 novembre 2017;16 juin 2017;14 juillet 2017
+433;Michel Pajon;michel-pajon;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-michel-pajon.pdf;;20174064;avis-cada-20174064.pdf;23 novembre 2017;;
+434;Bertrand Pancher;bertrand-pancher;H;Permanence parlementaire, 12 Rue Jean Errard, 55000 Bar-le-Duc; ;demande-irfm-bertrand-pancher.pdf;;20174065;avis-cada-20174065.pdf;23 novembre 2017;;
+435;Luce Pane;luce-pane;F;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-luce-pane.pdf;NONE;20174066;avis-cada-20174066.pdf;23 novembre 2017;23 mai 2017;06 juin 2017
+436;Christian Paul;christian-paul;H;Permanence parlementaire, 1 Rue des Teuraux, 58140 Lormes; ;demande-irfm-christian-paul.pdf;NONE;20174068;avis-cada-20174068.pdf;23 novembre 2017;21 juillet 2017;28 juillet 2017
+437;George Pau-Langevin;george-pau-langevin;F;Permanence parlementaire, 8 Rue de la Cour des Noues, 75020 Paris; ;demande-irfm-george-pau-langevin.pdf;;20174067;avis-cada-20174067.pdf;23 novembre 2017;;
+438;Rémi Pauvros;remi-pauvros;H;Immeuble le Suisse, 41 Boulevard de l'Europe, 59600 MAUBEUGE; ;demande-irfm-remi-pauvros.pdf;preuve-envoi-remi-pauvros.pdf;20174069;avis-cada-20174069.pdf;23 novembre 2017;19 juin 2017;27 juin 2017
+439;Germinal Peiro;germinal-peiro;H;Les Jardins du Pontet, 2-4 Avenue de la Dordogne, BP 75, 24202 Sarlat-la-Canéda; ;demande-irfm-germinal-peiro.pdf;;20174070;avis-cada-20174070.pdf;23 novembre 2017;;
+440;Jacques Pélissard;jacques-pelissard;H;Hôtel de Ville, 39000 Lons-le-Saunier; ;demande-irfm-jacques-pelissard.pdf;;20174071;avis-cada-20174071.pdf;23 novembre 2017;;
+441;Hervé Pellois;herve-pellois;H;Permanence parlementaire, 10 Bis Rue Joseph Le Brix, 56890 Saint-Avé; ;demande-irfm-herve-pellois.pdf;;20174072;avis-cada-20174072.pdf;23 novembre 2017;;
+442;Jean-Claude Perez;jean-claude-perez;H;2 Rue Barbès, BP 158, 11004 Carcassonne cedex; ;demande-irfm-jean-claude-perez.pdf;;20174073;avis-cada-20174073.pdf;23 novembre 2017;;
+443;Stéphanie Pernod Beaudon;stephanie-pernod-beaudon;F;Mairie de Thoiry, 374 Rue Briand Stresemann, 01710 Thoiry;REFUS;demande-irfm-stephanie-pernod-beaudon.pdf;NONE;20173397;avis-cada-20173397.pdf;24 novembre 2017;23 mai 2017;06 juin 2017
+444;Bernard Perrut;bernard-perrut;H;Hôtel de ville, Rue de la Paix, 69400 Villefranche-sur-Saône; ;demande-irfm-bernard-perrut.pdf;;20173524;avis-cada-20173524.pdf;27 novembre 2017;;
+445;Edouard Philippe;edouard-philippe;H;Mairie du Havre, 15-17 Place de l'Hôtel de ville, CS40051, 76084 Le Havre Cedex; ;demande-irfm-edouard-philippe.pdf;NONE;20173593;avis-cada-20173593.pdf;27 novembre 2017;06 juin 2017;13 juin 2017
+446;Sébastien Pietrasanta;sebastien-pietrasanta;H;24 Rue Emile Deschanel, 92600 Asnières; ;demande-irfm-sebastien-pietrasanta.pdf;preuve-envoi-sebastien-pietrasanta.pdf;20173594;avis-cada-20173594.pdf;27 novembre 2017;23 mai 2017;06 juin 2017
+447;Sylvia Pinel;sylvia-pinel;F;Permanence Parlementaire, 71 Rue de l'Egalité, 82100 Castelsarrasin; ;demande-irfm-sylvia-pinel.pdf;preuve-envoi-sylvia-pinel.pdf;20173595;avis-cada-20173595.pdf;27 novembre 2017;01 juin 2017;12 juin 2017
+448;Christine Pires Beaune;christine-pires-beaune;F;Permanence parlementaire, 8 Ter Avenue de Virlogeux, 63200 Riom;REFUS;demande-irfm-christine-pires-beaune.pdf;preuve-envoi-christine-pires-beaune.jpg;20173406;avis-cada-20173406.pdf;24 novembre 2017;30 mai 2017;06 juin 2017
+449;Michel Piron;michel-piron;H;Permanence, Mme Maryvonne Martin, 2 Bis Rue J. du Bellay, 49380 Thouarcé; ;demande-irfm-michel-piron.pdf;;20173596;avis-cada-20173596.pdf;27 novembre 2017;;
+450;Philippe Plisson;philippe-plisson;H;24 Rue Gambetta, 33230 Coutras; ;demande-irfm-philippe-plisson.pdf;;20173597;avis-cada-20173597.pdf;27 novembre 2017;;
+451;Elisabeth Pochon;elisabeth-pochon;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-elisabeth-pochon.pdf;;20173598;avis-cada-20173598.pdf;27 novembre 2017;;
+452;Jean-Frédéric Poisson;jean-frederic-poisson;H;Permanence parlementaire, 40 Bis Avenue du Maréchal Foch, 78120 Rambouillet; ;demande-irfm-jean-frederic-poisson.pdf;NONE;20173599;avis-cada-20173599.pdf;27 novembre 2017;11 juin 2017;23 juin 2017
+453;Bérengère Poletti;berengere-poletti;F;Permanence parlementaire, 21 Avenue du Maréchal Leclerc, 08000 Charleville-Mézières; ;demande-irfm-berengere-poletti.pdf;NONE;20173600;avis-cada-20173600.pdf;27 novembre 2017;10 juin 2017;28 juin 2017
+454;Napole Polutélé;napole-polutele;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-napole-polutele.pdf;;20173601;avis-cada-20173601.pdf;27 novembre 2017;;
+455;Axel Poniatowski;axel-poniatowski;H;Permanence parlementaire, BP 18, 95290 L'isle-Adam; ;demande-irfm-axel-poniatowski.pdf;;20173602;avis-cada-20173602.pdf;29 novembre 2017;;
+456;Josette Pons;josette-pons;F;13 Rue Victor Hugo, 83270 Saint Cyr sur Mer; ;demande-irfm-josette-pons.pdf;;20173631;avis-cada-20173631.pdf;27 novembre 2017;;
+457;Pascal Popelin;pascal-popelin;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-pascal-popelin.pdf;;20173632;avis-cada-20173632.pdf;29 novembre 2017;;
+458;Dominique Potier;dominique-potier;H;Permanence parlementaire, 27 Avenue du Maréchal Foch, 54200 Toul; ;demande-irfm-dominique-potier.pdf;;20173633;avis-cada-20173633.pdf;29 novembre 2017;;
+459;Michel Pouzol;michel-pouzol;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-michel-pouzol.pdf;preuve-envoi-michel-pouzol.jpg;20173634;avis-cada-20173634.pdf;29 novembre 2017;26 mai 2017;14 juin 2017
+460;Régine Povéda;regine-poveda;F;Mairie, 47180 Meilhan-sur-Garonne; ;demande-irfm-regine-poveda.pdf;;20173635;avis-cada-20173635.pdf;29 novembre 2017;;
+461;Patrice Prat;patrice-prat;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-patrice-prat.pdf;;20173636;avis-cada-20173636.pdf;29 novembre 2017;;
+462;Christophe Premat;christophe-premat;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 S; ;demande-irfm-christophe-premat.pdf;;20173637;avis-cada-20173637.pdf;29 novembre 2017;;
+463;Christophe Priou;christophe-priou;H;Permanence parlementaire, 2 Bis Faubourg Sainte-Anne, BP 85308, 44353 Guérande; ;demande-irfm-christophe-priou.pdf;;20173638;avis-cada-20173638.pdf;29 novembre 2017;;
+464;Joaquim Pueyo;joaquim-pueyo;H;Hôtel de ville, Place Foch, 61000 Alençon; ;demande-irfm-joaquim-pueyo.pdf;;20173639;avis-cada-20173639.pdf;29 novembre 2017;;
+465;François Pupponi;francois-pupponi;H;Cabinet du Député-Maire, 4 Place de Navarre, 95200 Sarcelles; ;demande-irfm-francois-pupponi.pdf;;20173640;avis-cada-20173640.pdf;29 novembre 2017;;
+466;Didier Quentin;didier-quentin;H;Permanence parlementaire, 86 Boulevard de Lattre de Tassigny, 17200 Royan; ;demande-irfm-didier-quentin.pdf;NONE;20173653;avis-cada-20173653.pdf;29 novembre 2017;16 juin 2017;23 juin 2017
+467;Catherine Quéré;catherine-quere;F;Permanence parlementaire, 2 Rue René Cassin, 17100 Saintes; ;demande-irfm-catherine-quere.pdf;;20173654;avis-cada-20173654.pdf;29 novembre 2017;;
+468;Valérie Rabault;valerie-rabault;F;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-valerie-rabault.pdf;;20173655;avis-cada-20173655.pdf;29 novembre 2017;;
+469;Monique Rabin;monique-rabin;F;Permanence parlementaire, 33 Rue de l'Hôtel de Ville, 44310 Saint Philibert de Grand Lieu; ;demande-irfm-monique-rabin.pdf;;20173656;avis-cada-20173656.pdf;29 novembre 2017;;
+470;Marie Récalde;marie-recalde;F;Hôtel de Ville, 60 Avenue Maréchal de Lattre de Tassigny, 33705 Mérignac; ;demande-irfm-marie-recalde.pdf;;20173657;avis-cada-20173657.pdf;29 novembre 2017;;
+471;Frédéric Reiss;frederic-reiss;H;Permanence parlementaire, 12 Allée des Peupliers, BP 2, 67161 Wissembourg cedex; ;demande-irfm-frederic-reiss.pdf;preuve-envoi-frederic-reiss.pdf;20173658;avis-cada-20173658.pdf;29 novembre 2017;26 mai 2017;06 juin 2017
+472;Jean-Luc Reitzer;jean-luc-reitzer;H;Mairie d'Altkirch, 5 Place de la République, 68130 Altkirch; ;demande-irfm-jean-luc-reitzer.pdf;NONE;20173659;avis-cada-20173659.pdf;29 novembre 2017;27 mai 2017;06 juin 2017
+473;Marie-Line Reynaud;marie-line-reynaud;F;44 Grand rue, BP 40, 16200 Jarnac; ;demande-irfm-marie-line-reynaud.pdf;preuve-envoi-marie-line-reynaud.pdf;20173660;avis-cada-20173660.pdf;29 novembre 2017;26 mai 2017;
+474;Bernard Reynès;bernard-reynes;H;34 Avenue du général de Gaulle, 13160 Châteaurenard; ;demande-irfm-bernard-reynes.pdf;NONE;20173661;avis-cada-20173661.pdf;29 novembre 2017;01 juin 2017;08 juin 2017
+475;Franck Reynier;franck-reynier;H;Hôtel de ville, Place Emile Loubet, 26200 Montélimar; ;demande-irfm-franck-reynier.pdf;NONE;20173662;avis-cada-20173662.pdf;29 novembre 2017;25 mai 2017;
+476;Pierre Ribeaud;pierre-ribeaud;H;Permanence parlementaire, 77 Place de la Mairie, 38660 La Terrasse; ;demande-irfm-pierre-ribeaud.pdf;;20173763;avis-cada-20173763.pdf;29 novembre 2017;;
+477;Arnaud Richard;arnaud-richard;H;Permanence, 107 Rue Paul Doumer, 78510 Triel-sur-Seine; ;demande-irfm-arnaud-richard.pdf;;20173764;avis-cada-20173764.pdf;29 novembre 2017;;
+478;Franck Riester;franck-riester;H;Hôtel de ville, 77120 Coulommiers; ;demande-irfm-franck-riester.pdf;NONE;20173765;avis-cada-20173765.pdf;29 novembre 2017;17 juillet 2017;21 juillet 2017
+479;Eduardo Rihan Cypel;eduardo-rihan-cypel;H;Hôtel de ville de Torcy, 77200 Torcy; ;demande-irfm-eduardo-rihan-cypel.pdf;;20173766;avis-cada-20173766.pdf;29 novembre 2017;;
+480;Thierry Robert;thierry-robert;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-thierry-robert.pdf;preuve-envoi-thierry-robert.pdf;20173767;avis-cada-20173767.pdf;28 novembre 2017;16 juin 2017;21 juin 2017
+481;Denys Robiliard;denys-robiliard;H;2 Avenue Gambetta, 41000 Blois; ;demande-irfm-denys-robiliard.pdf;;20173768;avis-cada-20173768.pdf;28 novembre 2017;;
+482;Arnaud Robinet;arnaud-robinet;H;Permanence, 9 Place Royale, 51100 Reims; ;demande-irfm-arnaud-robinet.pdf;;20173769;avis-cada-20173769.pdf;28 novembre 2017;;
+483;Camille de Rocca Serra;camille-de-rocca-serra;H;Permanence parlementaire, 2 Rue Joseph Pietri, 20137 Porto-Vecchio; ;demande-irfm-camille-de-rocca-serra.pdf;;20173770;avis-cada-20173770.pdf;28 novembre 2017;;
+484;François Rochebloine;francois-rochebloine;H;Permanence, 4 Place Dorian, BP 203, 42408 Saint-Chamond cedex; ;demande-irfm-francois-rochebloine.pdf;;20173771;avis-cada-20173771.pdf;28 novembre 2017;;
+485;Alain Rodet;alain-rodet;H;Fédération socialiste de Haute-Vienne, 9 Boulevard de la Cité, 87000 Limoges; ;demande-irfm-alain-rodet.pdf;preuve-envoi-alain-rodet.pdf;20173772;avis-cada-20173772.pdf;28 novembre 2017;26 mai 2017;06 juin 2017
+486;Marcel Rogemont;marcel-rogemont;H;Permanence en circonscription, 13 Boulevard Maréchal de Lattre de Tassigny, 35000 Rennes; ;demande-irfm-marcel-rogemont.pdf;preuve-envoi-marcel-rogemont.pdf;20173820;avis-cada-20173820.pdf;28 novembre 2017;31 mai 2017;06 juin 2017
+487;Sophie Rohfritsch;sophie-rohfritsch;F;Permanence parlementaire, 7 Rue du Château, 67380 Lingolsheim; ;demande-irfm-sophie-rohfritsch.pdf;preuve-envoi-sophie-rohfritsch.pdf;20173821;avis-cada-20173821.pdf;28 novembre 2017;26 mai 2017;06 juin 2017
+488;Frédéric Roig;frederic-roig;H;Permanence parlementaire, 2 Place de la République, Le Rialto, Appt 8, 34700 Lodève; ;demande-irfm-frederic-roig.pdf;;20173822;avis-cada-20173822.pdf;28 novembre 2017;;
+489;Gwendal Rouillard;gwendal-rouillard;H;10 Rue Assemblée nationale, 56100 Lorient; ;demande-irfm-gwendal-rouillard.pdf;;20173823;avis-cada-20173823.pdf;28 novembre 2017;;
+490;Jean-Louis Roumegas;jean-louis-roumegas;H;Permanence parlementaire, 15 Rue du Général Campredon, 34000 Montpellier; ;demande-irfm-jean-louis-roumegas.pdf;;20173824;avis-cada-20173824.pdf;28 novembre 2017;;
+491;René Rouquet;rene-rouquet;H;Mairie, Place François Mitterrand, 94140 Alfortville; ;demande-irfm-rene-rouquet.pdf;preuve-envoi-rene-rouquet.png;20173825;avis-cada-20173825.pdf;28 novembre 2017;02 juin 2017;23 juin 2017
+492;Alain Rousset;alain-rousset;H;Permanence parlementaire, 2 Allée Grangeneuve, 33600 Pessac; ;demande-irfm-alain-rousset.pdf;;20173826;avis-cada-20173826.pdf;28 novembre 2017;;
+493;François de Rugy;francois-de-rugy;H;90 Rue Paul Bellamy, 44000 Nantes; ;demande-irfm-francois-de-rugy.pdf;NONE;20173827;avis-cada-20173827.pdf;28 novembre 2017;06 juin 2017;15 juin 2017
+494;Martial Saddier;martial-saddier;H;Permanence parlementaire, 111 Rue du Pont, Immeuble "La Résidence", 74130 Bonneville; ;demande-irfm-martial-saddier.pdf;;20173828;avis-cada-20173828.pdf;28 novembre 2017;;
+495;Maina Sage;maina-sage;F;Permanence parlementaire, 101 Rue de l'Université, 75007 Paris; ;demande-irfm-maina-sage.pdf;;20173780;avis-cada-20173780.pdf;28 novembre 2017;;
+496;Boinali Said;boinali-said;H;Acoua, 97600 Mayotte; ;demande-irfm-boinali-said.pdf;;20173779;avis-cada-20173779.pdf;28 novembre 2017;;
+497;Stéphane Saint-André;stephane-saint-andre;H;Permanence parlementaire, 336 Avenue de Lens, 62400 Béthune; ;demande-irfm-stephane-saint-andre.pdf;;20173781;avis-cada-20173781.pdf;28 novembre 2017;;
+498;Paul Salen;paul-salen;H;Résidence les Cèdres, 138 Place de la République, BP 68, 42210 MONTROND LES BAINS; ;demande-irfm-paul-salen.pdf;;20173782;avis-cada-20173782.pdf;28 novembre 2017;;
+499;Rudy Salles;rudy-salles;H;31 Avenue Jean Médecin, 06000 Nice; ;demande-irfm-rudy-salles.pdf;NONE;20173783;avis-cada-20173783.pdf;28 novembre 2017;27 mai 2017;06 juin 2017
+500;Nicolas Sansu;nicolas-sansu;H;Hôtel de Ville, 18100 Vierzon; ;demande-irfm-nicolas-sansu.pdf;;20173784;avis-cada-20173784.pdf;28 novembre 2017;;
+501;Béatrice Santais;beatrice-santais;F;Immeuble "Le Catinat", n° 55, Place Albert Serraz, 73800 Montmelian; ;demande-irfm-beatrice-santais.pdf;;20173785;avis-cada-20173785.pdf;28 novembre 2017;;
+502;André Santini;andre-santini;H;Mairie, 62 Rue du Général Leclerc, 92130 Issy-les-Moulineaux; ;demande-irfm-andre-santini.pdf;;20173786;avis-cada-20173786.pdf;28 novembre 2017;;
+503;Eva Sas;eva-sas;F;Permanence, 56 Grande Rue, 91260 Juvisy-sur-Orge; ;demande-irfm-eva-sas.pdf;;20173787;avis-cada-20173787.pdf;28 novembre 2017;;
+504;Odile Saugues;odile-saugues;F;18 Rue Neyron, 63000 Clermont-Ferrand; ;demande-irfm-odile-saugues.pdf;preuve-envoi-odile-saugues.jpg;20173829;avis-cada-20173829.pdf;28 novembre 2017;30 mai 2017;06 juin 2017
+505;Gilbert Sauvan;gilbert-sauvan;H;Assemblée nationale, 126 Rue de l'Université, 75355 PARIS 07 SP; ;demande-irfm-gilbert-sauvan.pdf;;20173833;avis-cada-20173833.pdf;28 novembre 2017;;
+506;Gilles Savary;gilles-savary;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-gilles-savary.pdf;;20173834;avis-cada-20173834.pdf;28 novembre 2017;;
+507;François Scellier;francois-scellier;H;6 Rue du Général Leclerc, BP 40049 Cedex, 95210 Saint-Gratien; ;demande-irfm-francois-scellier.pdf;NONE;20173835;avis-cada-20173835.pdf;28 novembre 2017;04 juin 2017;
+508;Claudine Schmid;claudine-schmid;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-claudine-schmid.pdf;;20173836;avis-cada-20173836.pdf;28 novembre 2017;;
+509;André Schneider;andre-schneider;H;Permanence, 53 Route de Bischwiller, BP 12, 67301 Schiltigheim cedex; ;demande-irfm-andre-schneider.pdf;preuve-envoi-andre-schneider.pdf;20173837;avis-cada-20173837.pdf;28 novembre 2017;26 mai 2017;06 juin 2017
+510;Roger-Gérard Schwartzenberg;roger-gerard-schwartzenberg;H;Assemblée nationale, 126 Rue de l'université, 75355 Paris 07 SP; ;demande-irfm-roger-gerard-schwartzenberg.pdf;;20173838;avis-cada-20173838.pdf;28 novembre 2017;;
+511;Gérard Sebaoun;gerard-sebaoun;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-gerard-sebaoun.pdf;preuve-envoi-gerard-sebaoun.png;20173839;avis-cada-20173839.pdf;28 novembre 2017;24 mai 2017;06 juin 2017
+512;Jean-Marie Sermier;jean-marie-sermier;H;Permanence parlementaire, 15 Rue des Arènes, 39100 Dole; ;demande-irfm-jean-marie-sermier.pdf;NONE;20173840;avis-cada-20173840.pdf;28 novembre 2017;25 juillet 2017;
+513;Gabriel Serville;gabriel-serville;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-gabriel-serville.pdf;;20173790;avis-cada-20173790.pdf;28 novembre 2017;;
+514;Fernand Siré;fernand-sire;H;Permanence, Rue des Templiers, 66250 Saint-Laurent-de-la Salanque; ;demande-irfm-fernand-sire.pdf;;20173791;avis-cada-20173791.pdf;28 novembre 2017;;
+515;Thierry Solère;thierry-solere;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-thierry-solere.pdf;preuve-envoi-thierry-solere.png;;;;18 juin 2017;28 juin 2017
+516;Julie Sommaruga;julie-sommaruga;F;Assemblée nationale, 126 Rue de l'université, 75355 Paris 07 SP; ;demande-irfm-julie-sommaruga.pdf;NONE;20173525;avis-cada-20173525.pdf;04 décembre 2017;11 juin 2017;
+517;Michel Sordi;michel-sordi;H;Permanence parlementaire, 3 Faubourg de Belfort, 68700 Cernay; ;demande-irfm-michel-sordi.pdf;;20174080;avis-cada-20174080.pdf;27 novembre 2017;;
+518;Éric Straumann;eric-straumann;H;Permanence parlementaire, 82 Rue de la cavalerie, 68000 Colmar; ;demande-irfm-eric-straumann.pdf;NONE;20174081;avis-cada-20174081.pdf;27 novembre 2017;29 mai 2017;06 juin 2017
+519;Claude Sturni;claude-sturni;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-claude-sturni.pdf;preuve-envoi-claude-sturni.pdf;20174082;avis-cada-20174082.pdf;27 novembre 2017;26 mai 2017;15 juin 2017
+520;Alain Suguenot;alain-suguenot;H;Mairie, 21200 Beaune; ;demande-irfm-alain-suguenot.pdf;NONE;20174083;avis-cada-20174083.pdf;27 novembre 2017;14 juin 2017;28 juin 2017
+521;Michèle Tabarot;michele-tabarot;F;Mairie, 20 Boulevard Sadi Carnot, 06110 Le Cannet; ;demande-irfm-michele-tabarot.pdf;preuve-envoi-michele-tabarot.pdf;20174084;avis-cada-20174084.pdf;27 novembre 2017;24 mai 2017;06 juin 2017
+522;Jonas Tahuaitu;jonas-tahuaitu;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jonas-tahuaitu.pdf;NONE;20174086;avis-cada-20174086.pdf;27 novembre 2017;29 mai 2017;07 juin 2017
+523;Suzanne Tallard;suzanne-tallard;F;Permanence parlementaire, 14 Avenue Lafayette, BP 40232, 17304 Rochefort cedex; ;demande-irfm-suzanne-tallard.pdf;;20174091;avis-cada-20174091.pdf;27 novembre 2017;;
+524;Lionel Tardy;lionel-tardy;H;Permanence parlementaire, 8 Avenue du Pré Closet, Annecy-le-Vieux, 74940 Annecy; ;demande-irfm-lionel-tardy.pdf;preuve-envoi-lionel-tardy.pdf;20174093;avis-cada-20174093.pdf;27 novembre 2017;06 juin 2017;09 juin 2017
+525;Jean-Charles Taugourdeau;jean-charles-taugourdeau;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jean-charles-taugourdeau.pdf;;20174096;avis-cada-20174096.pdf;23 novembre 2017;;
+526;Guy Teissier;guy-teissier;H;Présidence de la communauté urbaine, Les Docks, Atrium 10.7, 10, place de la Joliette, 13002 Marseille; ;demande-irfm-guy-teissier.pdf;;20174135;avis-cada-20174135.pdf;23 novembre 2017;;
+527;Pascal Terrasse;pascal-terrasse;H;11 Avenue de Coux, 07000 Privas; ;demande-irfm-pascal-terrasse.pdf;NONE;20174140;avis-cada-20174140.pdf;23 novembre 2017;02 juin 2017;12 juin 2017
+528;Michel Terrot;michel-terrot;H;8 Rue Victor Hugo, 69600 Oullins; ;demande-irfm-michel-terrot.pdf;;20174141;avis-cada-20174141.pdf;23 novembre 2017;;
+529;Jean-Marie Tetart;jean-marie-tetart;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jean-marie-tetart.pdf;;20174142;avis-cada-20174142.pdf;23 novembre 2017;;
+530;Pascal Thévenot;pascal-thevenot;H;Permanence parlementaire, 13 Rue Paulhan, 78140 Vélizy; ;demande-irfm-pascal-thevenot.pdf;;20174143;avis-cada-20174143.pdf;23 novembre 2017;;
+531;Thomas Thévenoud;thomas-thevenoud;H;Permanence parlementaire, 78 Rue Dinet, 71000 Mâcon; ;demande-irfm-thomas-thevenoud.pdf;;20174144;avis-cada-20174144.pdf;23 novembre 2017;;
+532;Dominique Tian;dominique-tian;H;486 Bis Rue Paradis, 13008 Marseille; ;demande-irfm-dominique-tian.pdf;;20174145;avis-cada-20174145.pdf;23 novembre 2017;;
+533;Sylvie Tolmont;sylvie-tolmont;F;73 Boulevard Carnot, 72000 Le Mans; ;demande-irfm-sylvie-tolmont.pdf;;20174146;avis-cada-20174146.pdf;23 novembre 2017;;
+534;Jean-Louis Touraine;jean-louis-touraine;H;Permanence parlementaire, 117 Avenue de Saxe, 69003 Lyon; ;demande-irfm-jean-louis-touraine.pdf;NONE;20174147;avis-cada-20174147.pdf;23 novembre 2017;09 juin 2017;13 juin 2017
+535;Alain Tourret;alain-tourret;H;Permanence parlementaire (arrdt Viré), 25 Rue Armand Gasté, 14500 Viré; ;demande-irfm-alain-tourret.pdf;;20174148;avis-cada-20174148.pdf;23 novembre 2017;;
+536;Stéphane Travert;stephane-travert;H;Permanence parlementaire, 11 Rue du Calvaire, BP 23, 50250 La Haye du Puits; ;demande-irfm-stephane-travert.pdf;;20174149;avis-cada-20174149.pdf;23 novembre 2017;;
+537;Yannick Trigance;yannick-trigance;H;Permanence parlementaire, 19 Rue Charles Schmidt, 93400 Saint-Ouen; ;demande-irfm-yannick-trigance.pdf;;20174150;avis-cada-20174150.pdf;23 novembre 2017;;
+538;Catherine Troallic;catherine-troallic;F;Permanence parlementaire, 53 Rue Collard, 76600 Le Havre; ;demande-irfm-catherine-troallic.pdf;;20174151;avis-cada-20174151.pdf;23 novembre 2017;;
+539;Jean-Paul Tuaiva;jean-paul-tuaiva;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-jean-paul-tuaiva.pdf;;20174152;avis-cada-20174152.pdf;23 novembre 2017;;
+540;Cécile Untermaier;cecile-untermaier;F;9 Rue des dodanes, 71500 Louhans; ;demande-irfm-cecile-untermaier.pdf;;20174153;avis-cada-20174153.pdf;23 novembre 2017;;
+541;Daniel Vaillant;daniel-vaillant;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-daniel-vaillant.pdf;NONE;20174154;avis-cada-20174154.pdf;23 novembre 2017;31 mai 2017;08 juin 2017
+542;Jacques Valax;jacques-valax;H;Permanence parlementaire, 26 Bis Boulevard Alsace Lorraine, 81000 Albi; ;demande-irfm-jacques-valax.pdf;;20174155;avis-cada-20174155.pdf;23 novembre 2017;;
+543;Manuel Valls;manuel-valls;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-manuel-valls.pdf;NONE;20174156;avis-cada-20174156.pdf;23 novembre 2017;29 mai 2017;09 juin 2017
+544;François Vannson;francois-vannson;H;Permanence secondaire, 2 Rue des Déportés, 88160 Le Thillot; ;demande-irfm-francois-vannson.pdf;;20174157;avis-cada-20174157.pdf;23 novembre 2017;;
+545;Catherine Vautrin;catherine-vautrin;F;Permanence, 8 Rue de Venise, 51100 Reims; ;demande-irfm-catherine-vautrin.pdf;;20174158;avis-cada-20174158.pdf;23 novembre 2017;;
+546;Michel Vauzelle;michel-vauzelle;H;Permanence parlementaire, 15 Rue de la Calade, 13200 Arles; ;demande-irfm-michel-vauzelle.pdf;;20174159;avis-cada-20174159.pdf;23 novembre 2017;;06 juin 2017
+547;Francis Vercamer;francis-vercamer;H;Permanence parlementaire, 69 Rue du Général Leclerc, BP 70707, 59510 Hem; ;demande-irfm-francis-vercamer.pdf;preuve-envoi-francis-vercamer.jpg;20173886;avis-cada-20173886.pdf;04 décembre 2017;24 juin 2017;
+548;Patrice Verchère;patrice-verchere;H;24 Avenue Charles de Gaulle, 69170 Tarare; ;demande-irfm-patrice-verchere.pdf;;20173889;avis-cada-20173889.pdf;04 décembre 2017;;
+549;Fabrice Verdier;fabrice-verdier;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-fabrice-verdier.pdf;NONE;20173891;avis-cada-20173891.pdf;04 décembre 2017;26 mai 2017;06 juin 2017
+550;Michel Vergnier;michel-vergnier;H;Permanence parlementaire, 64 Avenue Louis Laroche, 23000 Guéret; ;demande-irfm-michel-vergnier.pdf;NONE;20173894;avis-cada-20173894.pdf;04 décembre 2017;22 juin 2017;27 juin 2017
+551;Arnaud Viala;arnaud-viala;H;Permanence de Saint-Affrique, 1 Place Foch, 12400 Saint-Affrique; ;demande-irfm-arnaud-viala.pdf;NONE;20173901;avis-cada-20173901.pdf;27 novembre 2017;25 mai 2017;06 juin 2017
+552;Jean-Sébastien Vialatte;jean-sebastien-vialatte;H;Permanence parlementaire, 87 Rue de la République, Les Terrasses d'Engaline, 83140 Six-Fours-les-Plages; ;demande-irfm-jean-sebastien-vialatte.pdf;NONE;20174100;avis-cada-20174100.pdf;23 novembre 2017;30 mai 2017;08 juin 2017
+553;Jean-Pierre Vigier;jean-pierre-vigier;H;Permanence parlementaire, 12 Avenue Clément Charbonnier, 43000 Le-Puy-en-Velay; ;demande-irfm-jean-pierre-vigier.pdf;NONE;20174161;avis-cada-20174161.pdf;23 novembre 2017;02 juin 2017;09 juin 2017
+554;Philippe Vigier;philippe-vigier;H;Permanence parlementaire, 33 Rue Gambetta, 28200 Châteaudun; ;demande-irfm-philippe-vigier.pdf;;20174162;avis-cada-20174162.pdf;23 novembre 2017;;
+555;Patrick Vignal;patrick-vignal;H;Permanence parlementaire, 129 Rue Andy Warhol, Résidence des Arts, 34000 Montpellier; ;demande-irfm-patrick-vignal.pdf;;20174163;avis-cada-20174163.pdf;23 novembre 2017;;
+556;François-Xavier Villain;francois-xavier-villain;H;Hôtel de Ville, 2 Rue de Nice, 59400 Cambrai; ;demande-irfm-francois-xavier-villain.pdf;;20174164;avis-cada-20174164.pdf;23 novembre 2017;;
+557;Jean-Michel Villaumé;jean-michel-villaume;H;Permanence parlementaire de Luxeuil, 36 Rue Jules Jeanneney, 70300 Luxeuil les Bains; ;demande-irfm-jean-michel-villaume.pdf;NONE;20174167;avis-cada-20174167.pdf;23 novembre 2017;22 juin 2017;
+558;Philippe Vitel;philippe-vitel;H;Le Concorde, 280 Avenue Maréchal Foch, 83000 Toulon; ;demande-irfm-philippe-vitel.pdf;;20174168;avis-cada-20174168.pdf;23 novembre 2017;;
+559;Jean Jacques Vlody;jean-jacques-vlody;H;190 Rue Jules Bertaut, 97430 Le Tampon; ;demande-irfm-jean-jacques-vlody.pdf;preuve-envoi-jean-jacques-vlody.pdf;20174169;avis-cada-20174169.pdf;23 novembre 2017;16 juin 2017;
+560;Michel Voisin;michel-voisin;H;Permanence parlementaire, 21 Rue de la Croix-Colin, BP 28, 01750 Replonges; ;demande-irfm-michel-voisin.pdf;NONE;20174170;avis-cada-20174170.pdf;23 novembre 2017;23 mai 2017;06 juin 2017
+561;Jean-Luc Warsmann;jean-luc-warsmann;H;Permanence, 11 Rue Carnot, 08200 Sedan; ;demande-irfm-jean-luc-warsmann.pdf;NONE;20174171;avis-cada-20174171.pdf;23 novembre 2017;30 juin 2017;05 juillet 2017
+562;Laurent Wauquiez;laurent-wauquiez;H;Permanence parlementaire, 2 Rue des Alliés, 43200 Yssingeaux; ;demande-irfm-laurent-wauquiez.pdf;NONE;20174172;avis-cada-20174172.pdf;23 novembre 2017;02 juin 2017;06 juin 2017
+563;Patrick Weiten;patrick-weiten;H;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-patrick-weiten.pdf;NONE;20174173;avis-cada-20174173.pdf;23 novembre 2017;23 mai 2017;
+564;Éric Woerth;eric-woerth;H;Permanence parlementaire, 9 Avenue du Maréchal Foch, 1er étage, 60300 Senlis; ;demande-irfm-eric-woerth.pdf;;20174174;avis-cada-20174174.pdf;23 novembre 2017;;
+565;Paola Zanetti;paola-zanetti;F;Assemblée nationale, 126 Rue de l'Université, 75355 Paris 07 SP; ;demande-irfm-paola-zanetti.pdf;;20174175;avis-cada-20174175.pdf;23 novembre 2017;;
+566;Marie-Jo Zimmermann;marie-jo-zimmermann;F;9 Square du Pontiffroy, 57000 Metz; ;demande-irfm-marie-jo-zimmermann.pdf;;20174176;avis-cada-20174176.pdf;23 novembre 2017;;
+567;Michel Zumkeller;michel-zumkeller;H;Permanence parlementaire, 9 Faubourg de Lyon, 90000 Belfort; ;demande-irfm-michel-zumkeller.pdf;;20174177;avis-cada-20174177.pdf;23 novembre 2017;;

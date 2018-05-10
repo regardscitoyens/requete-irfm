@@ -6,7 +6,7 @@ IMAGES=$(wildcard images/*)
 all: $(PDFS) pdfjoins.mk $(JOINEDPDFS)
 
 %.md: %.j2
-	python bin/create_md.py $< > $@
+	python bin/create_md.py $< export_irfm.csv 518 > $@
 
 %.pdf: %.md $(IMAGES)
 	pandoc --variable=lang:fr -V geometry:margin=1in  -s -S -o $@ $<
