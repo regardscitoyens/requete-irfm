@@ -5,7 +5,10 @@ IMAGES=$(wildcard images/*)
 
 all: $(PDFS) pdfjoins.mk $(JOINEDPDFS)
 
-%.pdf: %.md %.head $(IMAGES)
+%.md: %.j2
+	python bin/create_md.py $< > $@
+
+%.pdf: %.md $(IMAGES)
 	pandoc --variable=lang:fr -V geometry:margin=1in  -s -S -o $@ $<
 
 pdfjoins.mk: $(PDFS)
