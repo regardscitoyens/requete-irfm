@@ -4,6 +4,10 @@ OLDIFS=$IFS
 IFS=";"
 
 echo ".PHONY: requetes_ta"
+echo "requetes_ta: requetes_ta.pdf"
+echo "requetes_ta.pdf:"
+echo "	gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=\$@ \$^"
+echo ""
 
 cat $1 | while read line; do
   TOKENS=($line)
@@ -32,20 +36,29 @@ cat $1 | while read line; do
 
   mkdir -p $dir
   
+  echo "# $nom"
+  echo ""
   echo "$dir/00-requete.md: sources/requete-ta.j2 sources/export_irfm.csv bin/create_md.py"
-	echo -e "\t\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num > \$@"
-
-  files="$dir/00-requete.pdf fichiers_irfm/$demande"
-  #if [ "$bordereau" ]; then
-  #  files="$files fichiers_irfm/$bordereau"
-  #fi
+	echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num > \$@"
+  
+  echo "$dir/01-liste-pieces.md: sources/requete-ta-pieces.j2 sources/export_irfm.csv bin/create_md.py"
+  echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num > \$@"
+  
+  pieces="fichiers_irfm/$demande"
   if [ "$avis_cada" ]; then
-    files="$files fichiers_irfm/$avis_cada"
+    pieces="$pieces fichiers_irfm/$avis_cada"
   fi
 
-  echo "requetes_ta: $dir.pdf"
-  echo "$dir.pdf: $files"
+  echo "$dir-00-requete.pdf: $dir/00-requete.pdf"
+  echo "	cp \$< \$@"
+  echo "$dir-01-liste-pieces.pdf: $dir/01-liste-pieces.pdf"
+  echo "	cp \$< \$@"
+  echo "$dir-02-pieces.pdf: $pieces"
   echo "	gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=\$@ \$^"
+  echo "$dir-joined.pdf: $dir-00-requete.pdf $dir-01-liste-pieces.pdf $dir-02-pieces.pdf"
+  echo "	gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=\$@ \$^"
+  echo "requetes_ta: $dir-joined.pdf $dir-00-requete.pdf $dir-01-liste-pieces.pdf $dir-02-pieces.pdf"
+  echo "requetes_ta.pdf: $dir-joined.pdf"
   echo ""
 done
 
