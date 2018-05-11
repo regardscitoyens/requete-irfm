@@ -19,9 +19,9 @@ data = {"depute": depute[1],
         "cada_date": depute[10],
         "refus_date": depute[7] if depute[7] != 'NONE' else None,
         "lar_envoi": depute[11] if depute[11] != 'NONE' else None,
-        "lar_reception": depute[12] if depute[12] != 'NONE' else None};
+        "lar_reception": depute[12] if depute[12] != 'NONE' else None}
 
 env = Environment(loader=FileSystemLoader("."))
 
 template = env.get_template(sys.argv[1])
-print template.render(data);
+print template.render(data)

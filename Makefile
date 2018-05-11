@@ -1,28 +1,18 @@
-MARKDOWNS=$(wildcard */*.md)
-PDFS=$(patsubst %.md,%.pdf,$(MARKDOWNS))
-JOINEDPDFS=$(patsubst %,joined-%.pdf,$(wildcard 20*))
 IMAGES=$(wildcard images/*)
 
-all: $(PDFS) pdfjoins.mk $(JOINEDPDFS)
+PYTHON?=python
+PANDOC_OPTS?=-S
 
-%.md: %.j2
-	python bin/create_md.py $< export_irfm.csv 518 > $@
+all: requetes_ta
 
 %.pdf: %.md $(IMAGES)
-	pandoc --variable=lang:fr -V geometry:margin=1in  -s -S -o $@ $<
+	pandoc --variable=lang:fr -V geometry:margin=1in  -s $(PANDOC_OPTS) -o $@ $<
 
-pdfjoins.mk: $(PDFS)
-	echo -n "" > $@
-	find . -mindepth 1 -maxdepth 1 -type d -name "20*" | \
-	  while read d; do \
-	    files=$$(find $$d -name '*.pdf' | sort | tr '\n' ' '); \
-	    echo "joined-$$(basename $$d).pdf: $$files" >> $@; \
-	    echo "	gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=\$$@ \$$^" >> $@; \
-	  done
+deputes.mk: bin/create_deputes_mk.sh sources/export_irfm.csv
+	bin/create_deputes_mk.sh sources/export_irfm.csv > $@
 
-include pdfjoins.mk
+include deputes.mk
 
 clean:
-	@rm $(PDFS)
-	@rm $(JOINEDPDFS)
-	@rm pdfjoins.mk
+	@rm -R requetes-ta
+	@rm deputes.mk
