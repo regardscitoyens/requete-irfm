@@ -9,9 +9,10 @@ header-includes: |
 
 \ \ \ \
 
-1. Demande de communication de documents adressée par e-mail à {{ depute }} le 16 mai 2017
-2. Avis n° {{ cada_no }} de la Commission d'Accès aux Documents Administratifs reçu le {{ cada_date }}.
-3. Procès-verbal de l'Assemblée Permanente de l'association Regards Citoyens donnant mandat à chaque membre du Conseil d'Administration pour le dépôt de la présente requête.
+1. Demande de communication de documents adressée par e-mail à {{ depute }} le 16 mai 2017.
+2. Courrier joint à cette demande{% if lar_envoi is defined and lar_envoi %} et transmis par recommandé avec avis de récéption le {{ lar_envoi }}{% endif %}.
+3. Avis n° {{ cada_no }} de la Commission d'Accès aux Documents Administratifs reçu le {{ cada_date }}.
+4. Procès-verbal de l'Assemblée Permanente de l'association Regards Citoyens donnant mandat à chaque membre du Conseil d'Administration pour le dépôt de la présente requête.
 {% if refus_date is defined and refus_date %}
-4. Décision de refus de communication des documents par {{ depute }} reçue le {{ refus_date }}
+5. Décision de refus de communication des documents par {{ depute }} reçue le {{ refus_date }}.
 {% endif %}

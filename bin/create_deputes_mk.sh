@@ -45,7 +45,7 @@ cat $1 | while read line; do
   echo "$dir/01-liste-pieces.md: sources/requete-ta-pieces.j2 sources/export_irfm.csv bin/create_md.py"
   echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num \$@"
 
-  pieces="fichiers_irfm/$demande"
+  pieces="fichiers_irfm/demande-mail-$sexe.pdf fichiers_irfm/$demande"
   if [ "$avis_cada" ]; then
     pieces="$pieces fichiers_irfm/$avis_cada"
   fi
