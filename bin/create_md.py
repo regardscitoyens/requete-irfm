@@ -6,22 +6,37 @@ sys.setdefaultencoding('utf-8')
 
 depute = None
 
+if len(sys.argv) < 4:
+    raise Exception("Utilisation: %s <template> <csv> <num> <output>" % sys.argv[0])
+
 with open(sys.argv[2],  "rb") as csvfile:
     deputes = csv.reader(csvfile, delimiter=';', quotechar='"')
     for row in deputes:
-        if row[0] == sys.argv[3] or not depute:
+        if row[0] == sys.argv[3]:
             depute = row
+            break
 
+if not depute:
+    raise Exception("Ligne %s introuvable" % sys.argv[3])
+
+# 0   1   2    3    4       5          6         7       8         9       10        11        12        13
+# num;nom;slug;sexe;adresse;date_refus;doc_refus;demande;bordereau;cada_no;avis_cada;date_cada;lar_envoi;lar_reception
 
 data = {"depute": depute[1],
         "depute_adresse": depute[4],
-        "cada_no": depute[8],
-        "cada_date": depute[10],
-        "refus_date": depute[7] if depute[7] != 'NONE' else None,
-        "lar_envoi": depute[11] if depute[11] != 'NONE' else None,
-        "lar_reception": depute[12] if depute[12] != 'NONE' else None}
+        "cada_no": depute[9],
+        "cada_date": depute[11],
+        "refus_date": depute[5] if depute[5] != '' else None,
+        "lar_envoi": depute[12] if depute[12] != 'NONE' else None,
+        "lar_reception": depute[13] if depute[13] != 'NONE' else None}
 
 env = Environment(loader=FileSystemLoader("."))
 
 template = env.get_template(sys.argv[1])
-print template.render(data)
+rendered = template.render(data)
+
+if not len(rendered):
+    raise Exception("Rendu vide O_o")
+
+with open(sys.argv[4], "w") as output:
+    output.write(rendered)

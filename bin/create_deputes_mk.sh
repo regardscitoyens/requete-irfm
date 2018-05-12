@@ -18,14 +18,15 @@ cat $1 | while read line; do
   slug=${TOKENS[2]}
   sexe=${TOKENS[3]}
   adresse=${TOKENS[4]}
-  refus=${TOKENS[5]}
-  demande=${TOKENS[6]}
-  bordereau=${TOKENS[7]}
-  cada_no=${TOKENS[8]}
-  avis_cada=${TOKENS[9]}
-  date_cada=${TOKENS[10]}
-  lar_envoi=${TOKENS[11]}
-  lar_reception=${TOKENS[12]}
+  date_refus=${TOKENS[5]}
+  doc_refus=${TOKENS[6]}
+  demande=${TOKENS[7]}
+  bordereau=${TOKENS[8]}
+  cada_no=${TOKENS[9]}
+  avis_cada=${TOKENS[10]}
+  date_cada=${TOKENS[11]}
+  lar_envoi=${TOKENS[12]}
+  lar_reception=${TOKENS[13]}
 
   dir=requetes-ta/requete-ta-$num-$slug
 
@@ -39,16 +40,19 @@ cat $1 | while read line; do
   echo "# $nom"
   echo ""
   echo "$dir/00-requete.md: sources/requete-ta.j2 sources/export_irfm.csv bin/create_md.py"
-	echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num > \$@"
+	echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num \$@"
 
   echo "$dir/01-liste-pieces.md: sources/requete-ta-pieces.j2 sources/export_irfm.csv bin/create_md.py"
-  echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num > \$@"
+  echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num \$@"
 
   pieces="fichiers_irfm/$demande"
   if [ "$avis_cada" ]; then
     pieces="$pieces fichiers_irfm/$avis_cada"
   fi
   pieces="$pieces sources/pv-ta.pdf"
+  if [ "$doc_refus" ]; then
+    pieces="$pieces fichiers_irfm/$doc_refus"
+  fi
 
   echo "$dir-00-requete.pdf: $dir/00-requete.pdf"
   echo "	cp \$< \$@"
