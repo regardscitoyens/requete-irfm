@@ -20,13 +20,14 @@ cat $1 | while read line; do
   adresse=${TOKENS[4]}
   date_refus=${TOKENS[5]}
   doc_refus=${TOKENS[6]}
-  demande=${TOKENS[7]}
-  bordereau=${TOKENS[8]}
-  cada_no=${TOKENS[9]}
-  avis_cada=${TOKENS[10]}
-  date_cada=${TOKENS[11]}
-  lar_envoi=${TOKENS[12]}
-  lar_reception=${TOKENS[13]}
+  nb_pages_refus=${TOKENS[7]}
+  demande=${TOKENS[8]}
+  bordereau=${TOKENS[9]}
+  cada_no=${TOKENS[10]}
+  avis_cada=${TOKENS[11]}
+  date_cada=${TOKENS[12]}
+  lar_envoi=${TOKENS[13]}
+  lar_reception=${TOKENS[14]}
 
   dir=requetes-ta/requete-ta-$num-$slug
 
