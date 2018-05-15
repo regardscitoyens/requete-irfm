@@ -58,8 +58,14 @@ cat $1 | while read line; do
   fi
   pieces="$pieces sources/pv-ta.pdf"
 
-  echo "$dir-00-requete.pdf: $dir/00-requete.pdf"
+  echo "$dir-00-requete.pdf: $dir/00-requete-bn-signature.pdf"
   echo "	cp \$< \$@"
+  echo "$dir/00-requete-bn-signature.pdf: $dir/00-requete-bn-11pages.pdf fichiers_irfm/scans/dernierepage_"$num".pdf"
+  echo "	pdftk \$^ cat output \$@"
+  echo "$dir/00-requete-bn-11pages.pdf: $dir/00-requete-bn.pdf"
+  echo "	pdftk \$< cat 1-11 output \$@"
+  echo "$dir/00-requete-bn.pdf: $dir/00-requete.pdf bin/create_deputes_mk.sh"
+  echo "	gs  -sOutputFile=\$@  -sDEVICE=pdfwrite  -sColorConversionStrategy=Gray  -dProcessColorModel=/DeviceGray  -dCompatibilityLevel=1.4  -dNOPAUSE  -dBATCH \$< > /dev/null"
   echo "$dir-01-liste-pieces.pdf: $dir/01-liste-pieces.pdf"
   echo "	cp \$< \$@"
   echo "$dir-02-pieces.pdf: $pieces $dir/01-liste-pieces.bookmarks"
