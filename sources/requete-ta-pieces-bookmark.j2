@@ -1,0 +1,21 @@
+BookmarkBegin
+BookmarkTitle: Demande de communication de documents adressee par e-mail
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Courrier joint a la demande{% if lar_envoi is defined and lar_envoi %} et transmis en LAR{% endif %}
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+{% if refus_date is defined and refus_date %}BookmarkBegin
+BookmarkTitle: Decision de refus de communication des documents
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+{% endif %}BookmarkBegin
+BookmarkTitle: Avis CADA {{ cada_no }}
+BookmarkLevel: 1
+BookmarkPageNumber: {{ nb_pages_refus + 3 }}
+BookmarkBegin
+BookmarkTitle: PV de l'Assemblee Permanente de l'association Regards Citoyens
+BookmarkLevel: 1
+BookmarkPageNumber: {{ nb_pages_refus + 5 }}
+

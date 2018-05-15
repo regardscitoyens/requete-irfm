@@ -44,7 +44,10 @@ cat $1 | while read line; do
 	echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num \$@"
 
   echo "$dir/01-liste-pieces.md: sources/requete-ta-pieces.j2 sources/export_irfm.csv bin/create_md.py"
-  echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num \$@"
+  	echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num \$@"
+
+  echo "$dir/01-liste-pieces.bookmarks: sources/requete-ta-pieces-bookmark.j2 sources/export_irfm.csv bin/create_md.py"
+  	echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num \$@"
 
   pieces="fichiers_irfm/demande-mail-$sexe.pdf fichiers_irfm/$demande"
   if [ "$avis_cada" ]; then
@@ -59,10 +62,12 @@ cat $1 | while read line; do
   echo "	cp \$< \$@"
   echo "$dir-01-liste-pieces.pdf: $dir/01-liste-pieces.pdf"
   echo "	cp \$< \$@"
-  echo "$dir-02-pieces.pdf: $pieces"
-  echo "	gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=\$@ \$^"
-  echo "$dir-joined.pdf: $dir-00-requete.pdf $dir-01-liste-pieces.pdf $dir-02-pieces.pdf"
-  echo "	gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=\$@ \$^"
+  echo "$dir-02-pieces.pdf: $pieces $dir/01-liste-pieces.bookmarks"
+  echo "	gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=\$@ $pieces"
+  echo "$dir-02-pieces.bookmarked.pdf: $dir-02-pieces.pdf $dir/01-liste-pieces.bookmarks"
+  echo "	pdftk $dir-02-pieces.pdf update_info $dir/01-liste-pieces.bookmarks output \$@"
+  echo "$dir-joined.pdf: $dir-00-requete.pdf $dir-01-liste-pieces.pdf $dir-02-pieces.bookmarked.pdf"
+  echo "	gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=\$@ $pieces"
   echo "requetes_ta: $dir-joined.pdf $dir-00-requete.pdf $dir-01-liste-pieces.pdf $dir-02-pieces.pdf"
   echo "requetes_ta.pdf: $dir-joined.pdf"
   echo ""
