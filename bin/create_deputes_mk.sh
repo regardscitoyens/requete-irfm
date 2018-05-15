@@ -50,13 +50,13 @@ cat $1 | while read line; do
   	echo "	\$(PYTHON) bin/create_md.py \$< sources/export_irfm.csv $num \$@"
 
   pieces="fichiers_irfm/demande-mail-$sexe.pdf fichiers_irfm/$demande"
+  if [ "$doc_refus" ]; then
+    pieces="$pieces fichiers_irfm/$doc_refus"
+  fi
   if [ "$avis_cada" ]; then
     pieces="$pieces fichiers_irfm/$avis_cada"
   fi
   pieces="$pieces sources/pv-ta.pdf"
-  if [ "$doc_refus" ]; then
-    pieces="$pieces fichiers_irfm/$doc_refus"
-  fi
 
   echo "$dir-00-requete.pdf: $dir/00-requete.pdf"
   echo "	cp \$< \$@"
